@@ -1,0 +1,398 @@
+
+> [!quote] **Notes by** ~ [SE7EN](https://t.me/Se7en_0007)
+> **Source: Chapter 09 @ Spectrum (Modern History)**
+
+### Socio-Cultural Reform Movements And Their Leaders
+
+#### Raja Rammohan Roy and Brahmo Samaj
+*   **Raja Rammohan Roy (1772–1833)**: "Father of Indian Renaissance" & "Maker of Modern India"
+    *   **Ideology**: Modern scientific approach + human dignity + social equality.
+    *   **Monotheism**: Focus of conviction → published **Gift to Monotheists (1809)**; translated Vedas & 5 Upanishads into Bengali to prove monotheistic basis of ancient texts.
+    *   **Atmiya Sabha (Calcutta, 1814)**: Set up to propagate monotheistic Vedanta & campaign against idolatry, caste rigidities, meaningless rituals.
+    *   **Rationalism**: Declared Vedanta based on reason; departure from scriptures justified if reason demands.
+    *   **Precepts of Jesus (1820)**: Separated moral/philosophical message of New Testament from its miracle stories → provoked wrath of Christian missionaries.
+    *   **Cultural Selection**: Advocacy for selects from Eastern & Western cultures → faced orthodox reaction.
+*   **Brahmo Sabha (August 1828)**: Founded by Roy to institutionalise ideas; later renamed **Brahmo Samaj**
+    *   **Commitment**: Worship of the "Eternal, Unsearchable, Immutable Being who is the Author and Preserver of the Universe".
+    *   **Worship Style**: Prayers, meditation, reading Upanishads; strictly **no images, statues, carvings, paintings** in Samaj buildings (opposition to idolatry).
+    *   **Agenda**: Purify Hinduism & preach monotheism based on **Reason + Vedas + Upanishads**.
+    *   **Orthodox Backlash**: **Raja Radhakant Deb** founded **Dharma Sabha (1830)** to counter Brahmo propaganda.
+    *   **1833**: Death of Roy in Bristol → temporary setback for Samaj.
+*   **Features of Brahmo Samaj**:
+    *   Denounced polytheism & idol worship.
+    *   Discarded faith in divine *avataras* (incarnations).
+    *   Denied that any scripture holds ultimate authority transcending human reason & conscience.
+    *   No definite stand on *karma* & transmigration of soul (left to individual belief).
+    *   Criticised the caste system.
+*   **Efforts at Social Reform**:
+    *   **Anti-Sati Crusade**: Started **1818** → cited sacred texts to prove no religion sanctions burning of widows; visited cremation grounds, organised vigilance groups, filed counter-petitions.
+    *   **Government Regulation of 1829**: Declared Sati a crime.
+    *   **Women's Rights**: Condemned subjugation of women; attacked polygamy & degraded state of widows; demanded right of inheritance & property for women.
+    *   **Modern Education**: Supported **David Hare** to found **Hindu College (1817)**. Roy’s English School taught mechanics & Voltaire's philosophy.
+    *   **Vedanta College (1825)**: Blended Indian learning with Western physical & social sciences.
+    *   **Language**: Compiled Bengali grammar book; evolved modern Bengali elegant prose style.
+    *   **Linguist Profile**: Mastered >12 languages (Sanskrit, Persian, Arabic, English, French, Latin, Greek, Hebrew) to broaden studies.
+    *   **Press & Journalism**: Pioneer in Indian journalism; published journals in Bengali, Hindi, English, Persian to represent public grievances.
+    *   **Political Activism**:
+        *   Condemned oppressive Bengali zamindars; demanded fixation of maximum rents.
+        *   Demanded abolition of taxes on tax-free lands.
+        *   Called for reduction of export duties on Indian goods & abolition of EIC's trading monopoly.
+        *   Demanded Indianisation of superior services & separation of executive from judiciary.
+        *   Demanded judicial equality (Indians vs Europeans) & trial by jury.
+    *   **Internationalism**: Supported Naples & Spanish America revolutions; condemned British oppression of Ireland; threatened emigration from Empire if Reform Bill failed.
+    *   **Key Associates**: David Hare, Alexander Duff, Debendranath Tagore, P.K. Tagore, Chandrashekhar Deb, Tarachand Chakraborty.
+
+#### Debendranath Tagore and Brahmo Samaj
+*   **Maharishi Debendranath Tagore (1817–1905)**: Joined Samaj in **1842**; structured the theist movement.
+    *   **Tattvabodhini Sabha (1839)**: Founded by Tagore; published Bengali organ **Tattvabodhini Patrika** (rational study of India's past, propagated Roy's ideas).
+    *   **Samaj Growth**: Combined Brahmo Samaj + Tattvabodhini Sabha → attracted Derozians & independent thinkers (**Ishwar Chandra Vidyasagar**, **Ashwini Kumar Datta**).
+    *   **Dual Approach**: Reformist within Hinduism vs Resolute opposition to Christian missionary conversions outside.
+    *   **Supported**: Widow remarriage, women's education, abolition of polygamy, ryot upliftment, temperance.
+
+#### Keshab Chandra Sen and The Brahmo Samaj
+*   **Keshab Chandra Sen (1838–84)**: Appointed *acharya* in **1858** by Tagore; expanded Samaj outside Bengal (UP, Punjab, Bombay, Madras).
+*   **First Split in Brahmo Samaj (1866)**:
+    *   *Cause*: Sen's radical views (inclusion of texts from all religions in meetings, strong anti-caste stand, support for inter-caste marriages) vs Tagore’s moderate approach.
+    *   *Outcome*: Sen dismissed as *acharya* in **1865**.
+        *   Sen + followers → **Brahmo Samaj of India (1866)**.
+        *   Tagore's faction → **Adi Brahmo Samaj**.
+*   **Second Split in Brahmo Samaj (1878)**:
+    *   *Cause*: Sen married his 13-year-old daughter to the minor Hindu Maharaja of Cooch-Behar with orthodox rituals (violating his own anti-child-marriage principles); followers accused him of authoritarianism & posing as an incarnation.
+    *   *Outcome*: Progressive followers broke away to found **Sadharan Brahmo Samaj (1878)**.
+        *   **Sadharan Brahmo Samaj Founders**: Ananda Mohan Bose, Sib Chandra Deb, Umeshchandra Dutta.
+        *   **Doctrine**: Faith in one Supreme God, scriptural/human fallibility, reason, truth, morality.
+*   **Spread & Significance of Brahmo Samaj**:
+    *   Implanted Brahmo ideas in Punjab via **Dayal Singh Trust** → founded **Dayal Singh College (Lahore, 1910)**.
+    *   Attacked dogmas, superstitions, sea-voyage taboos.
+    *   Fought for women (condemned Sati, Purdah; opposed child marriage, polygamy; supported widow remarriage & girls' education).
+    *   *Limitation*: Attained limited success in casteism/untouchability; influence did not spread much beyond Calcutta & Bengal.
+
+#### Prarthana Samaj
+*   **Foundation (1867)**: Founded in Bombay by **Atmaram Pandurang** with help of Keshab Chandra Sen.
+    *   **Precursor**: **Paramahansa Sabha** (secret society to break caste/communal barriers).
+*   **Key Leaders**:
+    *   **Mahadeo Govind Ranade (1842–1901)**: Joined **1870**; popularised Samaj to gain all-India character.
+    *   **R.G. Bhandarkar (1837–1925)** & **N.G. Chandavarkar (1855–1923)**.
+*   **Ideology & Approach**:
+    *   Based on monotheism; more concerned with social reform than theology.
+    *   Deeply attached to the **Bhakti cult** of Maharashtra.
+    *   Relied on education and gradual persuasion; avoided open confrontation with Hindu orthodoxy.
+*   **4-Point Social Agenda**:
+    1.  Disapproval of the caste system.
+    2.  Women’s education.
+    3.  Widow remarriage.
+    4.  Raising the age of marriage for males & females.
+*   **Reforms & Institutions**:
+    *   **Dhondo Keshav Karve** & **Vishnu Shastri** worked with Ranade.
+    *   Ranade & Karve founded **Widow Remarriage Movement** & **Widows' Home Association** (education & training for widow self-reliance).
+
+#### Young Bengal Movement and Henry Vivian Derozio
+*   **Origin (Late 1820s–Early 1830s)**: Radical, intellectual youth trend in Bengal.
+*   **Leader**: **Henry Vivian Derozio (1809–31)**; Anglo-Indian teacher at Hindu College (1826–1831).
+    *   **Inspiration**: French Revolution → promoted free thought, rationality, liberty, equality, opposition to decadent traditions.
+    *   **Nationalist Poetry**: First nationalist poet of modern India.
+*   **Demands**: Higher public service jobs for Indians, protection of ryots from zamindars, better treatment of Indian labor in British colonies, revision of EIC Charter, press freedom, jury trials.
+*   **Failure & Constraints**:
+    *   Derozio dismissed from Hindu College in **1831** due to radicalism.
+    *   No support from other social groups; lacked links with the masses/peasants (radicalism was bookish).
+    *   Social conditions unripe for extreme radical ideas.
+*   **Legacy**: Surendranath Banerjea hailed them as "pioneers of modern civilisation of Bengal".
+
+#### Ishwar Chandra Vidyasagar
+*   **Profile**: Great scholar & Principal of **Sanskrit College (1850)**; blend of Indian & Western thought.
+*   **Academic Innovations**:
+    *   Opened Sanskrit College to **non-brahmins** (broke priestly monopoly of scriptural knowledge).
+    *   Introduced Western thought to end self-imposed isolation of Sanskritic learning.
+    *   Evolved new Sanskrit teaching methodology, Bengali primer, and modern Bengali prose style.
+*   **Social Reform Campaign**:
+    *   Sustained movement for widow remarriage → led to the **legalisation of widow remarriage (1856)**.
+    *   Crusaded against child marriage & polygamy.
+*   **Women's Education**:
+    *   As school inspector, organised **35 girls' schools** (ran many at own expense).
+    *   Served as secretary of **Bethune School (founded 1849 in Calcutta)**; pioneer of female higher education amidst severe orthodox abuse and parental boycotts.
+
+#### Balshastri Jambhekar
+*   **Profile (1812–46)**: Pioneer of Marathi journalism; attacked brahminical orthodoxy.
+*   **Publications**:
+    *   **Darpan (1832)**: First weekly Marathi newspaper (known as "Father of Marathi Journalism"); propagated widow remarriage & scientific approach.
+    *   **Digdarshan (1840)**: Monthly journal focusing on history & scientific subjects.
+*   **Institutions**: Founded **Bombay Native General Library** & **Native Improvement Society** (offshoot: **Students Literary and Scientific Library**).
+*   **Other Roles**: First professor of Hindi at Elphinstone College, Director of Colaba Observatory.
+
+#### Paramahansa Mandali
+*   **Foundation (1849)**: Secret reform society in Maharashtra founded by **Dadoba Pandurang**, **Mehtaji Durgaram**, etc.
+    *   **Ideology**: Monotheism, love, moral conduct, rationality, free thought. Linked to Manav Dharma Sabha.
+    *   **Primary Objective**: Demolish caste barriers.
+        *   *Practice*: Members ate food prepared by lower-caste cooks at meetings.
+    *   **Advocacy**: Widow remarriage & women's education.
+    *   **Spread**: Branches in Poona, Satara, and other Maharashtra towns.
+
+#### Jyotirao Phule and Savitribai Phule
+*   **Jyotirao (Jyotiba) Phule (1827–90)**: Satara-born, Mali (gardener) community; crusader against Brahminical supremacy.
+    *   **Satyashodhak Samaj (1873)**: Founded to unite backward classes (Malis, Telis, Kunbis, Saris, Dhangars).
+    *   **Aims**: Social service + education for women & lower castes; demanded social *transformation*, not mere reform.
+    *   **Dalit Identity**: Credited with introducing the Marathi word **Dalit** ("crushed") for out-castes.
+    *   **Satyashodhak Marriage**: Simple, cheap, dispensed with Brahmin priest services.
+    *   **Literary Works**: **Sarvajanik Satyadharma** & **Gulamgiri** (Grounded in symbol of Rajah Bali vs Brahminical Rama).
+    *   **Title**: Crowned **Mahatma (1888)** by Vithalrao Krishnaji Vandekar.
+*   **Savitribai Phule (1831–97)**:Satara-born, Mali community; married at age 9.
+    *   Taught by Jyotiba at home; completed teacher's training; braved physical/verbal abuse to teach.
+    *   **Educational Outreach**: Taught girls, Mangs, Mahars; co-founded **Native Female School, Pune** & **Society for Promoting the Education of Mahars, Mangs, and others**.
+    *   **Mahila Seva Mandal**: Created to raise awareness of women's rights.
+    *   **Anti-Widow Exploitation**: Organized barbers' strike against shaving widows' heads.
+    *   **Balhatya Pratibandhak Griha (1863)**: Safe delivery home for unwed mothers & pregnant widows to prevent infanticide.
+    *   **Anti-Untouchability**: Opened family water storage tank to all castes.
+    *   **Death**: Led Satyashodhak Samaj after Jyotiba's death; died in **1897** of plague contracted while caring for plague patients.
+    *   **Literary Work**: Poetry collections **Kavyaphule** & **Bavankashi Subodh Ratnakar**.
+    *   **Legacy**: University of Pune renamed **Savitribai Phule Pune University (2014)**.
+
+#### Gopal Baba Walangkar
+*   **Profile (c. 1840–1900)**: Military retiree (1886), Mahar community; identified by Ambedkar as pioneer of Dalit movement.
+    *   **Aryan Invasion Theory**: Subscribed to Phule's theory → argued untouchables were indigenous inhabitants subjugated by invading Aryan Brahmins via contrived caste structures.
+    *   **Empowerment Actions**:
+        *   Formed group of Mahar astrologers to break Brahmin monopoly on setting ceremonial times.
+        *   Founded **Anarya Dosh-Parihar Mandali** (Society for Removal of Evils among Non-Aryans) → petitioned against discontinuation of Mahar army recruitment.
+    *   **Publications**:
+        *   **Vital Vidhvansak (1888)**: First monthly Dalit journal ("Destroyer of Brahmanical Pollution").
+        *   **Vital Viduvansan (1889)**: Pamphlet against untouchability.
+        *   **Hindu Dharma Darpan (1894)**.
+    *   **Articles**: Contributed to journals *Sudharak* and *Deenbandhu*.
+    *   **Political Conflict**: Appointed to local taluk board of Mahad (1895) under intense upper-caste opposition.
+
+#### Kisan Faguji Bansod
+*   **Profile (1879–1946)**: Mahar reformer from Mohapa near Nagpur.
+    *   **Education**: Dedicated to educating Dalit girls/boys; founded **Chokhamela girls' school** in Nagpur.
+    *   **Publications**: Established own press in **1910**; published journals **Nirashrit Hind Nagarik**, **Vital Vidhvansak**, and **Majur Patrika**.
+    *   **All India Depressed Classes Conference (1920)**: Served as secretary.
+    *   **Ideology**: Blended Bhakti cult, Brahmo Samaj, and Prarthana Samaj; supported Aryan invasion theory but sought reform *within* Hinduism.
+
+#### Vitthal Ramji Shinde
+*   **Maharshi Vitthal Ramji Shinde (1873–1944)**: Prarthana Samaj reformer.
+    *   **Education Initiatives**: night school for untouchables in Pune (**1905**).
+    *   **Depressed Classes Mission (Bombay, 1906)**: Founded to eradicate untouchability, provide education, and solve Dalit grievances.
+    *   **Political Advocacy**: Gave evidence to **Southborough Franchise Committee (1919)**, demanding special representation for untouchables.
+    *   **United Front Strategy**: Opposed division of depressed classes from caste Hindus (feared British exploit divisions).
+    *   **Religious Reforms**: Opposed caste, idol worship, gender inequality, hereditary priesthood, and mediation of priests.
+    *   **Literary Work**: Author of **Bharatiya Asprushyatecha Prashna**. Imprisoned during Civil Disobedience Movement in Yerawda Jail.
+
+#### Gopalhari Deshmukh ‘Lokahitawadi’
+*   **Profile (1823–92)**: Judge under British, wrote weekly **Prabhakar** under pen name **Lokahitawadi**.
+    *   **Ideology**: Rational reorganisaton of society based on modern, secular, humanistic values.
+    *   **Quote**: "If religion does not sanction social reform, then change religion."
+    *   **Journals**: Started weekly **Hitechhu**; co-founded **Gyan Prakash**, **Indu Prakash**, **Lokahitawadi**.
+
+#### Gopal Ganesh Agarkar
+*   **Profile (1856–95)**: Rationalist educationist from Maharashtra.
+    *   **Philosophy**: Human reason over blind reliance on tradition/past glorification.
+    *   **Institutions**: Co-founder of **New English School**, **Deccan Education Society**, **Fergusson College** (served as Principal).
+    *   **Journals**: First editor of Tilak's **Kesari**; later started his own periodical **Sudharak** to attack casteism & untouchability.
+
+#### The Servants of India Society
+*   **Foundation (1905)**: Founded by Congress liberal leader **Gopal Krishna Gokhale** with help of M.G. Ranade.
+    *   **Objectives**: Train national missionaries for service of India; promote public interests through constitutional means; prepare a cadre of selfless workers.
+    *   **Organ**: **Hitavada (1911)**.
+    *   **Stand**: Remained aloof from political organizations like the INC.
+    *   **Post-1915**: **Srinivasa Shastri** succeeded Gokhale as President. Focuses on tribal ashram schools & balwadis.
+
+#### Social Service League
+*   **Foundation**: Founded in Bombay by **Narayan Malhar Joshi** (Gokhale's follower).
+    *   **Objectives**: Secure reasonable life/work conditions for masses.
+    *   **Work**: Set up schools, nurseries, libraries, coop societies, legal aid, slum excursions, gymnasia, boys' clubs.
+    *   **Labor Movement**: Joshi founded **All India Trade Union Congress (AITUC, 1920)**.
+
+#### The Ramakrishna Movement and Swami Vivekananda
+*   **Ramakrishna Paramahamsa (1836–86)**: Priest at Dakshineshwar Kali temple (original name: Gadadhar Chattopadhyay).
+    *   **Teachings**: Delivered in parables & metaphors; focused on spiritual ecstasy, bhakti, and yoga.
+    *   **Oneness of God**: "As many faiths, so many paths"; "Service of man is the service of God".
+    *   **Sarada Devi**: Wife, revered as 'Holy Mother' by disciples; drove the work of the math.
+    *   **Dual Objectives of Movement**:
+        1.  Establish a band of dedicated, ascetic monks (fulfilled by **Ramakrishna Math**).
+        2.  Conduct charitable/philanthropic work for all regardless of caste or creed (fulfilled by Ramakrishna Mission).
+*   **Swami Vivekananda (Narendranath Datta) (1862–1902)**: Reconciled spiritual message to needs of contemporary society; preacher of **Neo-Hinduism**.
+    *   **Philosophy**: Rational Vedanta; bridged spirituality with day-to-day behavior (*vyavahara*).
+    *   **Hindu-Muslim Synthesis**: "For our own motherland a junction of the two great systems, Hinduism and Islam, is the only hope."
+    *   **Social Action**: Proclaimed knowledge without action useless; condemned untouchability ("touch-me-not" attitude) and priest exploitation.
+    *   **Mass Uplift**: Argued starving men need **secular knowledge** (for economic uplift) + **spiritual knowledge** (for moral strength).
+    *   **Chicago Parliament of Religions (1893)**: Infused Eastern spiritualism with Western materialism.
+    *   **Ramakrishna Mission (1897)**: Founded by Vivekananda at Belur near Calcutta.
+        *   *Difference from Arya Samaj*: Recognises utility of image worship in developing spiritual fervor.
+        *   *Stand*: Worldwide, religious, non-sectarian, non-proselytising body.
+    *   **Subash Chandra Bose quote**: "Vivekananda may be regarded as the spiritual father of the modern nationalist movement."
+
+#### Dayananda Saraswati and Arya Samaj
+*   **Dayananda Saraswati (Mulshankar) (1824–83)**: Gujarat-born Brahmin; wandering ascetic (1845–60); taught by blind Swami Virajananda (Mathura).
+*   **Arya Samaj (1875)**: Formally set up in **Bombay**; headquarters later shifted to **Lahore**.
+    *   **Satyarth Prakash**: His seminal work.
+    *   **Vision**: Casteless, classless, united India free of foreign rule; common Aryan religion.
+    *   **Vedic Infallibility**: Slogan **"Back to the Vedas"** (call for revival of Vedic learning & purity, not revival of Vedic times).
+    *   **Rejected Conceptions**: Rejected *Maya* (illusion) as escapism; rejected *Niyati* (destiny) determining social contributor status. Accepted *Karma* & reincarnation.
+    *   **Social Reform Campaigns**: Frontal attack on idolatry, polytheism, caste by birth, untouchability, animal sacrifices, sea-voyage taboo, *shraddha* feeding.
+    *   **Chaturvarna**: Merit & occupation-based caste division, not by birth.
+    *   **Age of Marriage**: Fixed minimum age at **25 for boys** and **16 for girls**.
+*   **Ten Guiding Principles**: God is source of true knowledge; Vedas are books of truth; Dharma is the guide; promote material/spiritual world well-being; love & justice; dispel ignorance.
+*   **Arya Samaj Split (1893)**:
+    *   **College Party (Culture Party)**: Led by **Lala Hansraj**, **Lala Lal Chand**, **Lala Lajpat Rai**.
+        *   *Stance*: Favoured government curriculum + English education; dietary choices personal (not strictly vegetarian).
+        *   *Outcome*: Kept control of **Dayananda Anglo-Vedic (D.A.V.) School & College (est. 1886 at Lahore)**.
+    *   **Mahatma Party (Gurukul Party)**: Led by **Guru Datta Vidyarthi** & **Lala Munshi Ram (Swami Shraddhanand)**.
+        *   *Stance*: Opposed government curriculum; introduced Sanskrit & Vedic studies in Gurukul tradition; advocated strict vegetarianism.
+        *   *Outcome*: Left D.A.V.; founded **Gurukul at Gujranwala (1900)**, moved to Haridwar in 1902 as **Gurukul Kangri**.
+        *   *Reforms*: Founded **Kanya Mahavidyalaya (1896)** at Jalandhar; sponsored widow education.
+*   **Shuddhi Movement**: Started by Samaj to purify and reconvert converts of Islam & Christianity back to Hinduism; led to increasing communalization of social and political life in the 1920s.
+
+#### Seva Sadan
+*   **Foundation (1908)**: Founded by Parsi reformer **Behramji M. Malabari (1853–1912)** & **Diwan Dayaram Gidumal**.
+    *   **Campaigns**: Strongly opposed child marriage; advocated widow remarriage; prompted the **Age of Consent Act**.
+    *   **Media**: Malabari edited **Indian Spectator**.
+    *   **Work**: Destitute, exploited, and discarded women provided education, medical, & welfare services irrespective of caste.
+
+#### Dev Samaj
+*   **Foundation (1887)**: Founded at Lahore by **Shiv Narayan Agnihotri (1850–1927)** (former Brahmo).
+    *   **Doctrine**: Eternity of soul, supremacy of guru, necessity of moral action.
+    *   **Rules**: Avoid bribes, intoxicants, meat, and violent actions.
+    *   **Literary Source**: **Deva Shastra**. Opposed child marriage.
+
+#### Dharma Sabha
+*   **Foundation (1830)**: Founded by **Radhakant Deb**.
+    *   **Objective**: Orthodox preservation of socio-religious status quo (opposed abolition of Sati); however, actively favoured Western education for girls.
+
+#### Bharat Dharma Mahamandala
+*   **Origin**: Orthodox defense against Arya Samaj, Theosophists, and Ramakrishna Mission.
+    *   **Consolidation (1902)**: Merged **Sanatana Dharma Sabha (1895)**, **Dharma Maha Parishad** (South), and **Dharma Mahamandali** (Bengal) into a single body at **Varanasi**.
+    *   **Leader**: **Pandit Madan Mohan Malaviya**.
+
+#### Radhaswami Movement
+*   **Foundation (1861)**: Founded by Agra banker **Tulsi Ram** (alias **Shiv Dayal Saheb**).
+    *   **Beliefs**: One Supreme Being, supremacy of guru, company of pious people (*satsang*), simple social life.
+    *   **Asceticism**: No renunciation required. No temples or shrines; focus on faith, charity, and prayer.
+
+#### Sree Narayana Guru Dharma Paripalana (SNDP) Movement
+*   **Genesis**: Conflict between lower castes & upper castes in Kerala.
+*   **Ezhavas**: Kerala’s largest caste (26% population); untouchable toddy-tappers denied school admission and temple entry.
+*   **Aruvippuram Movement (1888)**: **Sree Narayana Guru Swamy (1856–1928)** consecrated a Sivalinga from Neyyar river at Aruvippuram on Sivaratri → proved temple consecration not a Brahmin monopoly.
+*   **SNDP Yogam (1903)**:
+    *   **Aruvippuram Kshetra Yogam (1889)** expanded into SNDP Yogam (registered 1903) under Indian Companies Act.
+    *   **Permanent Chairman**: Sree Narayana Guru.
+    *   **General Secretary**: Poet **Kumaran Asan**.
+    *   **Key Strategist**: **Dr Palpu** (led Ezhava Memorial & Malayali Memorial).
+*   **Motto & Teachings**: "Devoid of dividing walls of caste or race, or hatred of rival faith, we all live here in brotherhood." Condemned animal sacrifice & toddy-tapping.
+*   **SNDP Demands**: Admission to public schools, recruitment to government services, road access, temple entry, political representation.
+
+#### Vokkaliga Sangha
+*   **Foundation (1905)**: Anti-Brahmin movement launched in Mysore.
+
+#### Justice Movement
+*   **Foundation**: Started in Madras Presidency by **C.N. Mudaliar**, **T.M. Nair**, and **P. Tyagaraja**.
+    *   **Objective**: Secure representation and public jobs for non-Brahmins.
+    *   **Madras Presidency Association (1917)**: Demanded separate legislative representation for lower castes.
+
+#### Self-Respect Movement
+*   **Foundation (Mid-1920s)**: Started by **E.V. Ramaswamy Naicker (Periyar)**.
+    *   **Objective**: Rejection of Brahminical religion & culture; promoted marriages without Brahmin priests.
+
+#### Temple Entry Movement
+*   **Pre-Campaign**: Sree Narayana Guru & Kumaran Asan initialized; **T.K. Madhavan** (editor of *Deshabhimani*) petitioned Travancore.
+*   **Vaikom Satyagraha (1924)**: Kerala campaign led by **K.P. Kesava** demanding temple & road access for untouchables; reinforced by jathas from Punjab/Madurai & Gandhi's tour.
+*   **Guruvayur Satyagraha (1931)**: Led by **Subramaniyam Tirumambu** (the "Singing Sword of Kerala") with **P. Krishna Pillai** & **A.K. Gopalan** under inspiration of **K. Kelappan**.
+*   **Proclamations**:
+    *   **November 12, 1936**: Maharaja of Travancore opened government-controlled temples to all Hindus.
+    *   **1938**: C. Rajagopalachari administration implemented the same in Madras.
+
+#### Indian Social Conference
+*   **Foundation**: Founded by **M.G. Ranade** and **Raghunath Rao**.
+    *   **Modus Operandi**: Met annually parallel to INC sessions since **1887 (first session Madras)**; served as "social reform cell" of INC.
+    *   **Agenda**: Advocated inter-caste marriages; opposed polygamy & Kulinism.
+    *   **Pledge Movement**: Inspired vows against child marriage.
+
+#### Wahabi/Walliullah Movement
+*   **Nature**: Revivalist response to Western influence; started by **Shah Walliullah (1702–63)** (inspired by Abdul Wahab of Arabia).
+    *   **Objectives**:
+        1.  Integrate the best elements of the four schools of Muslim jurisprudence.
+        2.  Acknowledge individual conscience in interpreting Quran & Hadis.
+    *   **Popularisers**: **Shah Abdul Aziz** & **Syed Ahmad Barelvi** (provided political outlook).
+    *   **Stance**: Pure Islam of Prophet's Arabia; declared India **Dar-ul-Harb** (land of kafirs) needing conversion to **Dar-ul-Islam**.
+    *   **Conflict**: Directed first against Sikhs in Punjab, then against British post-1849 annexation. Played major role in 1857; crushed by British military in the 1870s.
+
+#### Titu Mir’s Movement
+*   **Leader**: **Syed Mir Nisar Ali (Titu Mir)**; disciple of Syed Ahmad Barelvi.
+    *   **Target**: Organised Muslim peasants of Bengal against Hindu landlords & British indigo planters.
+    *   **Outcome**: Militant confrontation with police; Titu Mir killed in action (**1831**).
+
+#### Faraizi Movement
+*   **Foundation (1819)**: Founded by **Haji Shariatullah** in East Bengal to eradicate un-Islamic innovations (*Fara'idi* = Islamic pillars of faith).
+*   **Dudu Mian’s Leadership (1840 onwards)**:
+    *   Became revolutionary; structured a village-to-province organizational hierarchy under *Khalifas*.
+    *   Formed club-armed paramilitary force to fight Hindu/Muslim landlords & indigo planters.
+    *   Set up law courts & forbade rent payment.
+    *   *Decline*: Dudu Mian arrested in 1847; died 1862 → survived only as minor religious sect.
+
+#### Ahmadiyya Movement
+*   **Foundation (1889)**: Founded by **Mirza Ghulam Ahmad**.
+    *   **Principles**: Liberal sect; opposed *Jihad*; promoted Western education among Muslims; separated Mosque from State.
+    *   **Messianism**: Ghulam Ahmad declared the Messiah to end bloodshed; suffered from mysticism.
+
+#### Sir Syed Ahmed Khan and The Aligarh Movement
+*   **Syed Ahmed Khan (1817–98)**: Judicial officer, retirement (1876), MLC (1878), knighted (1888).
+    *   **Ideology**: Reconciled Western science with Quran (held Quran as ultimate but interpreted via reason/science); argued religious tenets must adapt to time.
+    *   **Institutions**: Opened schools; translated works into Urdu; founded **Mohammedan Anglo-Oriental College (1875)** at Aligarh (became Aligarh Muslim University).
+    *   **Social Reform**: Fought for women (opposed purdah, polygamy, easy divorce); condemned *piri-muridi* system.
+    *   **Political Stand**: Preached Hindu-Muslim common interests initially. Advised Muslims to avoid politics and focus on jobs/education to catch up with Hindus; later manipulated by British "divide & rule" policy to propagate separate interests.
+    *   **Journal**: **Tahdhib-ul-Akhlaq** (Improvement of Manners and Morals).
+*   **Aligarh Movement**: Modern, liberal trend among Muslim intelligentsia based at Aligarh College.
+    *   *Aims*: Spread modern education without weakening Islamic allegiance; social reform (purdah, polygamy, widow remarriage, divorce).
+
+#### The Deoband School (Darul Uloom)
+*   **Foundation (1866)**: Revivalist ulema movement at Deoband, Saharanpur.
+    *   **Founders**: **Muhammad Qasim Nanautavi (1832–80)** & **Rashid Ahmad Gangohi (1828–1905)**.
+    *   **Twin Objectives**: Propagate pure Quran/Hadis teachings; keep *Jihad* alive against foreign rulers.
+    *   **Political Stand**: Opposed Aligarh's pro-British alignment; welcomed Indian National Congress; issued a **fatwa (1888)** against Syed Ahmed’s United Patriotic Association.
+    *   **Mahmud-ul-Hasan**: Infused nationalist aspirations into Deoband theology; led to the formation of **Jamiat-ul-Ulema**.
+    *   **Shibli Numani**: Favoured inclusion of English & sciences; founded **Nadwatal Ulama** and **Darul Uloom in Lucknow (1894–96)**; cooperated with Congress.
+
+#### Parsi Reform Movements
+*   **Rahnumai Mazdayasnan Sabha (1851)**: Founded by English-educated Parsis for social regeneration and Zoroastrian purification.
+    *   **Leaders**: **Naoroji Furdonji**, **Dadabhai Naoroji**, **K.R. Cama**, **S.S. Bengalee**.
+    *   **Organ**: **Rast Goftar (Truth-Teller)**.
+    *   **Social Impact**: Opposed purdah; raised marriage age; promoted women's education. Parsis became the most westernized Indian section.
+
+#### Sikh Reform Movements
+*   **Singh Sabha Movement (Amritsar, 1873)**:
+    *   *Objectives*: Provide modern Western education (network of **Khalsa Schools**); counter proselytizing by Christian missionaries, Brahmos, Aryas, and Muslim maulvis.
+*   **Akali Movement (Gurudwara Reform Movement)**: Offshoot of Singh Sabha.
+    *   *Objective*: Liberate Gurudwaras from corrupt, hereditary, pro-government **Udasi Mahants**.
+    *   *Method*: Launched non-violent satyagraha (**1921**).
+    *   *Result*: **Sikh Gurudwaras Act 1922 (amended 1925)** → control of Gurudwaras handed to Sikh masses via the **Shiromani Gurudwara Prabandhak Committee (SGPC)** as the apex body.
+
+#### The Theosophical Movement
+*   **Foundation (New York, 1875)**: Founded by **Madame H.P. Blavatsky (1831–91)** & **Colonel M.S. Olcott**.
+    *   **Headquarters**: Shifted to **Adyar (Madras, 1882)**.
+    *   **Doctrine**: Contemplation and yoga; accepted Hindu beliefs in *Karma* and reincarnation; drew from Upanishads, Samkhya, Yoga, and Vedanta.
+*   **Annie Besant (1847–1933)**: President in **1907** (arrived in India 1893).
+    *   **Central Hindu College (Benares, 1898)**: Founded by Besant; became nucleus of **Benares Hindu University (1916)**.
+*   **Significance & Limitations**:
+    *   Opposed child marriage; supported widow upliftment and anti-caste efforts.
+    *   Gave western-backed self-respect to Indians, but also fostered a false sense of pride in outdated/backward traditions.
+    *   *Limitation*: Ideas too vague for average Indians; restricted to small westernized class.
+
+---
+
+### Significance Of Reform Movements
+
+#### Positive Aspects
+*   **Individual Liberation**: Freed individuals from fear-based religious conformity and blind priestly exploitation.
+*   **Personalization of Worship**: Translation of scriptures into vernacular languages & individual interpretation simplified rituals.
+*   **Intellectual Appeal**: Emphasised reason and human intellect over blind faith.
+*   **Answering Decadence**: Purged corrupt practices, enabling Indians to counter colonial taunts of cultural inferiority.
+*   **Cultural Roots**: Provided the rising middle class with cultural roots, mitigating foreign conquest humiliation.
+*   **Modernization vs Westernization**: Promoted modern, secular, rational outlooks (changing "purity/pollution" views) without outright blind imitation of Western culture.
+*   **National Consciousness**: Integrated modern ideas into native cultural streams, laying ideological foundations to resist colonial hegemony.
+
+#### Negative Aspects
+*   **Narrow Social Base**: Confined to urban, educated middle classes; completely bypassed vast masses of peasants and urban poor.
+*   **Sidetracked Science**: Reliance on past scriptural authority encouraged mysticism in new garbs, checkmating pure scientific outlooks.
+*   **Social Compartmentalization**: Fostered divisions among Hindus, Muslims, Sikhs, and Parsis, and alienated low-castes from high-castes.
+*   **Philosophy Over Art**: Overemphasised religious philosophy; underemphasised secular culture (art, music, technology, architecture).
+*   **Divided History & Communalism**:
+    *   Hindu reformers praised ancient India but depicted the medieval period as decadent.
+    *   Muslim middle classes turned to West Asian history for their proud traditions.
+    *   Result: Created a "two separate peoples" notion, arresting composite culture and breeding **communal consciousness** alongside national consciousness.

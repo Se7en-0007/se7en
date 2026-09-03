@@ -1,0 +1,242 @@
+
+> [!quote] **Notes by** ~ [SE7EN](https://t.me/Se7en_0007)
+> **Source: Chapter 17 @ Spectrum (Modern History)**
+
+### Swarajists And No-Changers
+
+*   **Genesis of Congress-Khilafat Swarajya Party**
+    *   **Gandhi’s Arrest (March 1922)** → Disintegration, disorganisation, and demoralisation in nationalist ranks.
+    *   **Passive Phase Dilemma**: Debate on political course during the movement's transition period.
+    *   **Swarajists**: Led by **C.R. Das**, **Motilal Nehru**, and **Ajmal Khan**.
+        *   **Strategy**: End boycott of legislative councils → Enter assemblies to expose basic weaknesses → Arouse popular enthusiasm.
+        *   **Motto**: **"End or mend"** the councils → Consistent obstruction if demands are rejected.
+    *   **No-Changers**: Led by **C. Rajagopalachari**, **Vallabhbhai Patel**, **Rajendra Prasad**, and **M.A. Ansari**.
+        *   **Strategy**: Oppose council entry, focus on **constructive work**, continue boycott/non-cooperation, prepare for civil disobedience resumption.
+    *   **Gaya Congress (December 1922)**: Swarajist "ending or mending" proposal defeated.
+    *   **The Split**: **C.R. Das** (President) & **Motilal Nehru** (Secretary) resigned from Congress → Formed **Congress-Khilafat Swarajya Party** (Swarajist Party).
+
+---
+
+### Swarajists’ Arguments
+
+*   **Extension of Non-Cooperation**: Council entry was carrying on the movement through other means (opening a new front).
+*   **Mass Morale**: Legislative activity would enthuse the masses and fill the political vacuum.
+*   **Pre-empting Puppet Legislatures**: Nationalists' entry would prevent the Government from stuffing councils with undesirable elements to gain dummy legitimacy.
+*   **Political Arena**: Councils used strictly for struggle, not for gradual constitutional transition under colonial rule.
+
+---
+
+### No-Changers’ Arguments
+
+*   **Decline of Zeal**: Parliamentary work → Neglect of constructive work + loss of revolutionary fervor + political corruption.
+*   **Mass Mobilization**: Constructive work is the only path to prepare the masses for the next wave of active civil disobedience.
+
+---
+
+### Agree to Disagree
+
+*   **Lessons of 1907**: Both factions sought to avoid a repeat of the **Surat Split** and remained in contact with jailed Gandhi.
+*   **United Front**: Mutual realization that mass mobilization and Gandhi's leadership were indispensable to force colonial reforms.
+*   **Delhi Meeting (September 1923)** → Compromise reached:
+    *   Swarajists permitted to contest elections as a distinct group within the Congress.
+    - Swarajists accepted the broader Congress programme, differing only on council entry.
+    - Elections set for **November 1923**.
+
+---
+
+### The Swarajist Manifesto for Elections
+
+*   **Release Date**: **October 1923** (Anti-imperialist stance).
+*   **Core Tenets**:
+    *   British administration driven purely by selfish imperial interests.
+    *   Reforms = A blind to continue exploitation and keep Indians permanently subservient.
+    *   **Action Plan**: Present demands for self-government in councils → If rejected, adopt **uniform, continuous, and consistent obstruction** → Wreck councils from within via deadlocks on all measures.
+
+---
+
+### Gandhi’s Attitude
+
+*   **Initial Stance**: Strongly opposed to council entry.
+*   **Reconciliation (Post-release, February 1924 on health grounds)** ← Motivated by:
+    *   Direct opposition to Swarajists would be counterproductive.
+    *   **Electoral Success**: Swarajists won **42 out of 141 elected seats** in Central Legislative Assembly; clear majority in **Central Provinces**; formed coalitions with Liberals and independents (**Jinnah**, **Malaviya**).
+    *   Their uncompromising conduct proved they would not become administrative puppets.
+    *   Late 1924 Government crackdown on revolutionaries and Swarajists → Gandhi declared solidarity by surrendering to Swarajist terms.
+*   **Belgaum Session (December 1924)**: Gandhi presided (only time) → Endorsed Swarajists working in councils as an integral wing of Congress.
+
+---
+
+### Swarajist Activity in Councils
+
+*   **Decline & Split Factors (Post-1925)**:
+    *   Widespread communal riots and entry of communal elements into the party.
+    *   Government strategy to divide militant and moderate factions, and Hindus from Muslims.
+    *   Agrarian backlash: Swarajists failed to support the tenants' cause against zamindars in Bengal → Lost support of Muslim members (mostly tenants).
+    *   Demise of **C.R. Das (June 1925)** shattered party unity.
+    *   **Responsivists** (**Lala Lajpat Rai**, **Madan Mohan Malaviya**, **N.C. Kelkar**): Advocated cooperation with the Government, holding office, and protecting "Hindu interests".
+    *   Mutual communal accusations (Motilal Nehru accused of being anti-Hindu; Swarajists accused of being anti-Muslim).
+*   **Withdrawal (March 1926)**: Main Swarajist leadership reiterated faith in mass civil disobedience and walked out of legislatures.
+*   **1926 Elections**: Disarrayed party routed in UP, CP, and Punjab; won 40 seats in Centre and some in Madras.
+*   **Final Exit (1930)**: Complete walkout following the **Lahore Congress resolution on Purna Swaraj** and launch of **Civil Disobedience**.
+
+*   **Achievements**
+    *   Out-voted the government repeatedly on budget grants and passed adjournment motions with coalition partners.
+    *   Powerful legislative advocacy for self-government, civil liberties, and industrialisation.
+    *   **Vithalbhai Patel elected Speaker** of the Central Legislative Assembly in **1925**.
+    *   **Defeated the Public Safety Bill (1928)**: Wrecked Government's plan to deport foreign communist/socialist activists sent by the Comintern.
+    *   Successfully filled the political vacuum during the national movement's passive phase.
+    *   Exposed the structural hollows of the **Montford Scheme (1919)**.
+
+*   **Drawbacks**
+    *   Lacked coordination between legislative militancy and mass struggles outside (over-reliant on newspaper reporting).
+    *   Obstructionist strategy had natural systemic limitations.
+    *   Coalition vulnerability: Could not sustain partnerships due to conflicting ideologies.
+    *   Failed to resist the perks, privileges, and lure of official offices.
+    *   Lost Muslim agrarian support by siding with Bengal zamindars.
+
+---
+
+### Constructive Work by No-Changers
+
+*   **Key Operations**:
+    *   **Ashrams**: Set up in tribal and lower-caste areas (especially **Kheda and Bardoli in Gujarat**) → Popularised the charkha and khadi.
+    *   **National Education**: Schools/colleges established outside the colonial ideological framework.
+    *   **Social Reform**: Campaigns for Hindu-Muslim unity, untouchability removal, boycott of foreign cloth/liquor, and flood relief.
+    *   **Backbone of Movement**: Constructive workers became the active organizational cadre for the next civil disobedience phase.
+
+*   **A Critique of Constructive Work**
+    *   **Class Limitation**: National education primarily benefited urban lower-middle classes and rich peasants.
+    *   **Lure of Careers**: During passive periods, the necessity of degrees and jobs drew students back to official colonial schools.
+    *   **Economic Gaps**: Khadi was far costlier than imported mill cloth. Untouchability campaigns focused on social aspects but ignored economic grievances of landless agricultural laborers (predominantly untouchables).
+    *   *Note*: Despite separate strategies, Swarajists and No-Changers maintained mutual respect and unified smoothly during active struggles.
+
+---
+
+### Emergence Of New Forces: Socialistic Ideas, Youth Power & Trade Unionism
+
+*   **1920s Watershed**: Marked the entry of the masses and the basic crystallization of diverse political currents (reacting both positively and negatively to Gandhian Satyagraha, under heightened international influence).
+
+*   **Spread of Marxist and Socialist Ideas**
+    *   Inspired the emergence of a **Left Wing within the Congress** led by **Jawaharlal Nehru** and **Subhash Chandra Bose**.
+    *   **Ideology of Young Leftists**: Critical of both Swarajists and No-Changers; demanded **Purna Swaraj** (complete independence); linked anti-imperialism with social justice; opposed internal class oppression by landlords and capitalists.
+    *   **Communist Party of India (CPI)**:
+        *   Formed **1920 in Tashkent** by **M.N. Roy**, **Abani Mukherji**, and others; M.N. Roy elected to Comintern leadership.
+        *   **Kanpur Bolshevik Conspiracy Case (1924)**: Communal crackdown; **S.A. Dange**, **Muzaffar Ahmed**, **Shaukat Usmani**, and **Nalini Gupta** jailed.
+        *   **Indian Communist Conference (Kanpur, 1925)**: Formalised foundation of CPI on Indian soil.
+        *   **Meerut Conspiracy Case (1929)**: Government arrested and tried **31 leading communists, trade unionists, and left leaders** for labor agitation.
+        *   **Workers’ and Peasants’ Parties**: Formed across provinces; propagated Marxist ideas while remaining integrated within the Congress.
+
+*   **Activism of Indian Youth**
+    *   Rapid growth of students' leagues and conferences.
+    *   **Jawaharlal Nehru** presided over the **All Bengal Students’ Conference (1928)**.
+
+*   **Peasants’ Agitations**
+    *   UP: Struggles for tenancy law revision, lower rents, eviction protection, and debt relief.
+    *   Outbreaks in Rampa (Andhra), Rajasthan, and Ryotwari areas of Bombay & Madras.
+    *   **Bardoli Satyagraha (1928)**: Led by **Vallabhbhai Patel** in Gujarat against land revenue hikes.
+
+*   **Growth of Trade Unionism**
+    *   **All India Trade Union Congress (AITUC)**: Founded **1920**; **Lala Lajpat Rai** (1st President), **Dewan Chaman Lal** (General Secretary); Tilak was a primary organizer.
+    *   **Major Strikes**: Kharagpur Railway Workshops, Tata Iron and Steel (Jamshedpur), Bombay Textile Mills (1.5 lakh workers for 5 months), and Buckingham Carnatic Mills.
+    *   **1928 Peak**: Striking wave involving 5 lakh workers.
+    *   **First May Day**: Celebrated in **Madras (1923)**.
+
+*   **Caste Movements**
+    *   **Justice Party** (Madras).
+    *   **Self-Respect Movement (1925)**: Led by **Periyar (E.V. Ramaswamy Naicker)** in Madras against Brahminical dominance.
+    *   **Satyashodhak Activists**: Active in Satara (Maharashtra).
+    *   **Bhaskar Rao Jadhav** (Maharashtra).
+    *   **Mahars under Ambedkar** (Maharashtra) → Scheduled caste political assertion.
+    *   **Radical Ezhavas**: Led by **K. Aiyappan** and **C. Kesavan** in Kerala.
+    *   **Yadavs** (Bihar): Mobilized for upward social status.
+    *   **Unionist Party**: Led by **Fazl-i-Hussain** (Punjab) representing landlord/peasant interests.
+
+*   **Revolutionary Activity with a Turn towards Socialism**
+    *   Driven by disillusionment with non-violence; split into two key geographical hubs:
+        *   **Hindustan Republican Association (H.R.A.)**: Active in Punjab-UP-Bihar.
+        *   **Bengal Groups**: Yugantar, Anushilan, and the **Chittagong Revolt Group (Surya Sen)**.
+
+---
+
+### Revolutionary Activity During The 1920s
+
+*   **Why Attraction for Revolutionary Activity after Non-Cooperation Movement**
+    *   Post-WWI general amnesty released older revolutionaries.
+    *   Many suspended actions or joined the Non-Cooperation Movement at the behest of Gandhi and C.R. Das.
+    *   **The Shock**: Sudden withdrawal of Non-Cooperation (1922) disillusioned youth → Questioned non-violence but rejected Swarajist parliamentarianism and No-Changer constructive work → Relied on armed struggle.
+    *   **Key Figures**: **Jogesh Chandra Chatterjee**, **Surya Sen**, **Bhagat Singh**, **Sukhdev**, **Chandrasekhar Azad**, **Shiv Verma**, **Bhagwati Charan Vohra**, **Jaidev Kapur**, and **Jatin Das**.
+
+*   **Major Influences**
+    1.  Post-war working-class trade unionism upsurge (sought to harness proletarian potential).
+    2.  **Russian Revolution (1917)** and consolidation of the Soviet state.
+    3.  Sprouting Marxist-socialist intellectual groups.
+    4.  Revolutionary journals: ***Atmasakti***, ***Sarathi***, and ***Bijoli***.
+    5.  Radical literature: ***Bandi Jiwan*** (Sachin Sanyal) & ***Pather Dabi*** (Sharatchandra Chatterjee; banned but widely read).
+
+---
+
+### In Punjab-United Provinces-Bihar
+
+*   **Hindustan Republican Association/Army (HRA)**: Founded **October 1924 in Kanpur** by **Ramprasad Bismil**, **Jogesh Chandra Chatterjee**, and **Sachin Sanyal**.
+    *   **Goal**: Organize armed revolution to overthrow colonial rule; establish the **Federal Republic of United States of India** under adult franchise.
+*   **Kakori Robbery (August 1925)**:
+    *   HRA activists looted official railway cash from the **8-Down train** at Kakori near Lucknow.
+    *   **Consequence**: Massive crackdown → 17 jailed, 4 transported for life, and **4 hanged** (**Ramprasad Bismil**, **Ashfaqullah Khan**, **Roshan Singh**, and **Rajendra Lahiri**). Kakori severely crippled the first phase of HRA.
+*   **The HSRA**: Reorganised in **September 1928** at Ferozshah Kotla ruins (Delhi) to overcome the Kakori setback.
+    *   Name changed to **Hindustan Socialist Republican Association (HSRA)** under collective leadership of **Chandrashekhar Azad**.
+    *   **Key Organizers**: **Bhagat Singh**, **Sukhdev**, **Bhagwati Charan Vohra**, **Bejoy Kumar Sinha**, **Shiv Verma**, and **Jaidev Kapur**.
+    *   **Ideology**: Formally adopted **socialism** as its official goal.
+*   **Saunders’ Murder (Lahore, December 1928)**:
+    *   Death of **Lala Lajpat Rai** due to lathi blows in anti-Simon Commission protest (Oct 1928) provoked retaliation.
+    *   **Bhagat Singh** & **Shivram Rajguru** shot SP **John P. Saunders** (mistakenly identifying him as Superintendent James Scott, who ordered the lathi charge). Azad shot dead an pursuing constable.
+*   **Bomb in the Central Legislative Assembly (April 1929)**:
+    *   **Bhagat Singh** and **Batukeshwar Dutt** threw harmless, non-lethal bombs into the Assembly on **April 8, 1929**.
+    *   **Objective**: Protest the **Public Safety Bill** and **Trade Disputes Bill** (restricting civil liberties and labor rights); use the court trials as a propaganda platform to spread socialist ideas to the masses (**"to make the deaf hear"**).
+*   **Action against the Revolutionaries**:
+    *   Lahore Conspiracy Case trial of Bhagat, Sukhdev, and Rajguru.
+    *   **Fasting Strike in Jail**: Protest against terrible conditions; demanded political prisoner status. **Jatin Das died on the 63rd day of his fast** (first jail martyr).
+    *   Azad attempted to blow up **Viceroy Irwin’s train (December 1929)**.
+    *   **February 27, 1931**: Azad betrayed by an associate, besieged by British police at **Alfred Park (Allahabad)**; shot himself dead to fulfill his vow of never being captured alive.
+    *   **March 23, 1931**: **Bhagat Singh, Sukhdev, and Rajguru hanged** (observed as **Shaheed Diwas**).
+
+---
+
+### In Bengal
+
+*   Bengal revolutionaries operated under the Congress network, cooperating with C.R. Das's Swarajist wing.
+*   Post-1925 Split: Factionalism between **J.M. Sengupta** (backed by Anushilan) and **Subhash Bose** (backed by Yugantar).
+*   **Charles Tegart Assassination Attempt (1924)**: Gopinath Saha mistakenly shot a civilian (Day) instead of the notorious Calcutta Police Commissioner → Saha was hanged; Bose and others arrested.
+*   **Chittagong Armoury Raid (April 1930)**:
+    *   Led by **Surya Sen ("Masterda")**, high-school teacher and Secretary of Chittagong District Congress.
+    *   **Associates**: **Anant Singh**, **Ganesh Ghosh**, and **Lokenath Baul**.
+    *   **Action**: 65 activists under the **Indian Republican Army—Chittagong Branch** raided two main armouries, seized weapons, and disrupted railway/telegraph lines.
+    *   **Result**: Sen hoisted the national flag and proclaimed a **provisional revolutionary government**. Surya Sen was eventually captured in February 1933 and hanged in **January 1934**.
+
+*   **Aspects of the New Phase of Revolutionary Movement in Bengal**
+    *   **Massive Women's Mobilization**: Provided shelter, carried intelligence, and actively fought.
+        *   **Pritilata Waddedar**: Died during an armoury raid.
+        *   **Kalpana Dutt**: Arrested with Surya Sen, sentenced to life.
+        *   **Santi Ghosh & Suniti Chandheri** (schoolgirls): Shot dead Comilla District Magistrate (December 1931).
+        *   **Bina Das**: Shot at the Governor during her convocation (February 1932).
+    *   Shift from individual killings to **coordinated group action** against organs of the colonial state.
+    *   **Secularization**: Shedding of early Hindu religiosity (no oath rituals) → Allowed Muslim participation (e.g., **Satar**, **Mir Ahmed**, **Fakir Ahmed Mian**, **Tunu Mian**).
+    *   **Drawbacks**: Retained some conservative elements; failed to evolve comprehensive socio-economic programs; did not support Muslim peasants against zamindars in Bengal.
+
+*   **Official Reaction**
+    *   Severe crackdown via **20 repressive acts**; villages burned and punitive fines imposed.
+    *   **Jawaharlal Nehru** arrested in 1933 for sedition (sentenced to 2 years) for condemning imperialism and praising revolutionaries.
+
+*   **Ideological Rethinking**
+    *   Transition from individual heroic action toward Marxism and mass politics in the mid-1920s.
+    *   **HRA Manifesto (1925)**: Declared goal of abolishing "exploitation of man by man".
+    *   HRA organ ***The Revolutionary*** proposed nationalizing transport, heavy industries (shipbuilding, steel), and starting labor/peasant groups.
+    *   **Bismil's Appeal**: In his final days, urged youth to abandon pistols, work in open Congress campaigns, and build Hindu-Muslim unity.
+    *   ***The Philosophy of the Bomb***: Written by **Bhagwati Charan Vohra** clarifying the revolutionary position.
+    *   Bhagat Singh established the **Punjab Naujawan Bharat Sabha (1926)** as an open front to politically organize youth, peasants, and workers. Bhagat & Sukhdev also organized the **Lahore Students' Union** for legal student work.
+    *   Motto: **"Propaganda by deed"** (armed acts and using court trials for mass education) was utilized because mass ideological acquisition is a prolonged historical process.
+
+*   **Redefining Revolution**
+    *   Revolution was redefined as the overthrow of imperialism followed by the establishment of a **socialist order** ending class exploitation.
+    *   As Bhagat Singh stated: *"By revolution we mean the present order of things, which is based on manifest injustice, must change."*
+    *   **Class Stance**: Peasants and workers must liberate themselves not just from foreign rule, but from internal landlords and capitalists (whether British or Indian).
+    *   **Consciously Secular**: Members of Naujawan Bharat Sabha had no ties to communal bodies, propagated tolerance, and treated religion strictly as a matter of personal belief.

@@ -1,0 +1,185 @@
+
+> [!quote] **Notes by** ~ [SE7EN](https://t.me/Se7en_0007)
+> **Source: Chapter 15 @ Spectrum (Modern History)**
+
+### **Why Nationalist Resurgence Now**
+
+*   **Post-War Economic Hardships**:
+    *   **Indian Contribution** → Massive men and money contribution towards British war efforts; thousands of Indian soldiers died. War expenses met by high taxation of Indians.
+    *   **Industry** → Wartime high prices followed by post-war recession + increased foreign investments → Brought many domestic industries to the brink of closure → Demanded state aid & import protection.
+    *   **Workers & Artisans** → Faced high inflation, unemployment, and severe price hikes.
+    *   **Peasantry** → Burdened with heavy taxation and poverty; ripe for protest.
+    *   **Soldiers** → Returned from battlefields abroad with broad awareness; shocked to find India impoverished and with fewer liberties than before.
+    *   **Educated Urban Classes** → Suffered from unemployment and an acute awareness of institutional British racism.
+*   **Expectations of Political Gains for Cooperation in the War**:
+    *   **Gandhi** and nationalists cooperated in war efforts expecting substantial self-rule → High expectations met with British betrayal.
+*   **Nationalist Disillusionment with Imperialism Worldwide**:
+    *   Allied powers promised democracy and self-determination during the war to gain colonial cooperation.
+    *   **Paris Peace Conference** exposure → Victorious imperialist powers divided vanquished nations' colonies among themselves → Myth of white cultural & military superiority shattered.
+    *   **Outcome** → Post-war militant national resurgence across Asia & Africa (**Turkey, Egypt, Ireland, Iran, Afghanistan, Burma, Malaya, Philippines, Indonesia, Indo-China, China, Korea**).
+*   **Impact of Russian Revolution (November 7, 1917)**:
+    *   **Bolshevik Party** (led by **Lenin**) overthrew Russian Czarist regime → Founded the first socialist state, the **Soviet Union**.
+    *   **Impact** → Soviet Union unilaterally renounced Czarist imperialist rights in China/Asia, granted self-determination to former Czarist colonies, and gave equal status to Asian nationalities.
+    *   **Key Message** → Organized, united masses could successfully challenge the mightiest tyrants.
+
+---
+
+### **Montagu-Chelmsford Reforms And Government Of India Act, 1919**
+
+*   **British Strategy** → Double Policy: Carrot (insubstantial **Montford Reforms**) & Stick (repressive **Rowlatt Act**).
+*   **August 1917 Statement** → Announced constitutional package (July 1918) → Enacted as **Government of India Act, 1919**.
+*   **Main Features**:
+    *   **Provincial Government—Introduction of Dyarchy**:
+        *   **Executive** → Rule of two (**Executive Councillors** and **popular Ministers**). Governor = executive head.
+        *   **Subject Division**:
+            *   **Reserved Subjects** (Law & order, finance, land revenue, irrigation, etc.) → Administered by Governor through bureaucratic Executive Council (not responsible to legislature).
+            *   **Transferred Subjects** (Education, health, local government, industry, agriculture, excise, etc.) → Administered by Ministers nominated from elected legislative council members (responsible to legislature, must resign on no-confidence motion).
+        *   **Governor's Emergency Powers** → In case of constitutional failure, Governor could take over transferred subjects.
+        *   **Interference Limit** → Secretary of State & Governor General could interfere in reserved subjects; restricted in transferred subjects.
+        *   **Legislature** → Provincial councils expanded; **70% members elected**.
+        *   Communal & class electorates consolidated.
+        *   **Women given the right to vote**.
+        *   Governor's absolute veto, ordinance power, and power to restore rejected budgets.
+    *   **Central Government—Still without Responsible Government**:
+        *   **Executive** → Governor General = chief executive authority; retained full control over reserved subjects in provinces, could restore cuts, certify bills, and issue ordinances.
+        *   Viceroy’s Executive Council of **8 members** → **3 to be Indians**.
+        *   **Legislature** → Bicameral central assembly introduced:
+            *   **Lower House (Central Legislative Assembly)**: **145 members** (41 nominated, 104 elected: 52 General, 30 Muslims, 2 Sikhs, 20 Special). Tenure: 3 years.
+            *   **Upper House (Council of State)**: **60 members** (26 nominated, 34 elected: 20 General, 10 Muslims, 3 Europeans, 1 Sikh). Tenure: 5 years (all-male).
+        *   **Legislators' Powers** → Ask questions/supplementaries, pass adjournment motions, and vote a part of the budget (**75% budget remained non-votable**).
+    *   **Home Government** → **Secretary of State for India** to be paid out of the **British exchequer** (major fiscal change).
+*   **Drawbacks**:
+    *   Extremely limited franchise (approx. **1.5 million** voters out of **260 million** population).
+    *   Central legislature had zero control over Viceroy & Executive Council.
+    *   Seat allocation based on provincial "importance" (e.g., Punjab's military vs. Bombay's commercial value).
+    *   Provincial dyarchy division was irrational & unworkable; ministers had no control over finances or the bureaucracy → Constant friction.
+*   **Views**:
+    *   **Lord Curzon** → "Ultimate self-government" meant "an intervening period of 500 years."
+    *   **Subhash Chandra Bose** → "Forged fresh fetters for the people."
+    *   **M.K. Gandhi** → "Method of further draining India of her wealth and of prolonging her servitude."
+    *   **P.E. Roberts** → "Double executive was open to almost every theoretical objection..."
+    *   **Dr. Rutherford (British MP)** → "Discreditable, disgraceful, undemocratic, tyrannical constitution... hoax perpetrated upon a great people."
+    *   **Walter Reid** → Devolution aimed to tie society to the status quo; provincial powers dissipated energies into communal rivalry.
+*   **Congress Reaction**:
+    *   **August 1918 (Bombay Special Session)** (President: **Hasan Imam**) → Declared reforms "disappointing" and "unsatisfactory", demanded effective self-government.
+    *   **Tilak** → "Unworthy and disappointing—a sunless dawn."
+    *   **Annie Besant** → "Unworthy of England to offer and India to accept."
+
+---
+
+### **Making Of Gandhi Early Career and Experiments with Truth in South Africa**
+
+*   **Background** → Born **October 2, 1869** at Porbandar, Kathiawar (Gujarat). Father was a diwan. Studied law in England. Went to South Africa in **1893** for Dada Abdullah's case.
+*   **Three Indian Categories in South Africa**:
+    1.  Indentured Indian labor (mostly South Indian, migrated after 1890 for sugar plantations).
+    2.  Merchants (mostly Meman Muslims).
+    3.  Ex-indentured laborers settled down with children.
+    *   *Disabilities faced* → No right to vote, restricted to congested insanitary locations, outdoor curfew after 9 PM, forbidden from using public footpaths.
+*   **Moderate Phase of Struggle (1894–1906)**:
+    *   Method → Sending petitions, memorials to SA and British authorities.
+    *   Organizations → Set up **Natal Indian Congress**; started newspaper ***Indian Opinion*** to unify different groups.
+*   **Phase of Passive Resistance or Satyagraha (1906–1914)**:
+    *   **Satyagraha against Registration Certificates (1906)**:
+        *   *Cause* → Compulsory registration with fingerprints for all Indians.
+        *   *Action* → Defied law under **Passive Resistance Association** led by Gandhi → Gandhi jailed → Deceit used by authorities to register Indians → Indians retaliated by publicly burning registration certificates.
+    *   **Campaign against Restrictions on Indian Migration**:
+        *   *Action* → Defied migration laws by crossing from Natal to Transvaal without licenses → Hundreds jailed.
+    *   **Campaign against Poll Tax and Invalidation of Indian Marriages**:
+        *   *Causes* → **£3 poll tax** on ex-indentured Indians (earning under 10 shillings/month) + Supreme Court order invalidating non-Christian marriages (Hindu, Muslim, Parsi marriages made illegal; children illegitimate).
+        *   *Impact* → Insult to women's honor drew a massive influx of women into the struggle.
+    *   **Tolstoy Farm**:
+        *   Founded **1910** by Gandhi and **Herman Kallenbach** to house families of Satyagrahis and enable self-sustenance.
+        *   Preceded by **Phoenix Farm (1904, Natal)** inspired by John Ruskin’s ***Unto This Last*** (extolling simple life of love, labor, manual dignity).
+        *   Activities → Manual work (cooking, scavenging, sandalmaking, carpentry), co-education, citizenship ideals.
+    *   **Protest against Transvaal Immigration Act**:
+        *   *Action* → Illegal migration from Natal into Transvaal → Mass jailings, lightning strikes by miners & plantation workers.
+        *   *Support* → **G.K. Gokhale** toured India mobilizing public opinion; Viceroy **Lord Hardinge** condemned British-SA repression.
+    *   **Compromise Solution**:
+        *   Negotiations between Gandhi, Hardinge, **C.F. Andrews**, and **General Smuts** → British-SA conceded major demands: abolished poll tax, legalized Indian marriages, abolished certificate fingerprint rules.
+*   **Gandhi’s Experience in South Africa**:
+    1.  Discovered masses have immense capacity for sacrifice and action.
+    2.  Successfully united Indians across religions, classes, and genders.
+    3.  Realized leaders must sometimes make decisions unpopular with passionate followers.
+    4.  Evolved a unique style of leadership and non-violent political action free from domestic rivalries.
+*   **Gandhi’s Technique of Satyagraha**:
+    *   Based on **Truth** (Satya) and **Non-violence** (Ahimsa), combining Indian traditions with Christian ideals (turn the other cheek) and Tolstoy's passive resistance.
+    *   *Core Principles*:
+        *   Never submit to wrong; remain truthful, non-violent, fearless.
+        *   Methods → Non-cooperation, boycott, non-payment of taxes, declining titles/honors.
+        *   Ready to accept personal suffering for truth without harboring ill feelings/hatred for the oppressor.
+        *   For the brave & strong only; violence is preferred to cowardice.
+        *   Thought and practice must align; ends can never justify bad means.
+
+---
+
+### **Gandhi In India**
+
+*   **Arrival** → Returned in **January 1915**.
+*   **First Year Strategy** → Toured India to study the masses; stayed politically neutral on Gokhale's advice. Convinced of the limits of Moderates and Home Rule League agitations (considered wartime Home Rule agitations ill-timed).
+*   **Three Local Struggles (1917–1918)**:
+    1.  **Champaran Satyagraha (1917)—First Civil Disobedience**:
+        *   *Context* → Bihar peasants forced by European planters to grow indigo on 3/20 of their land (**Tinkathia System**).
+        *   *Trigger* → German synthetic dyes replaced indigo → Planters demanded highly inflated rents/illegal dues to release peasants.
+        *   *Action* → **Rajkumar Shukla** requested Gandhi to intervene. Gandhi arrived with **Rajendra Prasad, Mazharul-Haq, Mahadev Desai, Narhari Parekh, J.B. Kripalani, Brajkishore Prasad, Anugrah Narayan Sinha, Ramnavmi Prasad, Shambhusharan Varma**.
+        *   *Victory* → Authorities ordered Gandhi to leave; he defied the order (first passive civil disobedience in India). Government relented, appointed an enquiry committee with Gandhi as a member.
+        *   *Outcome* → Tinkathia system abolished; planters agreed to compensate **25%** of illegal extractions; planters left within a decade.
+    2.  **Ahmedabad Mill Strike (1918)—First Hunger Strike**:
+        *   *Context* → Dispute between cotton mill owners and workers over withdrawal of the **plague bonus**.
+        *   *Demands* → Workers demanded **50% wage hike** to match wartime inflation; owners offered only **20%**.
+        *   *Action* → Social worker **Anusuya Sarabhai** (sister of Mill Owners' Association President **Ambalal Sarabhai**) requested Gandhi's help. Gandhi advised workers to strike peacefully for a **35% hike**.
+        *   *First Hunger Strike* → Gandhi went on a fast unto death to strengthen the striking workers' resolve → Put moral pressure on owners.
+        *   *Outcome* → Issue referred to a tribunal; award of **35% wage hike** secured. Anusuya later formed **Ahmedabad Textile Labour Association (1920)**.
+    3.  **Kheda Satyagraha (1918)—First Non-Cooperation**:
+        *   *Context* → Crop failure in Kheda (Gujarat) due to drought. Under Revenue Code, if yield was **<1/4th of normal**, farmers were entitled to complete tax remission. Authorities refused remission and threatened land/property seizures.
+        *   *Action* → **Gujarat Sabha** petition failed. Gandhi asked peasants to refuse tax payment.
+        *   *Leadership* → Gandhi was spiritual head; **Sardar Vallabhbhai Patel** along with **Narahari Parikh, Mohanlal Pandya, Ravi Shankar Vyas** organized the tax revolt at ground level.
+        *   *Outcome* → Strict unity maintained despite land seizures. Government conceded through a secret agreement: suspended revenue for current and next year, reduced rate hikes, returned confiscated properties.
+*   **Gains from Champaran, Ahmedabad, and Kheda**:
+    *   Proven efficacy of **Satyagraha** technique.
+    *   Gandhi found his feet and tested mass strengths/weaknesses.
+    *   Acquired immense respect, especially among youth.
+
+---
+
+### **Rowlatt Act, Satyagraha And Jallianwala Bagh Massacre**
+
+*   **The Rowlatt Act**:
+    *   Passed **March 1919** by Imperial Legislative Council (as **Anarchical and Revolutionary Crimes Act**).
+    *   Based on recommendations of the **Sir Sidney Rowlatt Commission** (investigating "seditious conspiracy").
+    *   *Provisions* → Arrest on mere suspicion of treason without warrant; trial in secrecy by 3 High Court judges without a jury; no court of appeal; suspension of *habeas corpus*; political activists imprisoned without trial for up to 2 years; possession of seditious newspapers became proof of guilt.
+    *   *Protests* → All elected Indian members voted against it; easily overruled. **Jinnah, Madan Mohan Malaviya, Mazhar Ul Haq** resigned in protest.
+*   **Satyagraha against the Rowlatt Act—First Mass Strike**:
+    *   Gandhi called it the "**Black Act**" and launched the **Satyagraha Sabha** (bringing in Home Rule Leaguers & Pan-Islamists).
+    *   *Format* → All-India **Hartal** (strike) on **April 6, 1919** with fasting, prayer, and civil disobedience against specific laws.
+    *   *Significance* → National movement permanently turned mass-centric (peasants, artisans, urban poor actively participated).
+    *   *Violence* → Anti-British demonstrations turned violent in Calcutta, Bombay, Delhi, Ahmedabad, and Punjab (Lieut. Governor **Sir Michael O’Dwyer** used aircraft strafing against protestors).
+*   **Jallianwala Bagh Massacre (April 13, 1919)**:
+    *   *Prelude* → Amritsar leaders **Saifuddin Kitchlew** and **Dr. Satyapal** arrested on April 9 → Protestors fired upon on April 10 (protests turned violent, 5 Englishmen killed, missionary Marcella Sherwood assaulted).
+    *   *Baisakhi Gathering* → **Brigadier-General Reginald Dyer** banned public meetings, but orders were unpublicized. On April 13, a crowd of 20,000 gathered at Jallianwala Bagh for Baisakhi celebrations and a peaceful protest meeting.
+    *   *The Assault* → Dyer blockaded the sole exit point of the enclosed garden, ordered troops to open fire without any warning on the unarmed crowd.
+    *   *Toll* → **1,650 bullets** fired. Official count: **379 dead, 1,100 wounded**; Congress estimate: **1,000 dead, 1,500 injured**.
+    *   *Aftermath* → Public floggings, crawling orders on Sherwood assault street, martial law.
+    *   *National Reaction*:
+        *   **Rabindranath Tagore** renounced his **Knighthood**.
+        *   **Gandhi** renounced his **Kaiser-i-Hind** medal; withdrew Satyagraha on **April 18, 1919** due to widespread violence.
+        *   Massacre alienated Indians permanently from the British Raj.
+        *   **Bhagat Singh** (aged 11) inspired to resist.
+        *   **Udham Singh** assassinated **Michael O’Dwyer** in **1940** (hanged in 1940, ashes returned in 1974).
+*   **The Hunter Committee Of Inquiry**:
+    *   **Disorders Inquiry Committee** announced **October 14, 1919** by Secretary of State **Edwin Montagu**.
+    *   *Chairman* → **Lord William Hunter** (former Solicitor General for Scotland).
+    *   *Indian Members* → **Sir Chimanlal Harilal Setalvad**, **Pandit Jagat Narayan**, **Sardar Sahibzada Sultan Ahmad Khan**.
+    *   *Dyer’s Testimony* → Admitted firing was to "strike terror" and reduce the moral stature of rebels, refused to aid the wounded as it was "not his job."
+    *   *Final Report (March 1920)*:
+        *   Unanimously condemned Dyer's actions (error of lack of notice, grave error of length of firing, overstepped authority bounds).
+        *   *Indian Minority Report* → Condemned actions as "inhuman and un-British", pointed out that prohibitions were unpublicized.
+        *   *Outcome* → No penal or disciplinary action imposed on Dyer (condoned by superiors, and protected by the pre-enacted **Indemnity Act** / "white washing bill", heavily criticized by Motilal Nehru).
+    *   *British Reactions*:
+        *   **Winston Churchill** (War Secretary) condemned it as "monstrous" in House of Commons.
+        *   Former PM **H.H. Asquith** called it "one of the worst outrages in the whole of our history".
+        *   Dyer dismissed from command (March 1920), recalled to England on half pay + pension.
+        *   House of Lords passed a motion supporting Dyer; *Morning Post* raised **£26,000** for him (Rudyard Kipling contributed).
+    *   *Unexpected Consequence* → Golden Temple priests led by **Arur Singh** honored Dyer as a Sikh → Outraged reformers launched the **Gurudwara Reform Movement** to clean up temple managements.
+*   **Congress View**:
+    *   Appointed its own non-official committee (**Motilal Nehru, C.R. Das, Abbas Tyabji, M.R. Jayakar, Gandhi**).
+    *   Rejected justification for martial law and condemned Dyer's act as utterly inhuman.

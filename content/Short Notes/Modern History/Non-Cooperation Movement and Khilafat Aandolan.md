@@ -1,0 +1,193 @@
+
+> [!quote] **Notes by** ~ [SE7EN](https://t.me/Se7en_0007)
+> **Source: Chapter 16 @ Spectrum (Modern History)**
+
+### Background
+*   **Post-WWI Economic Distress**: Rise in prices + decreased industrial output + heavy tax/rent burden → Widespread anti-British discontent.
+*   **Rowlatt Act (1919) + Martial Law + Jallianwalla Bagh Massacre**: Exposed brutal, uncivilised face of colonial rule.
+*   **Hunter Committee (Punjab atrocities)**: Whitewash/eyewash.
+    *   **House of Lords** endorsed General Dyer’s actions.
+    *   **British Public**: Solidarity shown by collecting **£30,000** for Dyer via *The Morning Post*.
+*   **Montagu-Chelmsford Reforms (1919)**: Failure of ill-conceived **dyarchy** scheme → Failed to satisfy demands for self-government.
+*   **Hindu-Muslim Unity Foundations**:
+    1.  **Lucknow Pact (1916)**: Stimulated Congress-League cooperation.
+    2.  **Rowlatt Act Agitation**: Unified different social sections.
+    3.  **Radical Nationalist Muslims Rise**: **Muhammad Ali, Abul Kalam Azad, Hakim Ajmal Khan, Hasan Imam** became more influential than conservative Aligarh elements → Advocated militant nationalism and active anti-imperialist struggle.
+
+---
+
+### The Khilafat Issue
+*   **Core Cause**: Anger over British post-war treatment of Turkey → Turkey dismembered and the **Khalifa** (spiritual leader of global Muslims) removed from power.
+*   **Indian Muslim Demands**:
+    1.  Khalifa's control over **Muslim sacred places** must be retained.
+    2.  Khalifa should be left with **sufficient territories** after arrangements.
+*   **Khilafat Committee (Early 1919)**:
+    *   **Founders**: **Ali Brothers (Shaukat Ali & Muhammad Ali)**, **Maulana Azad**, **Hakim Ajmal Khan**, **Hasrat Mohani**.
+    *   **Objective**: Force British government to change its attitude toward Turkey.
+
+---
+
+### Development of The Khalifat-Non-Cooperation Programme
+*   **Agitation Shift**: Meetings, petitions, and deputations (initial) → Stopping all cooperation/boycott (militant trend).
+*   **All India Khilafat Conference (Delhi, November 1919)**:
+    *   Call for **boycott of British goods**.
+    *   Ultimatum: Stop cooperation unless war peace terms are favourable to Turkey.
+*   **Gandhi’s Role**: President of All India Khilafat Committee; saw the issue as a golden platform for unified mass non-cooperation.
+
+---
+
+### Congress Stand on Khilafat Question
+*   **Initial Internal Friction**:
+    *   **M.K. Gandhi**: Supported launching satyagraha on Khilafat.
+    *   **B.G. Tilak**: Opposed political alliance over a religious issue; highly sceptical of satyagraha. (Gandhi convinced Tilak of its virtues and expediency).
+    *   **Council Boycott**: Opposed by several leaders initially.
+*   **Factors Leading to Congress Approval**:
+    *   Golden opportunity to cement **Hindu-Muslim unity** and bring Muslim masses into the movement.
+    *   Different sections (peasants, Sikhs, tribals, women, students) could enter national movement fighting for local rights against common colonial rule.
+    *   Lost faith in constitutional struggle post-Punjab wrongs and biased **Hunter Committee Report**.
+    *   Masses were highly eager to express discontent.
+
+---
+
+### Muslim League Support to Congress
+*   **League Stance**: Fully supported Congress and its agitations on political questions.
+
+---
+
+### The Non-Cooperation Khilafat Movement
+*   **February 1920**: Joint Hindu-Muslim deputation to Viceroy Reading proved abortive. Gandhi announced imminent non-cooperation movement.
+*   **May 1920**: **Treaty of Sevres** signed → Completely dismembered Turkey.
+*   **June 1920**: Allahabad All-Party Conference approved boycott of schools, colleges, and law courts; asked Gandhi to lead.
+*   **August 31, 1920**: Campaign formally launched by Khilafat Committee.
+    *   *Note*: **B.G. Tilak** passed away on **August 1, 1920**.
+*   **September 1920 (Calcutta Special Session)**:
+    *   Approved non-cooperation programme until Punjab/Khilafat wrongs removed and **Swaraj** established.
+    *   **Boycott Programme**:
+        *   Government schools and colleges.
+        *   Law courts (substituted by **panchayats**).
+        *   Legislative councils (C.R. Das opposed but bowed to discipline; voters and leaders stayed away from November 1920 elections).
+        *   Foreign cloth (replaced by **khadi** and hand-spinning).
+        *   Government honors, titles, and decorations.
+    *   **Second Phase Goal**: Mass civil disobedience, resignations from government service, non-payment of taxes.
+    *   **Strict Rules**: Work for Hindu-Muslim unity, remove untouchability, maintain absolute non-violence.
+*   **December 1920 (Nagpur Congress Session)**:
+    1.  Endorsed Non-Cooperation programme.
+    2.  **Creed Change**: Constitutional self-government → **Swaraj through peaceful and legitimate means** (committed to extra-constitutional mass struggle).
+    3.  **Organisational Restructuring**:
+        *   **15-member Congress Working Committee (CWC)** set up to lead.
+        *   **Provincial Congress Committees (PCCs)** organized on linguistic basis.
+        *   Ward committees organized; entry fee reduced to **four annas**.
+    4.  **Gandhi’s Promise**: Swaraj within one year if programme completely implemented.
+*   **Defections**:
+    *   Bengali revolutionary terrorists pledged support.
+    *   Constitutionalists (**Jinnah, Annie Besant, G.S. Kharpade, B.C. Pal**) left Congress.
+    *   **Surendranath Banerjea** founded the **Indian National Liberal Federation**.
+
+---
+
+### Spread of The Movement
+*   **Educational Boycott**:
+    *   Thousands of students left government institutions.
+    *   **~800 National Schools/Colleges** cropped up under **Acharya Narendra Dev, C.R. Das, Lala Lajpat Rai, Zakir Hussain, Subhash Bose** (Principal, **National College at Calcutta**).
+    *   **New Institutions**: **Jamia Millia (Aligarh)**, **Kashi Vidyapeeth**, **Gujarat Vidyapeeth**, **Bihar Vidyapeeth**.
+*   **Legal Boycott**: Prominent lawyers gave up practice: **Motilal Nehru, Jawaharlal Nehru, C.R. Das, C. Rajagopalachari, Saifuddin Kitchlew, Vallabhbhai Patel, Asaf Ali, T. Prakasam, Rajendra Prasad**.
+*   **Economic Boycott**: Foreign cloth burnt publicly → Imports fell by 50%.
+*   **Social Mobilization**:
+    *   Picketing of foreign liquor and toddy shops.
+    *   **Tilak Swaraj Fund**: Over-subscribed; collected **Rs 1 Crore**.
+    *   **Congress Volunteer Corps**: Emerged as parallel police force.
+*   **Army Resignation Call (July 1921)**: Ali brothers urged Muslims to quit army as unreligious → Arrested in September. Gandhi echoed call.
+*   **Regional No-Tax Movements**:
+    *   Midnapore (Bengal): Against union board taxes.
+    *   Guntur (Andhra): Peasant tax boycott.
+*   **Strikes**: Assam tea plantations, steamer services, Assam-Bengal Railways led by **J.M. Sengupta**.
+*   **November 1921**: **Prince of Wales** visit met with complete strikes and protests.
+*   **Local Spin-off Struggles**:
+    *   **Awadh Kisan Movement** (UP)
+    *   **Eka Movement** (UP)
+    *   **Mappila Revolt** (Malabar)
+    *   **Sikh Akali Agitation** (removal of corrupt mahants in Punjab)
+
+---
+
+### People’s Response
+*   **Middle Class**:
+    *   Led initially, but later grew reserved about Gandhi’s programme.
+    *   Preserved elite centers (**Calcutta, Bombay, Madras**) saw very limited response.
+    *   Newcomers gained voice; **Rajendra Prasad** (Bihar) and **Vallabhbhai Patel** (Gujarat) established leadership as a non-violent alternative to revolutionary terrorism.
+*   **Business Class**:
+    *   Supported economic boycott due to Swadeshi boost.
+    *   Big business remained sceptical due to fear of labor unrest.
+*   **Peasants**:
+    *   Massive participation; broke Congress class-war restraints.
+    *   Turned against both British rule and local oppressors (landlords/traders).
+    *   Bihar: Caste conflicts (lower vs upper castes over wearing the **sacred thread**) merged with the movement.
+*   **Students**:
+    *   Active volunteers; left colonial institutions for national ones.
+*   **Women**:
+    *   Gave up *purdah*, donated ornaments to **Tilak Fund**, actively picketed liquor/foreign cloth shops.
+*   **Hindu-Muslim Unity**:
+    *   Massive Muslim participation and communal harmony despite Mappila excesses.
+    *   **Two-thirds of those arrested** were Muslims.
+    *   Gandhi addressed mosques and un-blindfolded meetings of Muslim women.
+
+---
+
+### Government Response
+*   **May 1921 Talks**: Viceroy Reading tried to force Gandhi to ask Ali brothers to edit violent speech parts → Gandhi refused to let govt drive a wedge.
+*   **December 1921 Repression**:
+    *   Volunteer corps declared illegal; public meetings banned; press gagged.
+    *   All major leaders arrested except Gandhi.
+
+---
+
+### The Last Phase of The Movement
+*   **Ahmedabad Session (1921)**: Presided by **C.R. Das** in jail (acting president **Hakim Ajmal Khan**); Gandhi appointed sole authority to launch civil disobedience.
+*   **February 1, 1922**: Gandhi threatened civil disobedience from **Bardoli (Gujarat)** unless political prisoners were released and press controls removed.
+*   **Chauri Chaura Incident**:
+    *   **Date & Place**: **February 5, 1922**; Chauri-Chaura, Gorakhpur (UP).
+    *   **Trigger**: Police beat up volunteer leader campaigning against liquor/prices, then fired on crowd.
+    *   **Climax**: Agitated mob torched police station; **22 policemen killed** inside/hacked to death.
+    *   **Consequence**: Gandhi immediately withdrew the movement.
+    *   **Bardoli Resolution (February 1922)**: CWC halted law-breaking; shifted focus to constructive work (khadi, national schools, temperance, Hindu-Muslim unity, anti-untouchability).
+    *   **Nationalist Response**: Deep bewilderment and resentment among leaders (**C.R. Das, Motilal Nehru, Subhash Bose, Jawaharlal Nehru**).
+    *   **Gandhi’s Arrest (March 1922)**: Sentenced to **6 years** in jail. Memorable court speech accepting deliberate legal crime as citizen's highest duty.
+*   **Views**:
+    *   **Subhas Chandra Bose**: Order of retreat when public enthusiasm reached boiling point was a **"national calamity"**.
+    *   **Marxist Interpretation**: Post-WWI labor/peasant unrest forced leaders to a radical posture; Gandhi called off movement to keep it "controlled" and "within safe channels" just as masses took initiative.
+    *   **M.K. Gandhi**: "I would suffer every humiliation... to prevent the movement from becoming violent."
+
+---
+
+### Why Gandhi Withdrew The Movement
+1.  Masses had not fully understood or internalized **non-violence**; localized violent outbursts could trigger generalized violence.
+2.  Violence would give the colonial state a perfect excuse to crush the movement with its superior **armed might**.
+3.  Movement showed signs of **fatigue** (mass struggles cannot be sustained at high pitch indefinitely).
+4.  Government was unwilling to negotiate.
+5.  **Dissipation of Khilafat Issue**:
+    *   **November 1922**: Turkish people rose under **Mustafa Kamal Pasha** → Stripped Sultan of political power and secularized Turkey.
+    *   **1924**: Caliphate officially abolished; modern agriculture, nationalized education, and women's rights introduced.
+
+---
+
+### Evaluation Of Khilafat Non-Cooperation Movement
+*   **Communalization of Politics**: Mobilized urban Muslims but communalized national politics; leaders failed to elevate religious-political consciousness to a secular level.
+*   **Mass Politicisation**: Mobilized every strata (artisans, peasants, poor, women, traders) into the national struggle → Imparted a revolutionary character.
+*   **Shattered Myths**:
+    *   *Myth 1 (Colonial rule is in Indian interest)*: Exploded by Moderate economic critique.
+    *   *Myth 2 (Colonial rule is invincible)*: Exploded by satyagraha mass struggle.
+*   **Psychological Triumph**: Masses lost the deep-seated fear of colonial state power and its repressive organs.
+*   **View**:
+    *   **Dr. Koenraad Elst**: Khilafat was a retrograde, reactionary, and intrinsically anti-nationalist movement pitting Islamic interests against secular/non-Muslim interests.
+
+---
+
+### Summary
+*   **Khilafat-Non-Cooperation Movement**:
+    *   **Three Demands**:
+        1.  Favourable treaty for Turkey.
+        2.  Redressal of Punjab wrongs.
+        3.  Establishment of Swaraj.
+    *   **Techniques Used**: Boycott of schools, colleges, courts, municipality, titles, foreign cloth, liquor; setting up national schools, panchayats, and using khadi.
+*   **Nagpur Congress Session (December 1920)**: Goal changed to attainment of Swaraj through peaceful and legitimate means.
+*   **Chauri-Chaura Incident (February 5, 1922)**: Violence by agitated mob prompted immediate withdrawal by Gandhi.

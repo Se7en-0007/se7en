@@ -1,0 +1,480 @@
+
+> [!quote] **Notes by** ~ [SE7EN](https://t.me/Se7en_0007)
+> **Source: Chapter 05 @ Spectrum (Modern History)**
+
+## The British Imperial History
+* **First Empire** = Across Atlantic towards America & West Indies.
+* **Second Empire** (post-**1783 Peace of Paris**) = Swung towards East (Asia & Africa).
+* **Ireland Conquest (16th Century)** → Began British imperial history.
+* **English Ideology** = Acted as "new Romans" → Mission to "civilise" the Orient & backward races.
+
+## Was The British Conquest Accidental Or Intentional ?
+* **Accidental School** (Led by **John Seeley**): 
+  * "Fit of absent-mindedness" → Blind, unintentional conquest.
+  * Trade-centric EIC had no initial territorial desires; unwillingly drawn into local political chaos.
+* **Intentional School**: 
+  * Clear, deliberate design to build an empire, completed bit-by-bit over years.
+  * Dismiss early political neutrality of EIC as mere propaganda.
+* **Synthesized Reality**:
+  * **Initial phase** = Promoting & protecting commercial trade interests (exploiting factionalized local politics to pit rulers against each other).
+  * **Later phase** = Clear imperial design driven by politicians in Britain & Indian administrators.
+  * **Factors** = Quick profits, personal ambition, avarice, European political wars, and defensive alliances.
+  * **Lord Wellesley (1798–1805)** → Aggressive **Subsidiary Alliance** as defensive countermeasure against French/Russian designs.
+  * **Lord Hastings (1813–1823)** → Treated India as conquered rather than acquired country.
+
+## When Did The British Period Begin In India ?
+* Historians debate three arbitrary chronological landmarks (since complete transition took ~80 years):
+  * **1740** = Start of **Anglo-French struggle** (War of Austrian Succession).
+  * **1757** = British defeat Nawab of Bengal at **Battle of Plassey**.
+  * **1761** = Maratha defeat at **Third Battle of Panipat** (by Ahmad Shah Abdali).
+
+## Causes Of British Success In India
+* **Superior Arms, Military, and Strategy**:
+  * Muskets & cannons had superior speed, range, and rate of fire.
+  * Indian rulers merely imitated European armaments/officers without genuine originality.
+* **Better Military Discipline and Regular Salary**:
+  * Regular salaries → Ensured troop loyalty to Company.
+  * Indian rulers faced cash crunches (e.g., Marathas plundered for revenue to pay troops) → Relied on indisciplined mercenaries who mutinied/defected easily.
+* **Civil Discipline and Fair Selection System**:
+  * Appointments based on reliability, skill, and merit (vs. Indian appointments based on hereditary, caste, and personal relations).
+* **Brilliant Leadership and Support of Second-Line Leaders**:
+  * EIC had top-tier leaders (**Clive**, **Warren Hastings**, **Elphinstone**, **Munro**, **Dalhousie**) supported by exceptional secondary officers (**Eyre Coote**, **Lord Lake**, **Arthur Wellesley**) working for national glory.
+  * Indian side had brilliant leaders (**Haidar Ali**, **Tipu Sultan**, **Chin Qilich Khan**, **Madhu Rao Scindia**, **Yashwant Rao Holkar**) but lacked trained second-line officers and fought amongst themselves (lacked concept of "India").
+* **Strong Financial Backup**:
+  * EIC earned handsome dividends from global trade → Easily financed Indian campaigns.
+* **Nationalist Pride**:
+  * Materially advanced, unified, and nationalistic British vs. weak, divided Indians steeped in medievalism and lacking unified political nationalism.
+
+## British Conquest Of Bengal
+### Bengal on The Eve of British Conquest
+* **Economic Stature** = Richest province of Mughal Empire (included modern Bangladesh, Bihar, Odisha).
+* **Exports** = Saltpetre, rice, indigo, pepper, sugar, silk, cotton textiles, handicrafts.
+* **EIC Stakes** = Bengal goods constituted **60% of British imports from Asia**.
+* **EIC Footprints** = Factories in **Balasore**, **Hooghly**, **Kasimbazar**, **Patna**, **Dacca**. 
+* **1690s** = Foundation of **Calcutta** by English completed commercial settlement.
+* **Financial Arbitrage** = EIC paid only **Rs 3,000/annum** to Mughal Emperor for free trade, while exports exceeded **£50,000/annum**.
+* **Nawab Chronology**:
+  * **Murshid Quli Khan (1700–1727)** = Appointed Dewan in 1700.
+  * **Shujauddin (1727–1739)** = Son-in-law of Murshid.
+  * **Sarfaraz Khan (1739–1740)** = Incapable son of Murshid, killed by Alivardi.
+  * **Alivardi Khan (1740–1756)** = Stopped paying tribute to Mughals.
+* **Prosperity Factors** = Bengal remained stable, escaping Maratha incursions, Jat revolts, and external invasions (Nadir Shah & Abdali). Calcutta pop grew from 15,000 (1706) to 100,000 (1750).
+* **Conflict Trigger** = Governors resented special EIC privileges (dastak/trade permits) → Caused major loss to provincial exchequer.
+
+### Alivardi Khan and The English
+* **1741** = Alivardi certified status as Bengal Subahdar by paying large sum to Mughal Emperor **Muhammad Shah**.
+* **Maratha Threat** = Permitted English to dig a ditch and construct entrenchment around **Fort William**.
+* **Expulsion fear** = Distrust of Europeans after Carnatic power usurpation, but died in April 1756 before acting. Succeeded by grandson **Siraj-ud-Daulah**.
+
+### Challenges Before Siraj-ud-Daulah
+* **Siraj (aged 20)** faced multiple rivals:
+  * **Shaukat Jang** (cousin & Nawab of Purnea).
+  * **Ghasiti Begum** (childless, hostile aunt).
+  * **Mir Jafar** (rebellious army commander; Alivardi's brother-in-law).
+  * **Court Conspirators** = Jagat Seth, Omichand, Rai Ballabh, Rai Durlabh.
+* **Siraj's counter-measures**:
+  * Defeated & killed Shaukat Jang.
+  * Stripped Ghasiti Begum of wealth.
+  * Dismissed Mir Jafar → Appointed **Mir Madan** as army commander.
+  * Appointed Kashmiri officer **Mohan Lal** as overall administrator (prime minister).
+
+### The Battle of Plassey
+#### Prelude To The Battle
+* **EIC Provocations**:
+  1. Rampant misuse of trade privileges (**dastaks**) → Crippled Nawab's revenues.
+  2. Fortified Calcutta without Nawab’s permission.
+  3. Gave political asylum to fugitive **Krishna Das** (son of Raj Ballabh) who fled with state treasures.
+* **Nawab’s Reaction** = Seized English fort at Calcutta.
+* **Black Hole Tragedy** = Alleged suffocation of 146 English prisoners in a tiny room (123 died); heavily disputed/exaggerated by historians.
+
+#### The Battle
+* **Robert Clive** led strong relief force from Madras to Calcutta.
+* **Conspiracy** = Clive formed a secret treaty with conspirators (**Mir Jafar**, **Rai Durlabh**, **Jagat Seth**, **Omichand**) to replace Siraj with Mir Jafar.
+* **June 23, 1757** = **Battle of Plassey**. Conspirators held back 50,000-strong army; Clive's small force won. Siraj captured and killed by Mir Jafar's son **Miran**.
+
+#### Significance of The Battle of Plassey
+* **Political Outcome** = Mir Jafar became Nawab; granted zamindari of **24 parganas** & large cash payments to EIC.
+* **Empire Foundation** = Established English military supremacy in Bengal, ousted French, and posted a British Resident at Nawab’s court.
+
+### Mir Kasim and The Treaty of 1760
+* **Background**:
+  * Mir Jafar conspired with Dutch at Chinsura → Dutch crushed by EIC at **Battle of Bedara (Nov 1759)**.
+  * Mir Jafar failed to clear EIC dues; Jafar's son Miran died.
+* **Treaty of 1760** (signed by new Governor **Vansittart** & **Mir Kasim**, Jafar's son-in-law):
+  1. Mir Kasim ceded **Burdwan**, **Midnapur**, and **Chittagong** to EIC.
+  2. EIC received 50% share in **Sylhet chunam (lime) trade**.
+  3. Mir Kasim agreed to pay off EIC outstanding dues.
+  4. Ceded Rs 5 lakh for EIC war efforts in South India.
+  5. Mutual defense pact (friends were friends, enemies were enemies).
+* **Mir Jafar Resignation** = Forced out on pension of Rs 1,500/annum.
+
+#### Steps Taken by Mir Kasim
+* Ablest successor of Alivardi.
+* Shifted capital from **Murshidabad to Munger (Bihar)** to escape EIC influence at Calcutta.
+* Reorganised bureaucracy and remodeled/trained the army.
+
+### The Battle of Buxar
+#### Prelude to The Battle
+* **Defiance** = Bihar deputy governor **Ram Narayan** refused to submit accounts (supported by EIC).
+* **Dastak Misuse** = EIC servants misused trade permits for private trade and sold them to local merchants, driving tax revenues down and creating unfair competition.
+* **Duty Abolition** = To level the playing field, Mir Kasim abolished all transit duties; EIC protested, demanding preferential monopoly.
+* **1763 Outbreak** = EIC defeated Mir Kasim in successive battles (**Katwah**, **Murshidabad**, **Giria**, **Sooty**, **Munger**).
+* **Confederacy Formation** = Mir Kasim fled to Awadh and allied with **Shuja-ud-Daulah** (Nawab of Awadh) and **Shah Alam II** (Mughal Emperor).
+
+#### The Battle
+* **October 22, 1764** = **Battle of Buxar**. Combined confederate forces routed by EIC under **Major Hector Munro**.
+* **Impact** = Real foundation of British rule in North India; defeated both regional power (Awadh) and the Mughal Emperor.
+* **Territorial settlements** = Mir Jafar (reinstalled in 1763) ceded Midnapore, Burdwan, and Chittagong. EIC got duty-free trade (except 2% on salt). Minor successor **Najim-ud-daula** ruled under EIC-nominated *naib-subahdar*.
+
+### The Treaty of Allahabad
+* Concluded by **Robert Clive** in **August 1765**:
+* **With Nawab Shuja-ud-Daulah (Awadh)**:
+  1. Surrendered **Allahabad** and **Kara** to Emperor Shah Alam II.
+  2. Paid **Rs 50 lakh** war indemnity to EIC.
+  3. Left Zamindar of Banaras (**Balwant Singh**) in possession of estate.
+  * *Strategic objective* = Awadh kept as a **buffer state** against Afghans and Marathas; Clive avoided costly direct annexation.
+* **With Emperor Shah Alam II (Mughals)**:
+  1. Resided at Allahabad under EIC protection.
+  2. Issued Farman granting EIC the **Diwani (revenue rights)** of **Bengal, Bihar, and Orissa** for annual Rs 26 lakh payment.
+  3. Provided **Rs 53 lakh** to EIC for **Nizamat (police, administration, justice)** functions.
+  * *Outcome* = Emperor became EIC's "rubber stamp"; legalized EIC political gains.
+* **Mir Kasim's End** = Died a homeless wanderer in June 1777.
+
+### Dual Government in Bengal (1765–72)
+* **Definition** = Rule of the two (Company and Nawab) in Bengal.
+* **Mechanics**:
+  * **Diwani** (revenue collection) & **Nizamat** (police/judicial) controlled by EIC.
+  * EIC acted as Diwan and nominated a deputy subahdar for Nizamat functions.
+  * Nawab held responsibility for peace & order but lacked independent funds/forces.
+  * **Mohammed Reza Khan** appointed deputy diwan for Bengal (and deputy nazim); **Raja Sitab Roy** for Bihar.
+* **Consequence** = Administrative collapse, rampant corruption, agricultural neglect, catastrophic famine. 
+* **End** = Abolished by **Warren Hastings in 1772**.
+
+---
+
+## Mysore’s Resistance To The Company
+### The Wodeyar (Mysore Dynasty)
+* Post-**1565 Battle of Talikota** (collapse of Vijayanagara) → Hindu **Wodeyar Dynasty** emerged in Mysore (**1612**).
+* **Chikka Krishnaraja Wodeyar II (1734–1766)** ruled as puppet king.
+* **EIC Conflict** = Mysore's growth threatened Madras presidency and EIC Malabar trade (pepper, cardamom).
+
+### Rise of Haidar Ali
+* **Origins** = Born 1721; started as horseman in Mysore army under de facto rulers **Nanjaraj** and **Devaraj**.
+* **1761** = Usurped royal authority to become de facto ruler.
+* **Military Innovation**:
+  * Formed swift cavalry to counter Marathas.
+  * Set up French-guided arms factory at **Dindigul** and introduced Western military training.
+* **Territorial expansion** = Captured Dod Ballapur, Sera, Bednur, Hoskote (1761–63); subdued Poligars.
+* **Maratha Wars** = Defeated by Peshwa **Madhavrao** in 1764, 1766, 1771; paid heavy cash tribute. Recovered lost territories during 1774–76 after Madhavrao’s death (1772).
+
+### First Anglo-Mysore War (1767-69)
+* **Alliances** = Nizam + Marathas + EIC formed anti-Haidar coalition.
+* **Diplomacy** = Haidar detached Marathas with cash, won over Nizam by promising territories, and attacked Arcot.
+* **Course** = Haidar suddenly marched to gates of Madras.
+* **Treaty of Madras (April 4, 1769)**:
+  * Restitution of conquests and exchange of prisoners.
+  * EIC promised military assistance to Haidar if attacked by third parties.
+
+### Second Anglo-Mysore War (1780–84)
+* **Causes**:
+  1. EIC breached faith by refusing aid to Haidar during Maratha invasion (1771).
+  2. Haidar imported French arms via **Mahe** (Malabar coast).
+  3. EIC tried to capture Mahe during American War of Independence (France vs. Britain).
+* **Course**:
+  * Haidar allied with Marathas & Nizam; captured Arcot and defeated EIC under **Colonel Baillie (1781)**.
+  * EIC under **Sir Eyre Coote** detached Marathas & Nizam; defeated Haidar at **Porto Novo (Nov 1781)**.
+  * Haidar regrouped, defeated Braithwaite.
+* **Dec 7, 1782** = Haidar Ali died of cancer. Succeeded by son **Tipu Sultan**.
+* **Treaty of Mangalore (March 1784)** = Inconclusive war ended with mutual return of captured territories.
+
+### Third Anglo-Mysore War
+* **Background** = Tipu attacked state of **Travancore** (British ally) in April 1790 over disputed Dutch purchases (Jalkottal & Cannanore).
+* **Course**:
+  * EIC, Marathas, and Nizam allied.
+  * Cornwallis captured Bangalore (March 1791) and laid siege to **Seringapatam**.
+* **Treaty of Seringapatam (1792)**:
+  1. Tipu ceded nearly **half of Mysorean territory** (EIC got Baramahal, Dindigul, Malabar; Marathas got Tungabhadra region; Nizam got Krishna-Pennar area).
+  2. Paid **Rs 3 crore** war indemnity (two sons taken as hostages until paid).
+
+### Fourth Anglo-Mysore War
+* **Causes**:
+  * In **1796**, Tipu declared himself Sultan after Hindu Wodeyar Raja died.
+  * **Wellesley (1798)** targeted Tipu's friendship with French; demanded submission via **Subsidiary Alliance**.
+  * Tipu sent emissaries to Versailles, Arabia, Afghanistan, Kabul, Mauritius.
+* **Course** = Began April 17, 1799; ended **May 4, 1799** with fall of Seringapatam. Tipu died fighting bravely at gates. 
+* **Mysore After Tipu**:
+  * Soonda & Harponelly offered to Marathas (refused).
+  * Nizam got Gooty & Gurramkonda.
+  * British annexed Kanara, Wynad, Coimbatore, Dwaraporam, Seringapatam.
+  * **Wodeyar restoration** = Minor Hindu ruler **Krishnaraja III** restored under Subsidiary Alliance.
+  * **1831** = William Bentinck assumed direct control on grounds of misgovernance.
+  * **1881** = Lord Ripon restored kingdom back to Wodeyar ruler.
+
+---
+
+## Anglo-Maratha Struggle For Supremacy
+### Rise of The Marathas
+* Regrouped quickly after **Third Battle of Panipat (1761)**.
+* **Bajirao I (1720–40)** created **Maratha Confederacy** under umbrella of King **Shahu**:
+  1. **Gaekwad** of **Baroda**
+  2. **Bhonsle** of **Nagpur**
+  3. **Holkar** of **Indore**
+  4. **Sindhia** of **Gwalior**
+  5. **Peshwa** of **Poona**
+* Confederacy fractured after Peshwa **Madhavrao I** died in 1772.
+
+### Entry of The English Into Maratha Politics
+* Bombay EIC wanted Bengal-like control; exploited Maratha succession disputes.
+
+### First Anglo-Maratha War (1775–82)
+* **Background** = Wazir Nana Phadnavis and 12 regents (**Barabhai**) placed infant **Sawai Madhavrao** as Peshwa, bypassing assassin uncle **Raghunathrao (Raghoba)**.
+* **Treaties**:
+  * **Treaty of Surat (1775)** = Raghunathrao ceded **Salsette** and **Bassein** to Bombay EIC for 2,500 soldiers.
+  * **Treaty of Purandhar (1776)** = Calcutta Council annulled Surat Treaty, pensioned Raghoba. Bombay EIC ignored it and sheltered Raghoba.
+  * Nana Phadnavis granted French a port → retaliatory EIC campaign.
+* **Course**:
+  * **Mahadji Scindia** lured EIC forces into mountain passes at **Talegaon**, cutting off food/water (scorched-earth policy).
+  * **Treaty of Wadgaon (1779)** = Surrounded EIC surrendered; restored all gains since 1775.
+* **Treaty of Salbai (May 1782)**:
+  * Hastings rejected Wadgaon; sent Goddard (captured Ahmedabad, Bassein) and Popham (captured Gwalior). Camac defeated Scindia at Sipri (1781).
+  * Scindia negotiated Treaty of Salbai:
+    1. Salsette remained with EIC.
+    2. Conquered territories restored to Marathas.
+    3. Raghoba pensioned.
+    4. Peshwa banned from supporting other European powers.
+    5. Guaranteed 20 years of peace.
+
+### Second Anglo-Maratha War (1803–05)
+* **Background** = Sawai Madhavrao died (1795); succeeded by Raghoba's worthless son **Bajirao II**. Nana Phadnavis died in 1800.
+* **Course**:
+  * Peshwa murdered Vithuji Holkar (brother of Jaswantrao).
+  * **Jaswantrao Holkar** defeated Peshwa & Scindia at **Hadapsar (Oct 1802)**.
+  * Bajirao II fled to Bassein, signing the **Treaty of Bassein (1802)**:
+    1. Accepted Subsidiary Alliance (6,000 British infantry permanently stationed).
+    2. Ceded territories yielding Rs 26 lakh.
+    3. Surrendered Surat.
+    4. Relinquished chauth on Nizam; accepted EIC arbitration.
+* **Vassalage Treaties (Arthur Wellesley defeats)**:
+  * Bhonsle → **Treaty of Deogaon (Dec 1803)**.
+  * Scindia → **Treaty of Surji-Anjangaon (Dec 1803)**.
+  * Holkar → **Treaty of Rajpurghat (1806)** (failed coalition attempt).
+
+### Third Anglo-Maratha War (1817–19)
+* **Background**:
+  * Charter Act of 1813 ended EIC China trade monopoly (except tea) → needed new Indian markets.
+  * **Pindaris** (former Maratha mercenaries) plundered EIC lands; EIC charged Marathas with sheltering them.
+  * Hastings' actions against Pindaris outraged Marathas. Bajirao II led final unified Maratha uprising.
+* **Course**:
+  * Peshwa attacked Poona Residency; Appa Sahib of Nagpur attacked Nagpur Residency.
+  * Holkar state weak under regent **Tulsi Bai**.
+* **Results**:
+  * Peshwa defeated at **Khirki**, Bhonsle at **Sitabuldi**, Holkar at **Mahidpur**.
+  * Treaties:
+    * **Treaty of Poona (June 1817)** (Peshwa cedes claims).
+    * **Treaty of Gwalior (Nov 1817)** (Scindia).
+    * **Treaty of Mandasor (Jan 1818)** (Holkar).
+  * **Confederacy dissolved** in June 1818; Peshwaship abolished. Bajirao II exiled to **Bithur** as pensioner. Small principality of **Satara** created for Shivaji's descendant **Pratap Singh**.
+
+### Why The Marathas Lost
+* **Inept Leadership** = Selfish/worthless rulers (Bajirao II, Daulatrao Scindia, Jaswantrao Holkar) vs. brilliant EIC officers (**Elphinstone**, **Malcolm**, **Arthur Wellesley**).
+* **Defective State** = Artificial cohesion, lacked social/educational reforms or national consciousness.
+* **Loose Political Set-up** = Semi-independent kingdoms fought each other instead of cooperating.
+* **Inferior Military** = Poor artillery, treachery, and lack of modern army discipline.
+* **Unstable Economy** = No foreign trade or industries; relied entirely on plunder/chauth.
+* **Superior Espionage** = English maintained excellent spy networks vs. Maratha ignorance.
+* **Progressive Outlook** = Renaissance-energized British vs. dogmatic, caste-divided medieval Indians.
+
+---
+
+## Conquest Of Sindh
+### Rise of Talpuras Amirs
+* 18th century Sindh ruled by **Kallora chiefs**. 1758 Thatta factory established by prince **Ghulam Shah**; closed in 1775 under **Sarfraz Khan**.
+* **1783** = Baluch tribe **Talpuras** under **Mir Fath Ali Khan** exiled Kalloras and established hold.
+* **Char Yar** (Four Brothers/Amirs) split kingdom after Mir Fath died (1800).
+* Expanded borders: took **Amarkot** (from Jodhpur), **Karachi** (from Luz), **Shikarpur** & **Bukkar** (from Afghans).
+
+### Gradual Ascendancy over Sindh
+* **1800** = EIC agent Crow expelled due to Tipu's anti-British influence.
+* **1809 Treaty of 'Eternal Friendship'** (Lord Minto sent Nicholas Smith) = Prompted by fear of Napoleon’s land route invasion. Agreed to exclude French and exchange agents. Extended in **1820** to exclude Americans.
+* **Treaty of 1832** (William Bentinck):
+  1. Free trade passage via River Indus (banned warships & war materials).
+  2. Banned English merchant settlements (passports required).
+  3. Amirs retained right to alter tariffs; no military tolls.
+* **Lord Auckland and Sindh (1838)**:
+  * Used Ranjit Singh's capture of Rojhan to force British "protection" treaty on Amirs.
+  * Turned Sindh into British protectorate; established Resident escorted by EIC troops.
+* **1838 Tripartite Treaty** = EIC forced Shah Shuja to abandon sovereignty over Sindh in exchange for tribute arbitrated by British (to finance Afghan War).
+* **1839 Subsidiary Alliance**:
+  * Stationed subsidiary force at Shikarpur/Bukkar; Amirs paid Rs 3 lakh/annum.
+  * Amirs banned from foreign negotiations; EIC established Karachi supply store; tolls on Indus abolished.
+* **1843 Annexation**:
+  * reversal in Afghan war made British desperate. Ellenborough sent **Napier** to force ceding of territory and stop coin minting.
+  * Succession dispute sparked Amir revolt. Sindh capitulated. Merged into British Empire in **1843** by **Ellenborough**. Napier appointed first Governor.
+  * *Charles Napier quote* = "A very advantageous, useful, humane piece of rascality."
+
+---
+
+## Conquest Of Punjab
+### Consolidation of Punjab under The Sikhs
+* Banda Bahadur executed (1716) → Sikh rift resolved by Mani Singh (1721).
+* **1784** = Kapur Singh Faizullapuria founded **Dal Khalsa** (Budha Dal and Taruna Dal).
+* Mughal collapse & Abdali invasions allowed Sikhs to consolidate into **12 Misls** (military brotherhoods with democratic setup).
+
+### Sukarchakiya Misl and Ranjit Singh
+* Born Nov 2, 1780, to Sukarchakiya leader **Mahan Singh**.
+* Employed ruthless "blood and iron" policy during Afghan civil wars.
+* **1799** = Appointed Governor of **Lahore** by Zaman Shah.
+* **1805** = Captured Jammu & **Amritsar** (uniting political and religious capitals of Punjab).
+
+### Ranjit Singh and The English
+* **Treaty of Amritsar (April 25, 1809)** (with Charles Metcalfe):
+  * Accepted **River Sutlej** as boundary between Sikh kingdom and EIC.
+  * Ranjit directed conquests westward: **Multan (1818)**, **Kashmir (1819)**, **Peshawar (1834)**.
+* **1838 Tripartite Treaty** = Compelled to sign, but refused passage for British troops to Afghanistan. Ranjit died in June 1839, triggerring rapid decline.
+
+### Punjab After Ranjit Singh
+* Rapid succession and wazir murders: **Kharak Singh** (died 1839) → son **Nau Nihal Singh** (died same day) → **Sher Singh** (murdered 1843).
+* **Daleep Singh** (minor son of Ranjit) became Maharaja under **Rani Jindan** (regent).
+* Wazir **Hira Singh Dogra** (killed 1844) → **Jawahar Singh** (killed 1845) → **Lal Singh** (wazir) & **Teja Singh** (commander).
+* Regular troop payment failed; indiscipline rose as generals died out.
+
+### First Anglo-Sikh War (1845–46)
+* **Causes**:
+  1. Sikh army crossed Sutlej River (Dec 11, 1845) (seen as EIC war trigger).
+  2. Post-Ranjit anarchy in Lahore.
+  3. Sikh suspicions over EIC annexation of Sindh, Gwalior, and troop build-up on border.
+* **Course** = Traitorous commanders Lal Singh and Teja Singh sabotaged the Sikh forces. Five consecutive Sikh defeats: **Mudki**, **Ferozeshah**, **Buddelwal**, **Aliwal**, **Sobraon**. Lahore fell Feb 20, 1846.
+* **Treaty of Lahore (March 8, 1846)**:
+  1. Paid Rs 1 crore+ war indemnity.
+  2. Annexed **Jalandhar Doab** to EIC.
+  3. Established British Resident at Lahore (**Henry Lawrence**).
+  4. Reduced Sikh army.
+  5. Kashmir sold to **Gulab Singh** for Rs 75 lakh to clear Sikh indemnity.
+* **Treaty of Bhairowal (Dec 1846)** = Rani Jindan deposed on pension; 8-sardar Council of Regency ruled under Resident Henry Lawrence.
+
+### Second Anglo-Sikh War (1848–49)
+* **Causes** = Humiliation of Treaties; exile of Rani Jindan to Benares. **Mulraj** (Governor of Multan) revolted and killed two British officers after revenue demands were hiked; Sher Singh joined him.
+* **Course** = **Lord Dalhousie** personally entered Punjab. Three battles:
+  1. **Battle of Ramnagar** (Hugh Gough)
+  2. **Battle of Chillianwala** (Jan 1849)
+  3. **Battle of Gujarat** (Feb 21, 1849) (Sikh army surrendered at Rawalpindi).
+* **Result**:
+  * Punjab annexed in **1849**.
+  * Governed by **Three-member Board** (Henry Lawrence, John Lawrence, Charles Mansel).
+  * Board replaced in 1853 by a Chief Commissioner (**John Lawrence**).
+
+### Significance of The Anglo-Sikh Wars
+* Mutual military respect → Sikhs fought loyally for British during Revolt of 1857 and global wars.
+
+---
+
+## Extension Of British Paramountcy Through Administrative Policy
+### The Policy of Ring-Fence
+* Implemented by **Warren Hastings** (1772-1785).
+* **Objective** = Guard Company frontiers by defending neighbors' borders at their own expense (creating buffer zones).
+* *Example* = Defending Awadh to shield Bengal from Afghans/Marathas (Awadh paid for EIC-officered troops).
+
+### Subsidiary Alliance
+* Formulated and perfected by **Lord Wellesley (1798–1805)**.
+* **Provisions**:
+  1. Allying ruler must permanently station British force and pay cash subsidy or cede territory.
+  2. Install a **British Resident** in court.
+  3. Expel other Europeans; employ no Europeans without consultation.
+  4. Abdicate foreign policy (no wars or treaties without EIC approval).
+  5. EIC promised protection from external enemies and internal non-interference.
+* **Objectives** = Neutralize French influence (Napoleon threat from Mauritius) and expand territory cheaply.
+* **Evolution** = Dupleix (French) initiated renting troops first. Awadh (1765 treaty) was first pre-subsidiary trap. Ban on foreign relations first added in 1787 Carnatic treaty.
+* **Stages of Application**:
+  1. EIC offered military help to friendly state.
+  2. Took the field jointly with state.
+  3. EIC demanded money instead of troops to train a professional army.
+  4. Money fee fixed high → Failure to pay led to territorial cession.
+* **Allying States**:
+  * **Hyderabad (Sept 1798; 1800)** → First state.
+  * **Mysore (1799)**
+  * **Tanjore (Oct 1799)**
+  * **Awadh (Nov 1801)**
+  * **Peshwa (Dec 1801)**
+  * **Bhonsle of Berar (Dec 1803)**
+  * **Sindhia (Feb 1804)**
+  * **Rajput States** (Jodhpur, Jaipur, Macheri, Bundi, Bharatpur) (**1818**).
+  * **Holkars** (**1818**) (last Marathas).
+
+### Doctrine of Lapse
+* Attributed to **Lord Dalhousie (1848–56)** (acted on principle: "annex if legally possible" vs. predecessors' "avoid annexation").
+* **Provisions** = Adopted son of a ruler inherits private property, but *not* state sovereignty. Paramount power decides whether to bestow state or annex it.
+* **Lapsed States**:
+  * **Satara (1848)**
+  * Sambhalpur (1849)
+  * Baghat (1850)
+  * Udaipur (1854)
+  * **Jhansi (1854)**
+  * **Nagpur (1854)**
+
+#### Annexation of Awadh (1856)
+* Awadh suffered maladministration due to high taxes and profligate nawabs, aggravated by EIC subsidy drains.
+* Dalhousie ordered Residents (**Sleeman**, then **Outram**) to tour and report. Reports confirmed anarchy.
+* Court of Directors ordered direct annexation and throne abolition in **1856**.
+* Nawab **Wajid Ali Shah** deposed and exiled to Calcutta.
+* *Consequence* = Heavy political blunder, direct trigger for the **Revolt of 1857**.
+
+---
+
+## Relations Of British India With Neighbouring Countries
+### Anglo-Bhutanese Relations
+* 1826 Assam occupation brought border contact.
+* **1865 Treaty** = Following border raids and ill-treatment of Elgin’s envoy (1863-64), British annexed passes in exchange for annual subsidy. Passes transformed into tea gardens.
+
+### Anglo-Nepalese Relations
+* Border friction after Gorkha expansion met EIC at Gorakhpur (annexed 1801). Gorkhas seized Butwal & Sheoraj.
+* **Treaty of Sagauli (1816)** (concluded under Hastings):
+  1. Nepal accepted British Resident.
+  2. Ceded districts of **Garhwal and Kumaon**; withdrew Terai & Sikkim claims.
+* *Advantages* = British reached Himalayas, opened Central Asia trade, acquired hill stations (**Shimla**, **Mussoorie**, **Nainital**), and enlisted Gorkhas in army.
+
+### Anglo-Burmese Relations
+* Motivated by forest/timber resources, trade market, and counteracting French presence.
+* **First Burma War (1824–26)** = Triggered by Burmese westward expansion (Arakan, Manipur, Assam).
+  * **Treaty of Yandabo (1826)**:
+    * Paid Rs 1 crore compensation.
+    * Ceded coastal **Arakan** and **Tenasserim**.
+    * Abandoned Assam, Cachar, Jaintia.
+    * Accepted British resident at Ava; posted Burmese envoy to Calcutta.
+* **Second Burma War (1852)** = Dalhousie occupied **Pegu** (lower Burma coastal province) to secure timber trade.
+* **Third Burma War (1885)** = King **Thibaw** was hostile, negotiated trade with France/Germany/Italy, and fined British timber company. **Dufferin** annexed Upper Burma in **1885**.
+* *Burmese nationalist ties* with Indian National Congress led British to separate Burma from India in **1935**. Burma independent on **January 4, 1948** under U Aung San.
+
+### Anglo-Tibetan Relations
+* Alarmed by Russian influence at Lhasa (Dalai Lama), Curzon sent Gorkha force under **Colonel Younghusband (1904)**.
+* **Treaty of Lhasa (1904)**:
+  1. Tibet to pay Rs 75 lakh indemnity (later reduced to 25 lakh).
+  2. EIC occupied **Chumbi Valley** for 75 years as security (later reduced to 3 years; evacuated 1908).
+  3. Front of Sikkim respected; trade marts opened at Yatung, Gyantse, Gartok.
+  4. Banned Tibet from granting concessions to foreign states.
+* *Outcome* = Only China gained, as 1907 Anglo-Russian Convention routed all Tibetan relations through Beijing.
+
+### Anglo-Afghan Relations
+* Driven by search for a "scientific frontier" to block Russian land invasion of India.
+* **Forward Policy of Auckland (1836)** = EIC initiates measures to secure borders. Dost Mohammed demanded recovery of Peshawar from Sikhs for friendship; Auckland refused. Dost turned to Russia.
+* **Tripartite Treaty (1838)** (EIC + Sikhs + Shah Shuja):
+  * Restore deposed Shah Shuja to Kabul with Sikh armed help (EIC financing).
+  * Shuja to advise foreign policy with EIC/Sikhs; give up Sindh sovereignty; recognize Ranjit's claims over Indus bank.
+* **First Anglo-Afghan War (1839–42)**:
+  * EIC took Kabul; made Shah Shuja Amir. Dost surrendered (1840).
+  * Afghans revolted, slaughtered British garrison.
+  * Reoccupied Kabul (1842) to avenge defeat, but evacuated and recognized independent **Dost Mohammed**. Cost Rs 1.5 crore & 20,000 lives.
+* **Policy of Masterly Inactivity** (**John Lawrence, 1864–69**):
+  * No interference in succession civil wars; friendship with winner (**Sher Ali**) on two conditions: border peace and no foreign aid sought.
+* **Policy of Proud Reserve** (**Lytton, 1876–80**):
+  * Scientific frontiers and spheres of influence.
+  * Sher Ali refused British resident while hosting Russians → Lytton invaded.
+  * **Treaty of Gandamak (May 1879)** (with Sher Ali's son Yakub Khan):
+    1. Amir conducts foreign policy under Government of India advice.
+    2. Permanent British Resident stationed at Kabul.
+    3. EIC support against foreign aggression + annual subsidy.
+  * Yakub abdicated; **Abdur Rehman** became Amir. Ripon kept Afghanistan as a buffer state. (Independent in foreign affairs in 1921).
+
+### British India And The North-West Frontier
+* Annexation of Sindh (1843) and Punjab (1849) pushed boundaries beyond Indus.
+* **Durand Line (1893)** drawn between Afghan and British territories (Durand Agreement failed to stop tribal revolts).
+* **Curzon's NWFP Policy (1899-1905)** = Withdrew advanced troops, replaced them with trained tribal levies. Created **North-West Frontier Province (NWFP)** in 1901 directly under Government of India.

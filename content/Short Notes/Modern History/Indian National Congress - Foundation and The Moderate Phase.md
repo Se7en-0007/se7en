@@ -1,0 +1,192 @@
+
+> [!quote] **Notes by** ~ [SE7EN](https://t.me/Se7en_0007)
+> **Source: Chapter 11 @ Spectrum (Modern History)**
+
+## Foundation Of The Indian National Congress
+
+*   **Preparatory Ground**: Late 1870s – early 1880s solidifying all-India political consciousness.
+*   **Founder/Architect**: **A.O. Hume** (retired English civil servant) → Mobilised intellectuals, coordinated first session.
+*   **First Session**: **December 1885**, **Gokuldas Tejpal Sanskrit College, Bombay**.
+    *   **Precursor**: **Indian National Conference** (Sessions in 1883, 1885) led by **Surendranath Banerjea** and **Ananda Mohan Bose** (main architects).
+    *   **Attendance**: **72 delegates**.
+    *   **President**: **Womesh Chandra Bonnerjee** (W.C. Bonnerjee).
+*   **Structure**: Annual sessions held in December, rotating locations across India.
+*   **Prominent Presidents (Early Phase)**:
+    *   **Dadabhai Naoroji** (elected **thrice**).
+    *   **Badruddin Tyabji**.
+    *   **Pherozeshah Mehta**.
+    *   **P. Anandacharlu**.
+    *   **Surendranath Banerjea**.
+    *   **Romesh Chandra Dutt** (R.C. Dutt).
+    *   **Ananda Mohan Bose**.
+    *   **Gopal Krishna Gokhale**.
+*   **Other Prominent Leaders**: Mahadev Govind Ranade, Bal Gangadhar Tilak, Sisir Kumar Ghosh, Motilal Ghosh, Madan Mohan Malaviya, G. Subramania Aiyar, C. Vijayaraghavachariar, Dinshaw E. Wacha.
+*   **Women's Inclusion**: **Kadambini Ganguly** (**1890**) = First woman graduate of Calcutta University to address a Congress session → Symbolised commitment to elevating women's status in national life.
+*   **Parallel Action**: Provincial conferences, regional associations, newspapers, and vernacular literature.
+
+---
+
+## Was It a Safety Valve ?
+
+*   **Safety Valve Theory**:
+    *   **Core Concept**: Hume created INC with Lord Dufferin’s approval to act as a "safety valve" to vent mounting Indian political discontent and prevent a second popular rebellion.
+    *   **Key Proponent**: **Lala Lajpat Rai** (Extremist leader).
+*   **Conspiracy Theory**:
+    *   **Core Concept**: INC was the result of a conspiracy between the British government and Indian bourgeois leaders to abort a popular mass uprising.
+    *   **Key Proponent**: **R.P. Dutt** (Marxist historian).
+*   **Modern Historian Critique**:
+    *   **Refutation**: "Safety Valve" theory is incorrect. INC represented the natural urge of politically conscious Indians to establish an all-India political body.
+    *   **Impediment**: Had Indians attempted this independently, British officials would have suppressed the organization immediately.
+    *   **Bipan Chandra's "Lightning Conductor" Concept**: Early leaders used **A.O. Hume** as a catalyst (lightning conductor) to bridge nationalistic forces under the safe cover of his British identity.
+
+---
+
+## Aims and Objectives of The Congress
+
+*   **Found democratic, nationalist movement**.
+*   **Politicise and politically educate** the Indian populace.
+*   **Establish national headquarters** for the political movement.
+*   **Promote friendly relations** among nationalist political workers from different regions.
+*   **Develop and propagate** an anti-colonial nationalist ideology.
+*   **Formulate and present popular demands** before the Government to unify people over common economic and political programs.
+*   **Develop and consolidate national unity** across religions, castes, and provinces.
+*   **Carefully promote and nurture Indian nationhood**.
+
+---
+
+## Era Of Moderates (1885–1905) Important Leaders
+
+*   **Key Figures**: Dadabhai Naoroji, Pherozeshah Mehta, D.E. Wacha, W.C. Bonnerjee, S.N. Banerjea.
+*   **Ideology**: Staunch believers in **liberalism**, gradualism, and moderate politics.
+*   **Terminology**: Named **"Moderates"** to distinguish them from the militant "Extremists" of the early 20th century.
+
+---
+
+## Moderate Approach
+
+*   **Core Philosophy**:
+    *   Believed in constitutional agitation within the limits of the law.
+    *   Assumed British authorities were inherently just but unaware of real Indian conditions.
+    *   Believed presenting systematic public demands would gradually yield concessions.
+*   **Two-Pronged Methodology**:
+    *   **Internal**: Create strong public opinion, raise national consciousness, and unite people on common political goals.
+    *   **External**: Persuade British Government and public opinion in England to introduce progressive reforms in India.
+*   **Tactics**: "Prayer and petition", memorializing, and constitutional agitation.
+*   **Lobbying Abroad**:
+    *   **British Committee of the INC**: Established in London in **1889**.
+    *   **Journal**: ***India*** served as its official organ.
+    *   **Dadabhai Naoroji**: Spent substantial personal income and life campaigning for India's cause in Britain.
+    *   **Aborted Plan**: Proposed **1892 London session** (decided in 1890) was permanently postponed due to the 1891 British elections.
+*   **Outlook**: Maintained political connection with Britain as a historical necessity; time was not ripe for direct confrontation. Goal was to transition colonial rule into national rule.
+
+<!-- pagebreak -->
+
+## Contributions Of Moderate Nationalists
+
+### Economic Critique of British Imperialism
+*   **Key Proponents**: Dadabhai Naoroji, R.C. Dutt, Dinshaw Wacha, and others.
+*   **Main Achievement**: Formulated the **"Drain Theory"** to expose systemic economic exploitation.
+*   **Critique**: Opposed turning India's self-sufficient economy into a colonial feeder (supplier of raw materials/food grains, importer of British manufactured goods, and field for British capital investment).
+*   **Public Awareness**: Created all-India consensus that British rule was the primary cause of India's poverty and backwardness.
+*   **Key Economic Demands**:
+    *   Severance of economic subservience to Britain.
+    *   Development of independent Indian industries via Indian capital and state assistance.
+    *   **Reduction in land revenue**.
+    *   **Abolition of the salt tax**.
+    *   Improvement of working conditions for plantation labor.
+    *   **Reduction in military expenditure**.
+    *   Tariff protection and government aid to modern industries.
+
+### Constitutional Reforms and Propaganda in Legislature
+*   **Status of Councils**: Prior to 1920, legislative councils lacked real power. Imperial Legislative Council (established by **Indian Councils Act, 1861**) was an impotent body designed to rubber-stamp official decisions.
+*   **Nomination Pattern (1862–1892)**: Only 45 Indians nominated over 30 years, mostly wealthy, landed loyalists. Only a few independent figures (Syed Ahmed Khan, Kristodas Pal, V.N. Mandlik, K.L. Nulkar, Rashbehari Ghosh) nominated.
+*   **Demands (1885–1892)**:
+    1.  **Expansion of councils** (greater Indian participation).
+    2.  **Reform of councils** (greater financial control).
+*   **Long-Term Goal**: Democratic self-government.
+*   **Outcome**: Concession of the **Indian Councils Act, 1892** (severely criticized by Congress as highly inadequate).
+*   **Post-1892 Demands**:
+    *   Elected majority of Indians in councils.
+    *   Power to vote on and amend the budget.
+    *   Slogan: **"No taxation without representation"**.
+*   **Colonial Goal vs. Nationalist Achievement**:
+    *   *Colonial Goal*: Use councils to incorporate vocal Indian leaders and let them vent "political steam".
+    *   *Nationalist Achievement*: Transformed councils into forums to air grievances, expose bureaucratic apathy, raise public finance issues, and foster anti-imperialist sentiments.
+*   **Expanding Scope (Early 1900s)**: Dadabhai Naoroji (1904), G.K. Gokhale (1905), and Tilak (1906) demanded self-government/Swaraj modeled on self-governing British colonies (e.g., Canada, Australia).
+*   **Limitations**: Failed to include the masses, did not involve women, and did not demand universal adult franchise.
+
+### Indian Councils Act, 1892
+*   **Main Provisions**:
+    *   Increased the number of additional members in Imperial and Provincial Legislative Councils.
+    *   Imperial Council additional members raised to **10 to 16 non-officials** (previously 6 to 10).
+    *   Introduced the **principle of representation** (non-officials nominated on recommendations of universities, municipalities, zamindars, and chambers of commerce).
+    *   Budget could be **discussed** (but not voted on/amended).
+    *   Questions could be **asked** (with severe limitations).
+*   **Limitations**:
+    *   **Official majority** was maintained; non-official votes were easily overridden.
+    *   Imperial Legislative Council met for an average of only **13 days a year** (up to 1909).
+    *   Average unofficial Indian attendance was only **5 out of 24**.
+    *   Budget could **neither be voted on nor amended**.
+    *   **No supplementary questions** could be asked.
+    *   Answers to questions could not be debated.
+
+### Campaign for General Administrative Reforms
+*   **Indianisation of Government Service**:
+    *   *Economic Reason*: British civil servants received massive emoluments; hiring Indians was more economical.
+    *   *Political/Financial Reason*: Salaries/pensions of British bureaucrats were sent to England, causing a continuous financial drain.
+    *   *Moral Reason*: Exclusion of Indians from positions of trust was institutionalized discrimination.
+*   **Separation of powers**: Demanded separation of **judicial** and **executive** functions.
+*   **Bureaucracy & Judiciary**: Opposed oppressive, tyrannical bureaucracy and the slow, highly expensive judicial system.
+*   **Foreign Policy Critique**: Criticized expensive, aggressive imperial expansion (Annexation of Burma, invasions of Afghanistan, tribal suppression in North-West) financed entirely by the Indian treasury.
+*   **Welfare Spending**: Demanded increased public expenditure on health, sanitation, elementary/technical education, irrigation, agricultural reforms, and cheap agricultural banks for peasants.
+*   **Labor Rights**: Demanded fair treatment and protection of Indian indentured labor in other British colonies (combating racial discrimination).
+
+### Protection of Civil Rights
+*   **Scope**: Right to speech, thought, association, and a free press.
+*   **Impact**: Spread modern democratic principles, making civil liberty defense central to nationalist struggle.
+*   **Key Protests**: Mass public outrage following the **1897 arrest of B.G. Tilak** and other journalists, and the deportation of the **Natu brothers** without a trial.
+
+---
+
+## An Evaluation Of The Early Nationalists
+
+*   **Justice Mahadev Govind Ranade (to Gokhale, 1891)**: *"These memorials are nominally addressed to the Government. In reality they are addressed to the people, so that they may learn how to think in these matters."*
+*   **Core Achievements**:
+    *   Represented the most progressive socio-political forces of the era.
+    *   Forged a wide national awakening and cultivated the consciousness of belonging to **one Indian nation** with shared anti-colonial interests.
+    *   Trained the populace in political mobilization and popularized democratic ideals.
+    *   Exposed the **exploitative nature of British colonialism**, completely undermining its moral legitimacy.
+    *   Grounded their political programs in hard economic realities rather than shallow sentiment.
+    *   Established the fundamental principle: **India must be ruled in the interest of Indians**.
+    *   Sowed the essential seeds for the subsequent mass-based, militant national movement.
+*   **Primary Failure**: Did not expand its democratic base or demand universal adult franchise.
+
+---
+
+## Role of Masses
+
+*   **Passive Character**: Social base of the early INC was narrow; the masses played a passive role.
+*   **Underlying Cause**:
+    *   Moderates lacked political faith in the masses.
+    *   Perceived Indian society as too fragmented by caste/religion, and the masses as generally illiterate and conservative.
+    *   Believed heterogeneous groups had to be welded into a cohesive nation *before* active political participation.
+    *   *Nationalist Blindspot*: Failed to realize that national unity is forged *through* active participation in struggle.
+*   **Consequence**: Lack of mass base meant Moderates could not adopt militant or coercive political stances against the colonial government.
+*   **Historiographical Perspectives**:
+    *   **Pattabhi Sitaramayya**: *"We cannot blame them... any more than we can blame the brick and mortar that is buried six feet deep in the foundation... They have made possible the superstructure... Swaraj... and complete independence."*
+    *   **Bipan Chandra**: *"The period from 1858 to 1905 was the seed time of Indian nationalism; and the early nationalists sowed the seeds well and deep."*
+    *   **Lala Lajpat Rai (Extremist critique)**: *"It was at best an opportunist movement... enabled some people to trade in the name of patriotism."*
+
+---
+
+## Attitude of The Government
+
+*   **Early Hostility**: British government was hostile to the INC from its inception, despite the Moderates' emphasis on constitutional methods and loyalty to the Crown.
+*   **Post-1887 Stiffening**: Official hostility intensified once the INC refused to limit itself only to social reform issues and turned increasingly critical of British administrative policies.
+*   **Derogatory Branding**: Government officials labeled nationalists as *"seditious brahmins"* and *"disloyal babus"*.
+*   **Lord Dufferin**: Branded the INC as a **"factory of sedition"** and a "microscopic minority".
+*   **Divide and Rule Strategy**:
+    *   **Counter-INC Mobilization**: Sponsored and encouraged **Sir Syed Ahmed Khan** and **Raja Shiv Prasad Singh of Benaras** to organize the **United Indian Patriotic Association** to counter nationalist campaigns.
+    *   **Religious Division**: Attempted to drive wedges on religious lines.
+    *   **Carrot and Stick Policy**: Attempted to divide the nationalists by playing the Moderates against the rising Extremists.
+*   **Lord Curzon (1900)**: *"The Congress is tottering to its fall, and one of my great ambitions while in India is to assist it to a peaceful demise."*

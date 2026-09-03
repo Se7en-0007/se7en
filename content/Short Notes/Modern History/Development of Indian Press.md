@@ -1,0 +1,121 @@
+> [!quote] **Notes by** ~ [SE7EN](https://t.me/Se7en_0007)
+> **Source: Chapter 29 @ Spectrum (Modern History)**
+## First Newspapers in India
+* **James Augustus Hickey (1780)** ⇒ Started ***The Bengal Gazette or Calcutta General Advertiser*** (first newspaper in India) ⇒ Seized in **1782** due to outspoken criticism of the government.
+* **Later Publications** ⇒ The Bengal Journal, The Calcutta Chronicle, The Madras Courier, The Bombay Herald.
+* **Company Concerns** ⇒ Fearing exposure of misdeeds in London ⇒ Initiated press curbs.
+
+---
+
+## Early Regulations
+
+### Censorship of Press Act, 1799
+* **Enacted by** ⇒ **Lord Wellesley** (anticipating French invasion).
+* **Provisions** ⇒ Imposed wartime restrictions, including mandatory **pre-censorship**.
+* **Relaxation** ⇒ **Lord Hastings** (progressive views) dispensed with pre-censorship in **1818**.
+
+### Licensing Regulations, 1823
+* **Enacted by** ⇒ Acting Governor-General **John Adams** (reactionary views).
+* **Provisions** ⇒ Starting/operating a press without a license was a penal offence (extended to books, pamphlets, journals).
+* **Primary Target** ⇒ Indian-language papers or those edited by Indians.
+* **Consequence** ⇒ Raja Rammohan Roy’s ***Mirat-ul-Akbar*** ceased publication.
+
+### Press Act of 1835 or Metcalfe Act
+* **Enacted by** ⇒ **Charles Metcalfe** (Governor-General 1835–36).
+* **Significance** ⇒ Repealed the 1823 ordinance; earned the title **"Liberator of the Indian Press"**.
+* **Provisions** ⇒ Printer/publisher must declare precise premises of publication and cease functioning if required by a similar declaration.
+* **Result** ⇒ Rapid growth of newspapers.
+
+### Licensing Act, 1857
+* **Trigger** ⇒ Emergency of the **1857 Revolt**.
+* **Provisions** ⇒ Imposed licensing restrictions on top of existing registration; Government reserved the right to stop publication/circulation of any book, newspaper, or printed matter.
+
+### Registration Act, 1867
+* **Nature** ⇒ Regulatory, not restrictive (replaced Metcalfe's 1835 Act).
+* **Provisions**:
+  1. Every book/newspaper must print name of printer, publisher, and place of publication.
+  2. One copy must be submitted to local government within one month of publication.
+
+---
+
+## Struggle By Early Nationalists To Secure Press Freedom
+* **Early Defence (1824)** ⇒ **Raja Rammohan Roy** protested against resolutions restricting press freedom.
+* **Nationalist Phase (1870–1918)** ⇒ Focused on political propaganda, education, ideology-building, and public opinion consolidation (rather than active mass agitation).
+  * **INC Strategy** ⇒ Relied solely on the press to propagate resolutions and proceedings.
+* **Prominent Newspapers & Journalists**:
+  * ***The Hindu*** & ***Swadesamitran*** ⇒ **G. Subramania Aiyar**
+  * ***The Bengalee*** ⇒ **Surendranath Banerjea**
+  * ***Voice of India*** ⇒ **Dadabhai Naoroji**
+  * ***Amrita Bazar Patrika*** ⇒ **Sisir Kumar Ghosh** and **Motilal Ghosh**
+  * ***Indian Mirror*** ⇒ **N.N. Sen**
+  * ***Kesari*** (Marathi) & ***Mahratta*** (English) ⇒ **Bal Gangadhar Tilak**
+  * ***Sudharak*** ⇒ **Gopal Ganesh Agarkar**
+  * ***Hindustan*** & ***Advocate*** ⇒ **G.P. Verma**
+  * **Punjab** ⇒ ***Tribune*** and ***Akbhar-i-am***
+  * **Bombay** ⇒ ***Gujarati***, ***Indu Prakash***, ***Dhyan Prakash***, ***Kal***
+  * **Bengal** ⇒ ***Som Prakash***, ***Banganivasi***, ***Sadharani***
+* **Key Characteristics**:
+  * Established as **national and public service**, not profit-making businesses.
+  * **Reach** ⇒ Stimulated a library movement; reached remote villages where single papers were read/discussed in local groups (fostering political education & participation).
+  * Functioned as an unofficial institutional opposition to the government.
+* **Government Suppression**:
+  * **Section 124A IPC (1870)** ⇒ Provided transportation for life/term or up to 3 years imprisonment for attempting to cause "disaffection" against the British Government.
+* **Nationalist Subversive Stratagems**:
+  * Prefaced hostile writings with grand expressions of loyalty to the Crown.
+  * Extensively quoted critical writings of socialists or Irish nationalists from British papers.
+
+---
+
+## Vernacular Press Act, 1878
+* **Background**:
+  * Post-1857 racial bitterness; European press supported the government, while the vernacular press became highly critical.
+  * Public anger at **Lord Lytton’s** imperialistic policies, lavish **Delhi Durbar**, and poor handling of the **1876–77 Famine**.
+* **Objective** ⇒ "Better control" the vernacular press; repress "seditious writing" in "publications in oriental languages".
+* **Provisions**:
+  1. District Magistrate empowered to call upon vernacular printers/publishers to sign a bond not to cause disaffection or antipathy between religions, castes, or races.
+  2. Security deposit could be demanded (forfeited on contravention; press equipment seized for repeat offences).
+  3. **No Right of Appeal** ⇒ Magistrate's action was final (could not be challenged in court).
+  4. Exemption could be obtained by submitting proofs to a government censor.
+* **Nickname** ⇒ **"The Gagging Act"**.
+* **Worst Features** ⇒ Discriminated between English & vernacular press; denied right of appeal.
+* **Impact**:
+  * Proceedings started against ***Som Prakash***, ***Bharat Mihir***, ***Dacca Prakash***, and ***Samachar***.
+  * ***Amrita Bazar Patrika*** converted overnight into an English newspaper to escape the Act!
+  * Pre-censorship clause repealed later; a **Press Commissioner** appointed to supply authentic news.
+* **Repeal** ⇒ **Lord Ripon** repealed the VPA in **1882** following fierce opposition.
+
+---
+
+## Repression Against Nationalist Journalists Continues
+* **Imprisonment of Surendranath Banerjea (1883)** ⇒ **First Indian journalist imprisoned** ⇒ For an editorial in ***The Bengalee*** criticizing a Calcutta High Court judge for insensitivity to Bengali religious sentiments.
+* **Bal Gangadhar Tilak & Press Freedom**:
+  * Propagated anti-imperialist sentiments via **Ganapati festivals (1893)**, **Shivaji festivals (1896)**, and his papers ***Kesari*** & ***Mahratta***.
+  * Advocated bringing lower middle classes, peasants, artisans, and workers into Congress.
+  * **1896** ⇒ All-Maharashtra boycott of foreign cloth (protesting cotton excise duty).
+  * **1896–97** ⇒ Organized no-tax campaign in Maharashtra during crop failure.
+  * **1897 Poona Plague** ⇒ High popular resentment against harsh house searches & segregation by the Plague Committee (led by Rand).
+  * **Consequence** ⇒ Chairman Rand killed by the **Chapekar brothers**.
+  * **Government Action** ⇒ Arrested Tilak on charges of incitement to kill British officials, based on a poem published in ***Kesari*** (***Shivaji's Utterances***) and a speech justifying Shivaji's killing of Afzal Khan.
+  * **Outcome** ⇒ Tilak sentenced to **18 months rigorous imprisonment**; became a national hero, earning the title **"Lokmanya"** (respected by the people).
+* **Legal Amendments (1898)** ⇒ Government amended **Section 124A** and added **Section 153A** (making it a criminal offence to bring GoI into contempt or create class hatred).
+* **Newspaper (Incitement to Offences) Act, 1908**:
+  * **Objective** ⇒ Suppress Extremist nationalist activity.
+  * **Provisions** ⇒ Empowered magistrates to confiscate press properties publishing material inciting murder or violence.
+  * **Consequence** ⇒ Tilak tried for sedition; transported to **Mandalay (Burma)** for **6 years**. Led to nationwide strikes (textile/railway workers in Bombay). **Lenin** hailed this as the entry of the Indian working class onto the political stage.
+* **Indian Press Act, 1910**:
+  * **Nature** ⇒ Revived worst features of VPA.
+  * **Provisions** ⇒ Local governments could demand registration security, forfeit security/press on offence, and required printers to submit 2 copies free of charge.
+  * **Impact** ⇒ Nearly **1,000 papers prosecuted**; ₹5 lakh collected in securities/forfeitures in first 5 years; **over 500 publications proscribed**.
+
+---
+
+## During And After The First World War
+* **Wartime Restrictions** ⇒ **Defence of India Rules** imposed to repress public criticism.
+* **Repeal (1921)** ⇒ Press Acts of 1908 and 1910 repealed based on the **Tej Bahadur Sapru** Press Committee recommendations.
+* **Indian Press (Emergency Powers) Act, 1931** ⇒ Empowered provincial governments to suppress propaganda for the **Civil Disobedience Movement** (amplified in 1932 to cover all activities undermining government authority).
+
+---
+
+## During The Second World War
+* **Provisions** ⇒ Pre-censorship imposed under **Defence of India Rules**; Press Emergency Act and Official Secrets Act amended.
+* **Impact** ⇒ Publication of any news related to Congress activities was declared completely illegal.

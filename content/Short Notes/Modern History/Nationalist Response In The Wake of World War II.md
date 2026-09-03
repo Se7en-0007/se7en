@@ -1,0 +1,223 @@
+
+> [!quote] **Notes by** ~ [SE7EN](https://t.me/Se7en_0007)
+> **Source: Chapter 22 @ Spectrum (Modern History)**
+
+## Congress Crisis On Method Of Struggle
+* **Post-CDM Disarray** → Gandhi perceives rising **corruption**, **bogus membership**, & power squabbles in Congress.
+* **Gandhi's Stance** → Put house in order first; masses not yet in the mood for a struggle.
+* **Opposing view** → Mass struggle must continue.
+
+## Haripura and Tripuri Sessions: Subhash Bose’s Views
+* **Subhas Chandra Bose background** → Focus on organizing youth & promoting trade unions.
+* **Radical Ideological Footprint**:
+  * Opposed **Motilal Nehru Report (1928)** (demanded **Complete Independence** vs. Dominion Status) → Formed **Independence League** (with Jawaharlal Nehru).
+  * Vehemently opposed suspension of CDM & signing of **Gandhi-Irwin Pact (1931)** (due to non-negotiation of death sentence for **Bhagat Singh & associates**).
+
+### Haripura
+* **Haripura Session (February 1938, Gujarat)** → Bose unanimously elected President.
+* **Bose Address** → Provincial Congress ministries have immense **revolutionary potential** → Set up **National Planning Committee**.
+* **Princely States Resolution** → Congress to extend **moral support** to internal anti-governance agitations.
+
+### 1939: Subhas Bose Wins But Congress Faces Internal Strife
+* **January 1939 Presidential Contest** → Bose stands for re-election against Gandhi-backed **Pattabhi Sitaramayya**.
+* **Electoral Clash**:
+  * **Bose Stand** → Represents progressive, sharp anti-imperialist ideologies & programmes.
+  * **Gandhi/CWC Old Guard** (Patel, Prasad, Kripalani) → Program/ideology developed by CWC bodies; President is symbolic/constitutional head representing national unity.
+* **Outcome** → Bose wins (**1580** vs. **1377 votes**) with support from **Congress Socialist Party (CSP)** & **Communists**.
+* **Gandhi's Reaction** → "Pattabhi’s defeat is my defeat" → Rift turns into a **Bose vs. Gandhi** constitutional issue.
+
+### Tripuri
+* **Tripuri Session (March 1939, Central Provinces / Jabalpur, MP)**:
+  * **Ideological Polarization** → Sharp inner crisis over method of future struggle.
+  * **Federal Compromise Allegations** → Bose accuses old guard leaders of being open to compromising with British on the Federation scheme.
+  * **Old Guard Resignation** → CWC members resign, citing Bose’s public cast of doubt on their nationalistic principles.
+* **Bose Address & Imperialist War Prophecy**:
+  * Prophesies imminent imperialist war in Europe.
+  * **6-Month Ultimatum Strategy** → Submit national demand of independence to British; if rejected, launch immediate mass **Civil Disobedience**.
+* **Gandhian Counter-Stance** → Not the time for ultimatums; masses/Congress not ready; communal/class strife would sabotage any movement.
+* **Govind Ballabh Pant Resolution**:
+  * Reaffirmed faith in **Gandhian policies**.
+  * Directed Bose to nominate the CWC "in accordance with the wishes of Gandhiji" → Passed (Leftists/Socialists/Communists vote in favor to maintain Congress unity under Gandhi).
+* **Gridlock, Resignation, & Disciplinary Action**:
+  * Gandhi refuses to impose a committee; insists Bose choose his own CWC.
+  * Bose fails to win Gandhi’s confidence; refuses to nominate a committee without Gandhi's blessing.
+  * **April 1939** → Bose resigns → **Rajendra Prasad** elected President.
+  * **May 1939** → Bose forms **Forward Bloc** (at Makur, Unnao) as a faction within Congress.
+  * **August 1939** → Bose removed as **Bengal Provincial Congress Committee (BPCC)** President & barred from holding elective offices for **3 years** due to July 9 anti-AICC protests.
+* **China Resolution (Tripuri)** → Expressed solidarity with China against Japanese imperialism; approved sending of **Medical Mission** to China.
+
+## Gandhi And Bose: Ideological Differences
+* **Mutual Respect**:
+  * Gandhi (1942) → Calls Bose "Prince among the Patriots".
+  * Bose (1944, Rangoon Radio) → Addresses Gandhi as "**Father of Our Nation**" (while maintaining force is the only option).
+* **Shared Ground** → Both supported socialism, worked against untouchability, championed women's emancipation, and disliked communism (due to its anti-religious stance).
+
+## Non-Violence versus Militant Approach
+* **Gandhi** → Non-violence (Ahimsa) & Satyagraha are non-negotiable; unarmed masses cannot win an armed rebellion; violence leaves behind legacy of hatred/bitterness.
+* **Bose** → Non-violence is inadequate; violent resistance/total revolution is essential to oust British; civil disobedience is merely a paralyzing precursor.
+
+## Means and Ends
+* **Gandhi** → Means & ends must be equally pure (Truth/Satyagraha); absolutely opposed to Nazi/Fascist/Japanese axis powers; refused to exploit British distress.
+* **Bose** → Pragmatic/revolutionary opportunism → "Britain's difficulty is India's opportunity"; willing to take help of Axis powers to defeat British, despite personal disapproval of Nazi racialism & democratic suppression.
+
+## Form of Government
+* **Gandhi** → Idealized stateless **Ramrajya** → Decentralized village republics, self-sufficient panchayats, stateless anarchist model (classical Thoreau view: "government is best which governs least"); duties valued over rights.
+* **Bose** → Veered towards initial **authoritarian state** (Provisional Government of Azad Hind, 1943) to enact socialist economic reforms and eradicate poverty.
+  * **Samyavada** = Synthesis of European Socialism (equality, justice) & Fascism (discipline, efficiency).
+  * Rejected internationalism of Communists → **Nationalism must precede internationalism**.
+
+## Militarism
+* **Gandhi** → Opposed military and grand armies; war brutalizes & demoralizes human nature; military only for minimal self-defense.
+* **Bose** → Deeply attracted to military discipline; organized a grand guard of honour in uniform at **Calcutta Congress (1930)** (uneased Gandhi).
+
+## Ideas on Economy
+* **Gandhi** → Decentralized economy without state control; rejected capitalism (exploitative) & Western socialism (linked to industrialization/machinery) → **Village Sarvodaya**; production concurrent with consumption; trusteeship theory (capitalists as moral trustees of societal wealth).
+* **Bose** → Fully favored state-owned & state-controlled **rapid industrialization** (inspired by Soviet industrialization models) → Indispensable to solve unemployment & poverty.
+  * **Threefold Industry Classification**: Heavy (backbone), Medium, & Cottage industries.
+
+## Religion
+* **Gandhi** → God is Truth/Love; religion is the moral anchor of politics/state; all major religions are different paths to the same truth (interfaith harmony).
+* **Bose** → Deeply inspired by Upanishads, Gita, & Vivekananda; used religious symbols (Durga imagery in 1930) to mobilize masses; advocated a secular, impartial state where religion is strictly a private matter.
+
+## Caste and Untouchability
+* **Gandhi** → Eradicate untouchability (incompatible with Swaraj) but **supported the varna system** (believed caste divisions preserved social harmony and reciprocity).
+* **Bose** → Completely rejected caste system & social hierarchy; advocated an egalitarian, casteless, & classless society via socialist revolution; supported inter-caste marriages.
+
+## Women
+* **Gandhi** → Instrumental in mass mobilization of women (against purdah, child marriage, dowry); but held traditional patriarchal views: women complementary to men, passive caretakers of home, mothers/distributors of bread; drew ideal model from patient suffering of **Sita**.
+* **Bose** → Viewed women as absolute equals in state and combat; established **Rani of Jhansi Regiment (1943)** under **Captain Lakshmi Sahgal** in INA; insisted on a separate planning commission for women in 1938 (chaired by **Rani Lakshmi Bhai Rajawade**).
+
+## Education
+* **Gandhi** → Vernacular medium of instruction; free & compulsory education (7–14 years) → **Nai Talim (1937)** (holistic education emphasizing manual labor, handicrafts, moral wisdom over rote literacy).
+* **Bose** → Higher scientific, technological, & vocational education; planned system of sending Indian students abroad to build modern national industries.
+
+## Second World War And Nationalistic Response
+* **September 1, 1939** → Germany attacks Poland → Outbreak of **World War II**.
+* **September 3, 1939** → Britain declares war; Viceroy unilaterally commits India without consulting public/provincial opinion.
+
+## Congress Offer to Viceroy
+* **Conditional Support Offered**:
+  1. Convene a **Constituent Assembly** after the war to frame free India's constitution.
+  2. Establish a **genuinely responsible government** immediately at the Centre.
+* **Outcome** → Offer rejected by Viceroy **Linlithgow**.
+
+## CWC Meeting at Wardha (September 10–14, 1939)
+* **Tripartite Internal Debates**:
+  * **Gandhi Stand** → Unconditional moral support to Britain (sympathizes with Allied democracies against totalist Fascism/Nazism).
+  * **Bose & Left Socialists (Narendra Dev, JP) Stand** → Imperialist war on both sides; launch immediate civil disobedience to exploit British weakness.
+  * **Nehru Stand** → Distinguishes democracies from Fascism, but recognizes war is capitalist/imperialist; no participation till India is free, but no immediate struggle to exploit Britain's difficulty.
+* **Resolution Adopted** → Condemned Fascist aggression; declared India cannot fight for democratic freedom when denied to itself; asked Britain to declare war aims and apply democracy to India.
+
+## Government Attitude And Congress Ministries’ Resignation
+* **October 17, 1939 (Linlithgow Statement)**:
+  * Refused to define British war aims beyond resisting aggression.
+  * Promised to consult various Indian interests (Muslim League, princes) after the war to modify the 1935 Act.
+  * Proposed setting up a purely advisory "consultative committee" immediately.
+
+## Government’s Hidden Agenda
+* **Policy Strategy** → Provoke Congress into a confrontation during wartime to justify acquiring draconian powers & launching pre-emptive strikes.
+* **Emergency Acquisitions**:
+  * Amended 1935 Act to acquire central emergency control over provincial subjects.
+  * Enforced **Defence of India Ordinance** (curbed civil liberties).
+  * Top-Secret **Draft Revolutionary Movement Ordinance (May 1940)** planned to cripple Congress.
+* **British Executive backing** → Winston Churchill (PM) & Zetland (Secretary of State) actively support repressive policy, branding Congress a purely Hindu group.
+
+## Congress Ministries Decide to Resign
+* **October 23, 1939 CWC Resolution**:
+  * Rejected viceroy's statement as a repetition of imperialist policy.
+  * Decided not to support the war.
+  * **Resignation Call** → Directed all provincial Congress ministries to resign (effective late October/November 1939).
+
+## Debate on The Question of Immediate Mass Satyagraha
+* **Gandhi/CWC Majority objections to immediate mass struggle**:
+  * Allied cause is just; did not want to embarrass Britain in crisis.
+  * Massive **communal sensitivity** (fear of Hindu-Muslim riots).
+  * Congress organization was structurally weak/unprepared.
+  * Masses were not yet ready for a prolonged struggle.
+* **Alternative approach** → Focus on political mass-education, organizational consolidation, and active negotiations.
+* **January 1940 (Linlithgow declaration)** → Goal of British policy is "Dominion Status of Westminster variety" after the war.
+
+### Ramgarh Session of The Congress (March 1940)
+* **President** → **Maulana Abul Kalam Azad**.
+* **Key Resolutions**:
+  * Declared people will accept nothing short of complete independence (rejects Dominion Status or any status within imperial structure).
+  * Decided to resort to **civil disobedience** as soon as the organization was deemed fit or crisis was precipitated.
+  * Left the form and timing of the struggle entirely to Gandhi.
+
+### Pakistan Resolution - Lahore (March 1940)
+* Passed by **Muslim League**; demanded grouping of geographically contiguous Muslim-majority areas (North-West, East) into autonomous, sovereign independent states.
+
+## August Offer
+* **Background** → Fall of Belgium, Holland, & France to Hitler puts Britain in a desperate, conciliatory mood.
+* **Linlithgow Announcement (August 1940) Proposals**:
+  1. **Dominion Status** as the explicit objective for India.
+  2. Expansion of Viceroy's Executive Council with an Indian majority.
+  3. Setting up a post-war **Constituent Assembly** where Indians would frame the constitution.
+  4. **Minority Veto** → No future constitution to be adopted without the consent of minorities.
+
+## Responses
+* **Congress** → Rejected the offer. Nehru: "Dominion status concept is dead as a doornail."
+* **Muslim League** → Welcomed the minority veto assurance; reiterated partition as the only solution.
+
+## Evaluation
+* **Significance**:
+  * Conceded the inherent right of Indians to frame their own constitution.
+  * Conceded the Congress demand for a Constituent Assembly.
+* **July 1941 Executive Council Enlargement** → Indians given **8 out of 12** seats for the first time (though British retained Defence, Finance, & Home portfolios); advisory **National Defence Council** set up.
+
+## Individual Satyagraha
+* **Context** → Government's refusal to make constitutional advances & active suppression of speech/press.
+* **Objectives**:
+  1. Show nationalist patience is not a sign of weakness.
+  2. Express public anti-war sentiment (drawing no distinction between Nazism and British autocracy).
+  3. Offer a peaceful opportunity for government to negotiate.
+* **Modus Operandi** → Selected individual satyagrahis make anti-war declarations. If not arrested, they march toward Delhi starting the **"Delhi Chalo" Movement**.
+* **First Satyagrahi** → **Acharya Vinoba Bhave**.
+* **Second Satyagrahi** → **Jawaharlal Nehru**.
+* **Outcome** → By May 1941, over **25,000 satyagrahis** convicted.
+
+## Gandhi Designates Nehru As His Successor
+* **December 1941** → Congress leaders released due to critical Japanese threat (fall of Rangoon in March 1942).
+* **Strategic Shift** → CWC overrides Gandhi/Nehru objections, offering conditional military cooperation if complete independence after war and immediate power transfer are guaranteed.
+* **Successor Designation**:
+  * Gandhi officially names **Jawaharlal Nehru** as his chosen successor.
+  * **Ideological divergence**: Nehru favored modern state power, science, & rapid industrialization; Gandhi favored stateless communities, conscience, & decentralized rural economy.
+  * **Causative factors of choice** → Nehru was an inclusive, pluralistic, all-India leader trusted by Muslims, respected in the South, and admired by women (unlike sectional alternates like Patel, Rajaji, Azad, Prasad).
+
+## Cripps Mission
+* **Cripps Mission (March 1942)** → Headed by **Stafford Cripps** (left-wing Labourite, leader of House of Commons).
+
+### Why Cripps Mission Was Sent
+* Severe British military reverses in South-East Asia and the real threat of Japanese invasion of India.
+* Intense pressure on Britain from Allies (USA, USSR, China) to secure Indian cooperation.
+
+### Main Proposals
+1. **Dominion Status** for Indian Union with the right to withdraw from the Commonwealth and participate in the UN.
+2. Post-war **Constituent Assembly** to frame a new constitution (members elected via proportional representation by provincial assemblies, and nominated by princely rulers).
+3. **Provincial Secession Provision** → Any province unwilling to join the Union could have a separate constitution and form a separate Union.
+4. **Interim Period** → Defence of India remains in British hands; Governor General's autocratic powers/veto remain intact.
+
+### Departures From The Past and Implications
+* Constitution making was to be solely in Indian hands (conceded from the "mainly" of the August Offer).
+* Concrete procedural plan provided for the assembly.
+* **Blueprint for partition** through provincial option to secede.
+* Provision to withdraw from the Commonwealth.
+
+### Why Cripps Mission Failed
+* **Congress Objections**:
+  * Demanded **Complete Independence** immediately instead of Dominion Status.
+  * Opposed non-democratic nomination of princely representatives by rulers rather than elections.
+  * Opposed **right of provinces to secede** (violated national unity).
+  * Absence of immediate transfer of power & control of Defence.
+* **Muslim League Objections**:
+  * Criticized a single Indian Union model.
+  * Opposed the Constituent Assembly machinery & accession procedures.
+  * Argued proposals denied the right of self-determination and creation of **Pakistan**.
+* **Other Groups' Objections**:
+  * **Sikhs** → Secession would split Punjab.
+  * **Depressed Classes** → Secession would leave them at the mercy of caste Hindus.
+  * **Liberals / Hindu Mahasabha** → Secession threatened national security and integrity.
+* **Breakdown Point** → Failure on the question of the **Viceroy’s veto**. Churchill, Amery, & Linlithgow consistently sabotaged Cripps' efforts.
+* **Famous Verdicts**:
+  * Gandhi → "A **post-dated cheque** (on a crashing bank)."
+  * Nehru → "Existing autocratic structure remains; we will become viceroy's liveried camp followers looking after canteens."

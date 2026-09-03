@@ -1,0 +1,203 @@
+
+> [!quote] Notes by ~ [SE7EN](https://t.me/Se7en_0007)
+> **Source: Chapter 07 @ Spectrum (Modern History)**
+
+### Simmering Discontent
+* **British Rule (1757–1857) → Cumulative Exploitation** (Expansionist policies + Economic ruin + Administrative changes) ⇒ Harmed all classes (**Rulers, Sepoys, Zamindars, Peasants, Artisans, Pundits, Maulvis**).
+* **Pre-1857 outbursts**: Period was not peaceful; saw frequent religio-political violence, tribal movements, peasant uprisings, and civil rebellions.
+* **Key Triggers**: Enhanced land revenue demands (even during famines) + British backing of usurious moneylenders + Interference in native customs.
+* **Outcome**: Localized uprisings suppressed with brutality, paving way for the mass explosion of **1857**.
+
+---
+
+### The 1857 Revolt: The Major Causes
+
+### Economic Causes
+* **Revenue Settlements**: High taxation → Peasant impoverishment → Usurious loans from moneylenders → Land eviction. Moneylenders became new landlords; landless peasantry & rural debt soared.
+* **Traditional Zamindari**: Forced to disintegrate.
+* **Artisans & Handicrafts**: Native state annexations cut off traditional patron class (**native rulers & nobles**).
+* **Tariff Policy**: One-way free trade. High tariffs on Indian exports to Britain vs. low tariffs on British machine-made imports to India ⇒ Handloom & spinning wheel destroyed (**Karl Marx, 1853**).
+* **Landed Aristocracy**: Land rights forfeited via **quo warranto** inquiries.
+  * **Awadh**: **21,000 taluqdars** had estates confiscated ⇒ Left with no income ("unable to work, ashamed to beg, condemned to penury").
+* **Overall Impact**: Pressure on land ↑ → Pauperisation of India.
+
+### Political Causes
+* **Greedy Aggrandisement**: Broken pledges/treaties → Contempt for Company.
+* **Imperial Policies**: **Effective Control** + **Subsidiary Alliance** + **Doctrine of Lapse** (denial of succession rights to adopted heirs of Hindu princes).
+* **Humiliation of Mughals**: On Prince Faqiruddin’s death (1856), **Lord Canning** announced that the next prince must renounce the **regal title** and **ancestral palaces** (Red Fort).
+* **Administrative Collapse**: Displaced rulers' collapse ruined dependents in cultural & religious fields.
+
+### Administrative Causes
+* **Rampant Corruption**: Heavily prevalent in police, petty officials, and lower law courts.
+* **Alien Character**: Absentee sovereignty → British rule felt foreign and detached.
+
+### Socio-Religious Causes
+* **Racial Arrogance**: Superiority complex of British administrative attitude.
+* **Christian Missionaries**: Activities looked upon with extreme suspicion.
+* **Socio-Religious Reforms**: Abolition of **Sati**, support for **widow remarriage**, and **women’s education** viewed as alien interference.
+* **Religious Disabilities Act, 1856**: Declared change of religion did not debar a son from inheriting his ancestral property.
+* **Taxation**: Government taxed mosque and temple lands.
+
+### Influence of Outside Events
+* **British Military Reverses**: Serious losses in **First Afghan War (1838–42)**, **Punjab Wars (1845–49)**, and **Crimean Wars (1854–56)** ⇒ Shattered myth of British invincibility.
+
+### Discontent Among Sepoys
+* **Religious Conflicts**: Restrictions on wearing caste/sectarian marks + Rumours of chaplains' proselytising activities.
+* **Socio-religious taboo**: Crossing the seas = loss of caste.
+* **General Service Enlistment Act, 1856**: Recruits to Bengal Army must undertake to serve anywhere required ⇒ Caused widespread resentment.
+* **Financial Grievances**: Substandard emoluments compared to British soldiers + Abolition of foreign service allowance (**bhatta**) in Sindh and Punjab.
+* **Annexation of Awadh**: Home of many sepoys ⇒ Highly inflamed feelings.
+* **Racial Discrimination**: Subordinate treatment, denial of promotion/privileges.
+* **Sepoy Consciousness**: Sepoy = "**peasant in uniform**"; shared the same grievances as the rural population.
+* **Past Mutinies**: History of revolts: **Bengal (1764)**, **Vellore (1806)**, **Barrackpore (1825)**, and during the **Afghan Wars (1838–42)**.
+
+---
+
+### Beginning And Spread Of The Revolt
+
+### The Spark
+* **The Rumour**: Mixing of bone dust in *atta* (flour) + Enfield rifle cartridge grease containing **beef (sacred to Hindus)** and **pig fat (taboo to Muslims)**.
+* **Action**: Sepoys had to bite off the greased paper cartridge before loading.
+
+### Starts at Meerut
+* **Berhampore (Feb 1857)**: **19th Native Infantry** refused Enfield rifle; regiment disbanded (March 1857).
+* **Barrackpore**: Young sepoy **Mangal Pande** (**34th Native Infantry**) shot at his sergeant-major on March 29. Executed on **April 8, 1857**; regiment disbanded (May).
+* **Lucknow (May 3)**: **7th Awadh Regiment** defied officers; disbanded.
+* **Meerut (April 24)**: **90 men** of **3rd Native Cavalry** refused greased cartridges.
+  * **May 9**: **85 sepoys** dismissed, sentenced to 10 years' jail, put in fetters.
+  * **May 10**: Outbreak of general mutiny. Soldiers killed officers, freed comrades, marched to Delhi after sunset.
+
+### Choice of Bahadur Shah as Symbolic Head
+* **Delhi Capture**: May 11, Meerut sepoys reached Delhi. Local infantry joined them, killed European officers (including political agent **Simon Fraser**).
+* **Symbol of Unity**: Proclaimed aged, powerless **Bahadur Shah Zafar** as **Emperor of India**. 
+  * Spontaneous move recognized Mughal dynasty as traditional symbol of India's political unity.
+  * Transformed mutiny into a revolutionary war; rebel chiefs swore loyalty to the Emperor.
+* **Confederacy Plan**: Bahadur Shah wrote to native chiefs to form a confederacy to replace British rule.
+* **Rebellion Spread**: Bengal Army rose; British authority collapsed in **Awadh**, **Rohilkhand**, **the Doab**, **Bundelkhand**, **central India**, **Bihar**, and **East Punjab**.
+
+### Civilians Join
+* **Popular Revolt**: Mass participation of peasants, artisans, shopkeepers, day labourers, zamindars, priests, and civil servants.
+* **Targeting Oppressors**: Peasants & petty zamindars attacked moneylenders and destroyed debt/account records; looted tehsils, police stations, law courts, and revenue files.
+* **Awadh Casualties**: Out of **1,50,000** rebel dead, over **1,00,000** were civilians.
+
+### Storm Centres and Leaders of The Revolt
+
+| Storm Centre     | Rebel Leader(s)                                                               | Key Events & Details                                                                                                                                                                                       | British Suppressor                                                                                                                                                                                      |
+| :--------------- | :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Delhi**        | **Bahadur Shah Zafar** (nominal); **General Bakht Khan** (real military head) | Bakht Khan led Bareilly troops to Delhi. Real affairs run by a **court of 10 soldiers** (6 army, 4 civil). Emperor was the weakest link.                                                                   | **Lieutenant Willoughby** (offered initial resistance), **John Nicholson** (led siege, killed), **Lieutenant Hudson** (butchered royal princes).                                                        |
+| **Kanpur**       | **Nana Saheb** (adopted son of Peshwa Baji Rao II)                            | Expelled British, declared himself Peshwa, acknowledged Bahadur Shah.                                                                                                                                      | **Sir Hugh Wheeler** (surrendered/killed June 27, 1857); **Sir Colin Campbell** (occupied Kanpur Dec 6, 1857).                                                                                          |
+| **Lucknow**      | **Begum Hazrat Mahal** & son **Birjis Qadir** (declared Nawab)                | Rebellion broke out June 4, 1857. Regular administration set up with Hindu-Muslim parity. Besieged British Residency.                                                                                      | **Henry Lawrence** (Resident, killed); **Brigadier Inglis** (held garrison); **Havelock** & **Outram** (failed to recapture); **Sir Colin Campbell** (evacuated Europeans, recaptured city March 1858). |
+| **Bareilly**     | **Khan Bahadur** (descendant of Rohilkhand ruler)                             | Refused British pension; raised an army of **40,000 soldiers** to offer stiff resistance.                                                                                                                  | **Sir Colin Campbell**                                                                                                                                                                                  |
+| **Bihar**        | **Kunwar Singh** (70+ year old zamindar of **Jagdishpur**)                    | Deprived of estates by British; joined Arrah sepoys from Dinapore. Outstanding strategist.                                                                                                                 | **William Taylor** & **Vincent Eyre**                                                                                                                                                                   |
+| **Faizabad**     | **Maulvi Ahmadullah**                                                         | Native of Madras; moved north, emerged as leading figure in Awadh rebellion.                                                                                                                               | **British forces**                                                                                                                                                                                      |
+| **Jhansi**       | **Rani Laxmibai**                                                             | Dalhousie refused to recognize her adopted son under Doctrine of Lapse. Battle cry: *"main apni Jhansi nahin doongi"*. Joined by **Tantia Tope** after Kanpur's fall.                                      | **Sir Hugh Rose** (captured Jhansi; Rani died in battle in June 1858).                                                                                                                                  |
+| **Gwalior**      | **Rani Laxmibai** & **Tantia Tope**                                           | Marched to Gwalior; local ruler **Scindia** fled to Agra to side with British. Nana Saheb proclaimed Peshwa. Gwalior recaptured June 1858.                                                                 | **Sir Hugh Rose**                                                                                                                                                                                       |
+| **Baghpat (UP)** | **Shah Mal** (local villager in Pargana Baraut)                               | Organised peasants of **84 villages** (*chaurasi desh*). Destroyed bridges/roads. Turned canal bungalow into 'hall of justice'. Sent supplies to Delhi. Killed by **Dunlap** in July 1857; body mutilated. | **Dunlap**                                                                                                                                                                                              |
+
+---
+
+### Suppression Of The Revolt
+* **Timeline of Suppression**:
+  * **Sept 20, 1857**: **Delhi recaptured** after bitter fighting. Bahadur Shah captured, sons publicly shot by Hudson. Emperor exiled to **Rangoon** (died 1862).
+  * **Dec 6, 1857**: Colin Campbell occupied Kanpur. Nana Saheb escaped to Nepal (1859).
+  * **June 1858**: Rani of Jhansi died on battlefield. Gwalior recaptured.
+  * **April 1859**: Tantia Tope captured while asleep in central India jungles; executed.
+  * **By 1859**: Kunwar Singh, Bakht Khan, Khan Bahadur Khan, Rao Sahib, and Maulvi Ahmadullah were dead; Begum of Awadh hid in Nepal.
+  * **Benaras**: Rebellion crushed ruthlessly by **Colonel Neill** via public hangings of suspected rebels & disorderly sepoys.
+  * **End of 1859**: British authority fully re-established. 
+* **Financial Burden**: Cost of suppression was borne entirely by the Indian taxpayers.
+
+---
+
+### Why The Revolt Failed
+
+### All-India Participation was Absent
+* **Geographical Limitation**: Eastern, southern, and western regions of India remained largely untouched (earlier uprisings there had been crushed recently).
+
+### All Classes Did Not Join
+* **Indian Rulers**: Acted as **“break-waters to the storm”**. Active assistance/neutrality given by **Scindia of Gwalior, Holkar of Indore, rulers of Patiala, Sindh, Sikh chieftains, and Maharaja of Kashmir**.
+* **Landed Elites**: Big zamindars and Awadh taluqdars backed off once land restitution was promised.
+* **Moneylenders & Merchants**: Suffered rebel attacks; saw their long-term interests protected by British rule.
+* **Educated Middle Class**: Viewed the revolt as backward-looking, feudal, and reactionary. Hoped British rule would modernize India.
+* **Scale**: ≤ **1/4th of area** and ≤ **1/10th of population** affected.
+
+### Poor Arms and Equipment
+* Swords, spears, and limited muskets vs. British **Enfield rifles**.
+* Use of **Electric Telegraph** kept British C-in-C informed about rebel positions and strategy.
+
+### Uncoordinated and Poorly Organised
+* No central planning, coordination, or singular military command.
+* Rebel leaders were highly localized and proved no match to British generals like the **Lawrence brothers**, **John Nicholson**, **James Outram**, and **Henry Havelock**.
+
+### No Unified Ideology
+* Lack of unified socio-political program or alternative vision for Indian society.
+* Modern nationalism was still unknown; the concept of a unified nation did not exist in 1857.
+
+---
+
+### Hindu-Muslim Unity Factor
+* **Complete Cooperation**: At all levels (leaders, soldiers, civilians).
+* **Mughal Symbolism**: Both communities recognized Bahadur Shah Zafar as symbolic head.
+* **Mutual Respect**: Rebels immediately banned cow slaughter in areas they liberated.
+* **Parity in Power**: **Azimullah** (Muslim propaganda expert) was close aide to Nana Saheb; **Rani Laxmibai** had solid backing of Afghan soldiers.
+* **Inference**: Demonstrated that Indian politics and masses were not communalized prior to 1858.
+
+---
+
+### Nature Of The Revolt
+
+Various historical perspectives and interpretations:
+* **Sir John Seeley**: A wholly unpatriotic, selfish "**Sepoy Mutiny**" with no native leadership or popular support.
+* **Dr K. Datta**: Mainly a military outbreak utilized by disgruntled feudal princes/landlords. Restructured, localized, with no cohesive purpose.
+* **V.D. Savarkar**: Proclaimed it as a planned "**First War of Indian Independence**" (*The Indian War of Independence, 1857*), driven by the ideal of self-rule (*Swaraj*).
+* **Dr S.N. Sen** (*Eighteen Fifty-Seven*): Began as a fight for religion, but ended as a **war of independence**.
+* **Dr R.C. Majumdar**: *"Neither First, nor National, nor War of Independence"* (large parts unaffected, people lacked national sentiment).
+* **Marxist Historians**: A struggle of the **soldier-peasant democratic combine** against foreign and feudal bondage.
+* **Jawaharlal Nehru**: Essentially a **feudal uprising**, though containing nationalistic elements.
+* **M.N. Roy**: Last-ditch stand of feudalism against commercial capitalism.
+* **R.P. Dutt**: Peasantry uprising against foreign domination, albeit defending the old feudal order.
+* **S.B. Chaudhuri**: First combined attempt of many classes to challenge a foreign power; a remote approach to the later freedom movement.
+
+---
+
+### Consequences
+* **Act for the Better Government of India (August 2, 1858)**:
+  * Abolished **Company rule**; transferred power directly to the **British Crown**.
+  * Declared **Queen Victoria** as sovereign of British India.
+  * Created office of the **Secretary of State for India** (a British Cabinet member) assisted by a council.
+* **Queen’s Proclamation (November 1, 1858)**:
+  * Announced by **Lord Canning** at Allahabad Durbar.
+  * Governor General received additional title of **Viceroy**.
+  * Era of annexations & territorial expansion ended; promised to respect rights & dignity of native princes.
+  * Native states were to accept **paramountcy of the British Crown** (treated as parts of a single charge).
+  * Promised **freedom of religion**, equal protection under law, and **equal opportunities** in public services.
+  * Promised due regard for traditional Indian customs and practices.
+* **Army Reorganisation**:
+  * Dominated by the policy of **“division and counterpoise”** based on the principle of *divide and rule*.
+  * Indian soldiers reduced, European forces increased.
+  * Formed military units based on caste, community, and region to prevent cohesion.
+  * Recruitment shifted away from Bengal/Awadh to "**martial races**" (Sikhs of Punjab, Gorkhas of Nepal, Pathans of NW Frontier) who stayed loyal during the revolt.
+  * **Army Amalgamation Scheme, 1861**: Transferred Company's European troops to the Crown.
+  * **Linked-battalion scheme** introduced for periodical revamp of European troops.
+  * All Indian artillery disbanded (except a few mountain batteries); artillery and higher posts reserved strictly for Europeans.
+* **End of Reforms**:
+  * Victorian reformist zeal evaporated; replaced by a **"conservative brand of liberalism"** (**Thomas Metcalf**).
+  * Policy of non-interference in traditional social structures ⇒ Ended social reforms; made British rule more autocratic.
+  * Systematically denied aspirations of educated Indians to share power.
+* **Economic Exploitation**: Territorial conquest replaced by systematic, unrestrained economic drain of India.
+* **Indian Civil Service Act, 1861**: Designed to give impression of equality, but detailed rules kept higher bureaucracy a close preserve of the British.
+* **Racial Chasm**: Worst legacy. Deepened racial hatred and mutual suspicion. British media depicted Indians as subhuman, justifying the **"Whiteman's burden"** ideology.
+
+#### White Mutiny
+* **Concept**: Unrest among a section of European forces employed under the Company during the transfer of power to the Crown (1859).
+* **Cause**: European troops resented being transferred to the Queen's Army without an enlistment bonus, and opposed the termination of **batta** (extra allowances for field operations).
+* **Outcome**: Potential threat to British security. Demands for free release with free passage home were accepted; mutinous soldiers opted to return to England.
+
+---
+
+### Significance Of The Revolt
+* **For the British**: Exposed glaring administrative and military loopholes, which they promptly reorganized.
+* **For the Indians**: 
+  * Showed that primitive weapons could not compete with modern European arms.
+  * Senseless atrocities on both sides convinced emerging intellectuals to eschew violence in future struggles.
+  * Established deep-rooted **local traditions of resistance** and sowed the seeds of modern Indian nationalism.
