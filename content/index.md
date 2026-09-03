@@ -10,16 +10,16 @@ Things will keep getting added, edited and hopefully improved as I learn more
 
 ## What You'll Find Here
 
-**1. Revision-Friendly Notes**  
+1. [Revision-Friendly Notes](https://se7en-0007.github.io/se7en/1.-standard-books/)
 Notes based on **Standard Books** and other reliable sources, organised in a way that makes them easier to revise
 
-**2. Anthropology (My Optional)**  
+2. [Anthropology (My Optional)](https://se7en-0007.github.io/se7en/2.-anthropology/)
 My **Anthropology Notes** which are based on **Dr. Sudhir Kumar Sir's Anthropology Foundation**
 
-**3. Current Affairs**  
+3. [Current Affairs](https://se7en-0007.github.io/se7en/3.-current-affairs/)
 **Notes & Summaries** based on **The Hindu Editorials, Indian Express Explained Articles, PIB Backgrounders** and other relevant sources
 
-**4. Class Notes**  
+4. [Class Notes](https://se7en-0007.github.io/se7en/4.-class-notes/)
 Class Notes of **Teachers** consolidated and organised at one place
 
 ## Important Disclaimer
