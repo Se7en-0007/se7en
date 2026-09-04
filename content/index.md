@@ -35,6 +35,6 @@ I'll keep updating this website as I continue studying
 
 So if you visit it regularly, make sure to **clear the site's or browser cache and refresh the page** from time to time. Otherwise, your browser might show you yesterday's version without any updates
 
----
 
-**Happy Learning !!**
+> [!quote] **Happy Learning !!**
+
