@@ -1,3 +1,7 @@
+> [!quote] **Notes by** ~ [SE7EN](https://t.me/Se7en_0007)
+> **Credits & Source** → Based on The **Class Notes** of **Mr. Akshay Vrat**
+
+
 This lecture transitions from the foundational concepts of climate vulnerability (such as wet-bulb temperature thresholds and physiological heat stress) into the chemical, thermodynamic and mechanical drivers of **global warming**. It details the classification of **greenhouse gases (GHGs)** based on their origin, chemical structure and atmospheric behavior; provides an exhaustive analysis of the geochemical processes of **aerobic and anaerobic decomposition**; and explores agricultural, industrial and municipal sources of emissions, emphasizing the physiological mechanisms of **enteric fermentation** in ruminants and the transition from **traditional rice cultivation** to low-emission methodologies.
 
 ---
