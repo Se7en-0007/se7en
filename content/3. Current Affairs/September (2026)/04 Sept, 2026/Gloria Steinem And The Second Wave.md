@@ -34,7 +34,7 @@
 - These gaps shaped the **Third Wave of Feminism** in the **1990s**.
 - Lawyer and scholar **Kimberlé Crenshaw** developed the concept of **intersectionality**, examining how overlapping identities such as **race, class, gender, sexuality**, and in India, **caste**, shape people’s social experiences.
 - This broadened awareness of **harassment in the workplace**.
-- The **Fourth Wave**, emerging in the **2010s**, built upon these gains. The #MeToo movement was a major example, while the wave also widened the scope to include **LGBTQ identities**.
+- The **Fourth Wave**, emerging in the **2010s**, built upon these gains. The "MeToo" movement was a major example, while the wave also widened the scope to include **LGBTQ identities**.
 
 ### Gender As A Critical Category
 
