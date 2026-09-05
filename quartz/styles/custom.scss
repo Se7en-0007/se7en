@@ -17,3 +17,34 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+
+
+/* TOC indentation by heading level */
+
+.toc ul.toc-content .depth-0 {
+  padding-left: 0;
+}
+
+.toc ul.toc-content .depth-1 {
+  padding-left: 1rem;
+}
+
+.toc ul.toc-content .depth-2 {
+  padding-left: 2rem;
+}
+
+.toc ul.toc-content .depth-3 {
+  padding-left: 3rem;
+}
+
+.toc ul.toc-content .depth-4 {
+  padding-left: 4rem;
+}
+
+.toc ul.toc-content .depth-5 {
+  padding-left: 5rem;
+}
+
+.toc ul.toc-content .depth-6 {
+  padding-left: 6rem;
+}
