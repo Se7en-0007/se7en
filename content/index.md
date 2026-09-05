@@ -37,12 +37,15 @@ So if you visit it regularly, make sure to **clear the site's or browser cache 
 
 > [!danger] **In Progress**
 > 
-> - **PMF IAS (Physical Geography)** @ **Revision-Friendly Notes**
-> - **Anthropology (Dr. Sudhir Kumar)** @ **Anthropology**
-> - **Environment (Mr. Akshay Vrat)** @ **Class Notes**
-> - **Ancient History (Mr. Praveen Dixit)** @ **Class Notes**
+> - **Standard Books (Revision-Friendly Notes)**
+> 	- PMF IAS (Physical Geography)
+> - **Class Notes**
+> 	- Anthropology (Dr. Sudhir Kumar)
+> 	- Environment (Mr. Akshay Vrat)
+> 	- Ancient History (Mr. Praveen Dixit)
 
  
 > [!success] **Completed**
 > 
-> - **Spectrum (Modern History)** @ **Revision-Friendly Notes**
+> - **Standard Books (Revision-Friendly Notes)**
+> 	- Spectrum (Modern History)
