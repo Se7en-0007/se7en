@@ -1,3 +1,6 @@
+> [!quote] **Notes by** ~ [SE7EN](https://t.me/Se7en_0007)
+> 
+
 **1498 :** Vasco da Gama reached **Calicut**, establishing a direct maritime route between Europe and India and beginning the Portuguese phase of European expansion in India.
 
 **1505 :** **Francisco de Almeida** became the first Portuguese governor/viceroy in India and developed the policy of establishing naval supremacy, known as the **Blue Water Policy**.

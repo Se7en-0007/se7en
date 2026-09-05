@@ -10,22 +10,21 @@ This lecture transitions from the foundational concepts of climate vulnerability
 
 The climate system of Planet Earth is governed by a delicate thermodynamic balance. To analyze this balance, we must examine the interactions between solar radiation, the Earth's surface and the atmosphere.
 
-```
-       [ SHORTWAVE SOLAR RADIATION ] (High Energy, UV & Visible Light)
-                   │
-                   ▼ (Passes through atmosphere relatively unhindered)
-         ┌───────────────────┐
-         │  Earth's Surface  │ <─── Absorbs energy and warms up
-         └───────────────────┘
-                   │
-                   ▼ (Re-emitted as Low Energy, Heat)
-       [ LONGWAVE INFRARED RADIATION ] (Low Energy, High Wavelength)
-                   │
-         ┌─────────┴─────────┐
-         ▼                   ▼
-[ Escapes to Space ]   [ Trapped by Greenhouse Gases ]
-                       (Radiative Forcing & Atmospheric Re-emission)
-```
+|                            **Process**                            |
+| :---------------------------------------------------------------: |
+| **[Shortwave Solar Radiation] (High Energy, UV & Visible Light)** |
+|                                 ↓                                 |
+|       **(Passes Through Atmosphere Relatively Unhindered)**       |
+|                                 ↓                                 |
+|       **Earth's Surface** ← **Absorbs Energy And Warms Up**       |
+|                                 ↓                                 |
+|               **(Re-Emitted As Low Energy, Heat)**                |
+|                                 ↓                                 |
+|  **[Longwave Infrared Radiation] (Low Energy, High Wavelength)**  |
+|                                 ↓                                 |
+|                        ↙　　　　　　　　　　　　　　　　　↘                        |
+|   **[Escapes To Space]**　　　　 **[Trapped By Greenhouse Gases]**    |
+|         **(Radiative Forcing & Atmospheric Re-Emission)**         |
 
 ### Incoming vs. Outgoing Radiation
 1. **Incoming Shortwave Radiation**: The Sun emits electromagnetic radiation primarily in the high-energy, short-wavelength spectrum, including **ultraviolet (UV)** and **visible light**. Because the atmospheric gases are mostly transparent to these short wavelengths, this radiation passes through the atmosphere relatively unhindered to reach the Earth's surface.
@@ -67,24 +66,30 @@ To formulate effective environmental policies, greenhouse gases must be classifi
 
 To understand why certain gases absorb infrared radiation while others do not, we must analyze their molecular physics and structural chemistry.
 
-```
-       [ DIATOMIC MOLECULES (N2, O2) ]
-              Symmetrical Charge
-               ┌──────────────┐
-               │  N  ≡  N     │ 
-               └──────────────┘
-          No Dipole Moment Change
-           ❌ Non-Greenhouse Gas
+**Diatomic Molecules (N₂, O₂)**
 
-       [ TRIATOMIC MOLECULES (CO2, H2O) ]
-         Asymmetrical/Bending Vibrations
-         ┌─────────────────────────┐
-         │     O  ═  C  ═  O       │
-         │    ↙      ▲      ↘      │
-         └─────────────────────────┘
-          Dynamic Dipole Moment
-           ✅ Greenhouse Gas
-```
+**Symmetrical Charge**
+
+| **Structure** |
+|:---:|
+| **N ≡ N** |
+
+**No Dipole Moment Change**  
+❌ **Non-Greenhouse Gas**
+
+---
+
+**Triatomic Molecules (CO₂, H₂O)**
+
+**Asymmetrical/Bending Vibrations**
+
+| **Structure** |
+|:---:|
+| **O = C = O** |
+| ↙　　▲　　↘ |
+
+**Dynamic Dipole Moment**  
+✅ **Greenhouse Gas**
 
 ### The "Triatomic and Above" Rule of Thumb
 The fundamental criteria determining whether a gas can function as a greenhouse gas are its **molecular symmetry** and **vibrational modes**:
@@ -143,31 +148,24 @@ Although many gases meet the molecular definition of a greenhouse gas, environme
 
 The global response to stratospheric ozone depletion represents one of the most successful international environmental efforts in human history. It provides an important blueprint for modern climate policy.
 
-```
-                  [ STRATOSPHERIC OZONE LAYER ]
-                    Filters harmful UV-C & UV-B
-                                 │
-              ┌──────────────────┴──────────────────┐
-              ▼                                     ▼
-      [ ANTHROPOGENIC ODS ]                 [ GLOBAL ALARM (1983) ]
-     CFCs & HCFCs released from             Ozone Hole discovered
-    refrigeration & industrial use              over Antarctica
-              │                                     │
-              └──────────────────┬──────────────────┘
-                                 ▼
-                     [ DIPLOMATIC MOBILIZATION ]
-                     • Vienna Convention (1985)
-                     • Montreal Protocol (1987)
-                                 │
-                                 ▼
-                    [ PHASE-OUT & TRANSITION ]
-                     CFCs/HCFCs banned ──> Replaced by HFCs
-                                                 │
-                                                 ▼
-                                        [ THE NEW DILEMMA ]
-                                      HFCs: Ozone-safe but
-                                      Highly potent GHGs!
-```
+|              **(Stratospheric Ozone Layer)**              |
+| :-------------------------------------------------------: |
+|              **Filters Harmful UV-C & UV-B**              |
+|                             ↓                             |
+|                    ↙　　　　　　　　　　　　　　　　　↘                    |
+| **[Anthropogenic ODS]**　　　　　　　　 **[Global Alarm (1983)]** |
+|  CFCs & HCFCs Released From　　　　　　　 Ozone Hole Discovered  |
+|   Refrigeration & Industrial Use　　　　　　 Over Antarctica    |
+|                    ↘　　　　　　　　　　　　　　　　　↙                    |
+|                             ↓                             |
+|               **[Diplomatic Mobilization]**               |
+| • Vienna Convention (1985)<br>• Montreal Protocol (1987)  |
+|                             ↓                             |
+|               **[Phase-Out & Transition]**                |
+|           CFCs/HCFCs Banned → Replaced By HFCs            |
+|                             ↓                             |
+|                   **[The New Dilemma]**                   |
+|        HFCs: Ozone-Safe But<br>Highly Potent GHGs!        |
 
 ### Antarctica As A Global Common
 Antarctica serves as a crucial natural laboratory for global atmospheric research.
@@ -222,25 +220,17 @@ True ecological decomposition is carried out by three primary classes of heterot
 3. **Slime Molds**: Eukaryotic microorganisms that feed on microorganisms and decaying organic matter.
 * **The Viral Exclusion**: It is a common biological misconception to include viruses in this category. **Viruses are not decomposers**; they are non-cellular, obligate intracellular parasites that lack metabolic machinery and do not participate in the physical or chemical breakdown of decaying organic matter.
 
-```
-                  ┌────────────────────────────────────────┐
-                  │          ORGANIC BIOMASS               │
-                  │       (Carbon, Hydrogen, Nitrogen,     │
-                  │         Oxygen, Sulfur, Phosphorus)    │
-                  └───────────────────┬────────────────────┘
-                                      │
-             ┌────────────────────────┴────────────────────────┐
-             ▼                                                 ▼
-   [ AEROBIC DECOMPOSITION ]                         [ ANAEROBIC DECOMPOSITION ]
-    • Occurs in PRESENCE of Oxygen                    • Occurs in ABSENCE of Oxygen
-    • Rapid, High-Energy Pathway                      • Slow, Low-Energy Pathway
-    • Promoted by Sunlight & Heat                     • Occurs in Waterlogged/Buried Soils
-             │                                                 │
-   ┌─────────┴─────────┐                             ┌─────────┴─────────┐
-   ▼                   ▼                             ▼                   ▼
-[ Carbon Dioxide ]  [ Saturated Anions ]          [ Methane ]        [ Reduced Gases ]
-     (CO2)         (Nitrates, Sulfates)              (CH4)          (Ammonia, H2S)
-```
+|                                                                                                **(Organic Biomass)**                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                              *(Carbon, Hydrogen, Nitrogen, Oxygen, Sulfur, Phosphorus)*                                                                              |
+|                                                                                                          ↓                                                                                                           |
+|                                                                                                 ↙　　　　　　　　　　　　　　　　　↘                                                                                                  |
+|                                                                          **[Aerobic Decomposition]**　　　　　　　　 **[Anaerobic Decomposition]**                                                                           |
+| • Occurs In Presence Of Oxygen　　　　　　　 • Occurs In Absence Of Oxygen<br>• Rapid, High-Energy Pathway　　　　　　　　 • Slow, Low-Energy Pathway<br>• Promoted By Sunlight & Heat　　　　　　　　 • Occurs In Waterlogged/Buried Soils |
+|                                                                                                 ↓　　　　　　　　　　　　　　　　　↓                                                                                                  |
+|                                                                                              ↙　　　　　　↘　　　　　　　　　↙　　　　　　↘                                                                                               |
+|                                                                  **[Carbon Dioxide]**　 **[Saturated Anions]**　　 **[Methane]**　 **[Reduced Gases]**                                                                   |
+|                                                                             (CO₂)　　　　　　 (Nitrates, Sulfates)　　　 (CH₄)　　　 (Ammonia, H₂S)                                                                              |
 
 ### Aerobic Decomposition (The Oxygen-Rich Pathway)
 * **Conditions**: Occurs in environments with an abundant supply of atmospheric oxygen ($O_2$) and sunlight. This is a rapid, high-energy metabolic pathway.
@@ -295,14 +285,15 @@ $$\mathbf{Decoupling = \frac{\Delta Economic\,Growth\,(GDP \uparrow)}{\Delta Car
 
 Methane ($CH_4$) is a highly potent greenhouse gas with a global warming potential significantly greater than that of carbon dioxide over a 20-year timescale. The United Nations **Food and Agriculture Organization (FAO)** reports that anthropogenic methane emissions are heavily driven by agriculture and waste management:
 
-```
-[ ANTHROPOGENIC METHANE EMISSIONS (UN FAO) ]
-  ├── 41% Agriculture & Livestock
-  │     ├── 33% Dairy & Ruminant Enteric Fermentation
-  │     └── 8% Paddy / Rice Cultivation (Traditional TPR)
-  ├── 20% Legacy Waste & Municipal Landfills
-  └── 39% Mining, Fossil Fuels & Other Sources
-```
+**Anthropogenic Methane Emissions (UN FAO)**
+
+| **Source** | **Share** |
+|:---:|:---:|
+| **Agriculture & Livestock** | **41%** |
+| ↳ Dairy & Ruminant Enteric Fermentation | **33%** |
+| ↳ Paddy / Rice Cultivation (Traditional TPR) | **8%** |
+| **Legacy Waste & Municipal Landfills** | **20%** |
+| **Mining, Fossil Fuels & Other Sources** | **39%** |
 
 ### The Geochemistry of Legacy Waste Sites (Landfills)
 In urban centers, municipal waste management is a major source of methane emissions due to poor disposal infrastructure:
@@ -315,15 +306,19 @@ In urban centers, municipal waste management is a major source of methane emissi
 ### Ruminant Enteric Fermentation and The Dairy Sector
 The dairy and livestock sector is the largest agricultural source of methane emissions, driven by the unique digestive physiology of ruminants:
 
-```
-[ INGESTION ] Swallowed whole ──> [ RUMEN (1st Chamber) ]
-                                         │
-                                         ▼ (Methanogenic Bacteria:
-                                            Methanospirillum,
-                                            Methanococcus)
-[ ERUCTATION/BELCHING ] ◄── [ CUD (Regurgitation to Mouth) ]
-Methane released to atmosphere
-```
+| **Ruminant Methane Production** |
+|:---:|
+| **[Ingestion]** Swallowed Whole |
+| ↓ |
+| **[Rumen (1st Chamber)]** |
+| ↓ |
+| **Methanogenic Bacteria**<br>_Methanospirillum, Methanococcus_ |
+| ↓ |
+| **[Cud]** Regurgitation To Mouth |
+| ↓ |
+| **[Eruction/Belching]** |
+| ↓ |
+| **Methane Released To Atmosphere** |
 
 1. **Ruminant Physiology**: Bovines (cows, buffaloes) are **ruminants**, meaning they have a complex, four-chambered stomach designed to ferment and digest tough plant cellulose.
 2. **The Rumen**: The first and largest chamber of a ruminant's stomach. It serves as an active fermentation vat.
@@ -334,17 +329,13 @@ Methane released to atmosphere
 ### Rice Cultivation: Traditional TPR vs. Sustainable DSR
 Traditional rice cultivation is a major source of methane emissions, but new agricultural techniques can significantly reduce this impact:
 
-```
-[ TRADITIONAL TPR METHOD ]              [ SUSTAINABLE DSR METHOD ]
-   Continuous Flooding                     Grooves & Channels Only
-           │                                          │
-           ▼                                          ▼
-   Anaerobic Soil Conditions               Aerated Topsoil Conditions
-           │                                          │
-           ▼                                          ▼
- High Methane Emissions (100%)              Low Methane Emissions (-80%)
- High Water Use (100%)                      Low Water Use (-80%)
-```
+| **Traditional TPR Method** | **Sustainable DSR Method** |
+|:---:|:---:|
+| **Continuous Flooding** | **Grooves & Channels Only** |
+| ↓ | ↓ |
+| **Anaerobic Soil Conditions** | **Aerated Topsoil Conditions** |
+| ↓ | ↓ |
+| **High Methane Emissions (100%)**<br>**High Water Use (100%)** | **Low Methane Emissions (−80%)**<br>**Low Water Use (−80%)** |
 
 1. **Transplantation of Rice (TPR)**:
    * **The Traditional Method**: Rice saplings are grown in a nursery and then manually transplanted into flat fields that are kept continuously flooded with standing water throughout the early growing season.

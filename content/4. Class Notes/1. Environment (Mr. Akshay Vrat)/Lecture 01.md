@@ -163,7 +163,10 @@ Evaluating global warming requires moving beyond dry ambient air temperatures to
 ### Dry-Bulb vs. Wet-Bulb Temperature
 Understanding the real-world impact of heat stress requires distinguishing between two types of temperature measurements:
 
-![[Measuring Heat Stress.png|600]]
+| **Measure**                    | **Description**                                                                                                                                                                       |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dry-Bulb Temperature (DBT)** | • Standard air temperature measured by an exposed sensor<br>• Measures ambient kinetic energy of the air.                                                                             |
+| **Wet-Bulb Temperature (WBT)** | • Measured by wrapping a wet cotton wick around the sensor<br>• Incorporates relative humidity and evaporative cooling.• Represents the lowest temperature achievable by evaporation. |
 
 1.  **Dry-Bulb Temperature (DBT)**: The standard air temperature measured by a normal thermometer exposed directly to the air. It records the ambient kinetic energy of the air, unaffected by humidity.
 2.  **Wet-Bulb Temperature (WBT)**: The temperature recorded by a thermometer whose sensor bulb is wrapped in a **wet cotton wick** and exposed to air flow.
@@ -188,7 +191,17 @@ The human body behaves like a wet-bulb thermometer, relying on evaporative cooli
 *   **The Critical Physiological Threshold**: A Wet-Bulb Temperature of **35°C or higher** represents the absolute limit of human survivability. 
     *   Beyond this threshold, metabolic heat dissipation becomes thermodynamically impossible. Even a healthy individual resting in the shade with unlimited drinking water will succumb to hyperthermia and heatstroke within hours because the body cannot shed heat.
 
-![[Physiological Stress Pathway.png|500]]
+|**Process**|
+|:-:|
+|**High Ambient Temperature + Saturated Humidity (High WBT)**|
+|↓|
+|**Inability to Evaporate Sweat from Skin**|
+|↓|
+|**Continuous Sweat Production** → **Severe Dehydration (70% Water)**|
+|↓|
+|**Core Temperature Remains Elevated** → **Hyperthermia / Heatstroke**|
+|↓|
+|**Cardiovascular Strain & Eventual Multi-Organ Failure**|
 
 ---
 
@@ -196,7 +209,12 @@ The human body behaves like a wet-bulb thermometer, relying on evaporative cooli
 
 High wet-bulb temperatures present major challenges across multiple sectors, affecting public health, livestock, agriculture and the broader economy.
 
-![[High WBT.png|600]]
+|      **Sector**      | **Impact**                                                                                              |
+| :------------------: | :------------------------------------------------------------------------------------------------------ |
+| **[Public Health]**  | → **Dehydration, Organ Failure, Heatstroke, Vector-Borne Disease Spikes (e.g., Dengue)**                |
+|   **[Livestock]**    | → **Temperature-Humidity Index (THI) Disruptions** _(Optimal: 27°C; 1°C Rise Past 27°C = 5% Milk Drop)_ |
+|  **[Agriculture]**   | → **C4 Plants Benefit (Reduced Transpiration), C3 Plants Struggle Under Dry Heat**                      |
+| **[Socio-Economic]** | → **High Health Bills, Skyrocketing Energy Demand, Food Inflation, Vicious AC Feedback Loop**           |
 
 ### Public Health
 *   **Physiological Failures**: Increased risk of acute dehydration, hyperthermia, heatstroke and cardiovascular collapse. Prolonged heat strain forces vital organs to overwork, potentially leading to multi-organ failure.
@@ -216,7 +234,15 @@ The agricultural impact of high wet-bulb temperatures is highly variable, depend
 ### Socio-Economic and Energy Feedback Loops
 *   **Surging Energy Demand**: Rising temperatures drive a massive increase in demand for mechanical air cooling. This sparks a critical environmental feedback loop:
 
-![[Feedback Loop.png|600]]
+|**Process**|
+|:-:|
+|**Rise In Wet-Bulb Temperature**|
+|↓|
+|**Increased Air Conditioner (AC) Sales**|
+|↓|
+|**Surging Electricity Demand (Coal-Fired)**|
+|↓|
+|**Higher Greenhouse Gas (GHG) Emissions & Warming**|
 
 *   **Financial Strain**: Increased public and private healthcare expenditures due to heat-related illnesses and seasonal vector-borne disease outbreaks.
 *   **Food Inflation**: Falling milk yields and reduced crop productivity combine with higher livestock maintenance costs to drive up food prices, causing food inflation that disproportionately affects low-income populations.
@@ -248,7 +274,19 @@ To understand how heat is trapped, we must analyze the solar spectrum reaching E
 ### Thermodynamics of Glass-Trapping
 The physics of heat trapping in a greenhouse can be understood through an energy transfer analogy:
 
-![[Cycle.png|600]]
+|                                     **Process**                                     |
+| :---------------------------------------------------------------------------------: |
+|                **Incoming Shortwave Solar Radiation (High Energy)**                 |
+|                                          ↓                                          |
+|             → **Passes Easily Through Transparent Glass/Polyethylene**              |
+|                                          ↓                                          |
+| **Strikes Interior Surface (Soil/Plants)** → **Energy Absorbed & Surface Heats Up** |
+|                                          ↓                                          |
+|  **Interior Surface Re-Emits Longwave Thermal Radiation (Lower Energy / Far-IR)**   |
+|                                          ↓                                          |
+|      → **Cannot Pass Back Through Glass/Polyethylene (Opaque To Low Energy)**       |
+|                                          ↓                                          |
+|          **Thermal Radiation Is Trapped** → **Interior Temperature Rises**          |
 
 *   **The Bouncing Ball Analogy**: When a tennis ball is thrown against a hard surface, the surface absorbs some of its kinetic energy. The bouncing ball returns with less energy than it had initially.
 *   **Incoming Solar Radiation**: The Sun, being extremely hot, emits short-wavelength, high-energy electromagnetic radiation (primarily visible and near-infrared light). Glass is transparent to these short, high-energy wavelengths, allowing them to enter the greenhouse easily.

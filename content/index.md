@@ -1,14 +1,9 @@
 ---
-title: SE7EN
-hideDate: true
-hideReadingTime: true
+title: Home
 ---
+# Hey Everyone, I'm SE7EN 
 
-<div class="index-profile">
-
-<img src="static/profile.jpeg" class="index-profile-picture">
-
-</div>
+Of course, that's not my real name
 
 Think of this as my **Digital Brain**, a collection of all the **Notes & Summaries** that I have made and will continue to make throughout my learning journey
 Things will keep getting added, edited and hopefully improved as I learn more
@@ -40,6 +35,12 @@ I'll keep updating this website as I continue studying
 
 So if you visit it regularly, make sure to **clear the site's or browser cache and refresh the page** from time to time. Otherwise, your browser might show you yesterday's version without any updates
 
+---
 
-> [!quote] **Happy Learning !!**
+> [!summary] **Announcements**
+> 
+> - **PMF IAS (Physical Geography)** in Progress @ **Revision-Friendly Notes**
+> - **Anthropology (Dr. Sudhir Kumar)** in Progress @ **Anthropology**
+> - **Environment (Mr. Akshay Vrat)** in Progress @ **Class Notes**
+> - **Ancient History (Mr. Praveen Dixit)** in Progress @ **Class Notes**
 
