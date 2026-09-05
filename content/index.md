@@ -37,7 +37,7 @@ So if you visit it regularly, make sure to **clear the site's or browser cache 
 
 ---
 
-> [!summary] **Announcements**
+> [!quote] **Site Updates**
 > 
 > - **PMF IAS (Physical Geography)** in Progress @ **Revision-Friendly Notes**
 > - **Anthropology (Dr. Sudhir Kumar)** in Progress @ **Anthropology**
