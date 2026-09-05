@@ -1,9 +1,14 @@
 ---
-title: Home
+title: SE7EN
+hideDate: true
+hideReadingTime: true
 ---
-# Hey Everyone, I'm SE7EN 
 
-Of course, that's not my real name
+<div class="index-profile">
+
+<img src="static/profile.jpeg" class="index-profile-picture">
+
+</div>
 
 Think of this as my **Digital Brain**, a collection of all the **Notes & Summaries** that I have made and will continue to make throughout my learning journey
 Things will keep getting added, edited and hopefully improved as I learn more

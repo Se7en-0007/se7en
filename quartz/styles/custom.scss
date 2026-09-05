@@ -48,3 +48,35 @@
 .toc ul.toc-content .depth-6 {
   padding-left: 6rem;
 }
+
+
+/* Profile on homepage */
+
+.index-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.8rem;
+  margin-bottom: 2rem;
+}
+
+.index-profile-picture {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.index-profile-name {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+
+/* Hide date and reading time on homepage only */
+
+body[data-slug="index"] .content-meta {
+  display: none;
+}
