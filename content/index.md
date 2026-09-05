@@ -3,7 +3,7 @@ title: SE7EN
 ---
 <img src="/static/profile.jpeg" class="index-profile-picture">
 
-Think of this as my **Digital Brain**, a collection of all the **Notes & Summaries** that I have made and will continue to make throughout my learning journey
+Welcome to my **Digital Brain**, a collection of all the **Notes & Summaries** that I have made and will continue to make throughout my learning journey
 Things will keep getting added, edited and hopefully improved as I learn more
 
 ## What You'll Find Here
@@ -35,10 +35,14 @@ So if you visit it regularly, make sure to **clear the site's or browser cache 
 
 ---
 
-> [!quote] **Site Updates**
+> [!danger] **In Progress**
 > 
-> - **PMF IAS (Physical Geography)** in Progress @ **Revision-Friendly Notes**
-> - **Anthropology (Dr. Sudhir Kumar)** in Progress @ **Anthropology**
-> - **Environment (Mr. Akshay Vrat)** in Progress @ **Class Notes**
-> - **Ancient History (Mr. Praveen Dixit)** in Progress @ **Class Notes**
+> - **PMF IAS (Physical Geography)** @ **Revision-Friendly Notes**
+> - **Anthropology (Dr. Sudhir Kumar)** @ **Anthropology**
+> - **Environment (Mr. Akshay Vrat)** @ **Class Notes**
+> - **Ancient History (Mr. Praveen Dixit)** @ **Class Notes**
 
+ 
+> [!success] **Completed**
+> 
+> - **Spectrum (Modern History)** @ **Revision-Friendly Notes**
