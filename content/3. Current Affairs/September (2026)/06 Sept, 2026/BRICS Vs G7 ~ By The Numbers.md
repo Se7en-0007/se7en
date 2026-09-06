@@ -5,10 +5,10 @@
 - **India will host the 18th BRICS Summit in New Delhi on September 12-13, 2026**, as the grouping completes **20 years since its formalisation in 2006**.
 - In **2000**, **Brazil, Russia, India and China** accounted for roughly **23% of global GDP on a purchasing power parity - PPP basis**, while the **G7 held nearly 52%**.
 - By **2024**, the expanded **11-member BRICS** accounted for approximately **36.8% of global GDP - PPP**, while the **G7’s share fell below 29%**.
-- BRICS represents roughly **a quarter of global trade**. Its **intra-BRICS merchandise trade** reached **$1.17 trillion in 2024**, a nearly **13-fold increase** from **$84 billion** over two decades.
+- BRICS represents roughly **a quarter of global trade**. Its **intra-BRICS merchandise trade** reached **1.17 trillion dollar in 2024**, a nearly **13-fold increase** from **84 billion dollar** over two decades.
 - BRICS holds an estimated **$5.2 trillion in combined foreign reserves** and accounts for **78.2% of global mineral coal production**.
 - BRICS nations are projected to grow by an average of **3.8% in 2025** and **3.7% in 2026**, more than **three times the G7 average**.
-- The **G7’s per-capita GDP** averages around **$53,000**, compared with roughly **$8,200 for BRICS**. BRICS’ aggregate weight is driven by **population and resource scale**, not **individual prosperity**.
+- The **G7’s per-capita GDP** averages around **53,000 dollar**, compared with roughly **8,200 for BRICS dollar**. BRICS’ aggregate weight is driven by **population and resource scale**, not **individual prosperity**.
 
 ## From Vision To Reality
 
