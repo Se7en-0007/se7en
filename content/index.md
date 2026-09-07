@@ -8,8 +8,8 @@ Things will keep getting added, edited and hopefully improved as I learn more
 
 ## What You'll Find Here
 
-1. [Revision-Friendly Notes](https://se7en-0007.github.io/se7en/1.-standard-books/)
-Notes based on **Standard Books** and other reliable sources, organised in a way that makes them easier to revise
+1. [Standard Books (Revision Notes)](https://se7en-0007.github.io/se7en/1.-standard-books/)
+Notes based on **Standard Books** and other reliable sources, in a way that makes them easier to revise
 
 2. [Anthropology (My Optional)](https://se7en-0007.github.io/se7en/2.-anthropology/)
 My **Anthropology Notes** which are based on **Dr. Sudhir Kumar Sir's Anthropology Foundation**
@@ -37,7 +37,7 @@ So if you visit it regularly, make sure to **clear the site's or browser cache 
 
 > [!danger] **In Progress**
 > 
-> - **Standard Books (Revision-Friendly Notes)**
+> - **Standard Books (Revision Notes)**
 > 	- PMF IAS (Physical Geography)
 > - **Class Notes**
 > 	- Anthropology (Dr. Sudhir Kumar)
