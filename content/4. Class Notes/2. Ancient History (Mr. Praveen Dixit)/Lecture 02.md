@@ -33,7 +33,7 @@ Many Mesolithic paintings are situated at heights of **up to 15 feet** from the 
 ### Connection To Present-Day Traditions
 The artistic conventions established in the Mesolithic age exhibit a striking continuity with modern Indian tribal art, most notably the **Warli paintings** of Maharashtra.
 *   **Geometric Representation**: Both prehistoric Mesolithic paintings and traditional Warli art utilize simplified geometric shapes (triangles, circles and lines) to construct human and animal figures.
-*   **Community and Circular Dances**: The spiral, labyrinthine, or circular dances (*chakra-vyuha* style) depicted in Mesolithic rock art~where dancers hold hands in concentric circles~are directly mirrored in contemporary Warli communal dance paintings (*Tarpa dance*). This indicates that certain core ritual, social and aesthetic behaviors have persisted as living traditions for millennia.
+*   **Community and Circular Dances**: The spiral, labyrinthine, or circular dances (*chakra-vyuha* style) depicted in Mesolithic rock art (where dancers hold hands in concentric circles) are directly mirrored in contemporary Warli communal dance paintings (*Tarpa dance*). This indicates that certain core ritual, social and aesthetic behaviors have persisted as living traditions for millennia.
 
 ---
 
@@ -250,7 +250,7 @@ Globally, the Chalcolithic often evolved quickly into a robust "Bronze Age," whe
 The late arrival of iron in the South Asian metallurgical sequence (occurring in the **Later Vedic Age**, while the **Rigvedic Age** was predominantly Chalcolithic/Bronze-based) left a lasting imprint on religious and ritual practices.
 *   **Traditional Rejection of Iron**: Religious systems are inherently conservative and often reject new technologies. Because iron appeared late and was associated with utilitarian, secular and rural activities (such as land clearing and ploughing), it was excluded from sacred rituals.
 *   **Survival of Copper in Rituals**: Even today, traditional Hindu rituals (*puja path*) mandate the use of copper vessels (such as the *tambe ka lota*) and copper coins, while iron is strictly prohibited.
-*   **Agricultural Parallels**: This conservative ritual trend is also evident in agriculture. The earliest grain cultivated by Vedic communities was millet (**barley or *jau***). Consequently, barley remains a key offering in modern religious rituals, while wheat~which was cultivated later~is excluded.
+*   **Agricultural Parallels**: This conservative ritual trend is also evident in agriculture. The earliest grain cultivated by Vedic communities was millet (**barley or *jau***). Consequently, barley remains a key offering in modern religious rituals, while wheat (which was cultivated later) is excluded.
 
 ---
 
