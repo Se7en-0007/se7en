@@ -230,8 +230,7 @@ plugins:
     enabled: false
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Join Telegram: https://t.me/SE7ENxUPSC
     layout:
       position: footer
       priority: 50
