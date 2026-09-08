@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"0a6c908c28fbbc1f","x":-320,"y":-160,"width":122,"height":50,"color":"1","type":"text","text":"**UPSC CSE**"},
+		{"id":"f1552806420f74b7","x":-240,"y":-300,"width":100,"height":60,"color":"3","type":"text","text":"**Prelims**"},
+		{"id":"32c7a49d52534062","x":-63,"y":-366,"width":163,"height":50,"color":"3","type":"text","text":"**General Studies**"},
+		{"id":"736bed97e2433323","x":-57,"y":-249,"width":77,"height":60,"color":"3","type":"text","text":"**CSAT**"},
+		{"id":"542722889c144792","x":-238,"y":-20,"width":96,"height":60,"color":"4","type":"text","text":"**Mains**"},
+		{"id":"84fa4a7488ffb1c5","x":60,"y":-110,"width":113,"height":50,"color":"4","type":"text","text":"**Essay**"},
+		{"id":"302064d781755124","x":60,"y":-20,"width":113,"height":55,"color":"4","type":"text","text":"**GS-01**"},
+		{"id":"7356ddc32ba84a64","x":60,"y":60,"width":113,"height":50,"color":"4","type":"text","text":"**GS-02**"},
+		{"id":"b597e510dd58c138","x":60,"y":140,"width":113,"height":50,"color":"4","type":"text","text":"**GS-03**"},
+		{"id":"270b2a6549dc18e5","x":61,"y":220,"width":112,"height":65,"color":"4","type":"text","text":"**GS-04**"},
+		{"id":"4aac3a198e0ee1e6","x":-357,"y":140,"width":167,"height":50,"color":"4","type":"text","text":"**Anthropology**"},
+		{"id":"375c5dad85c6f858","x":-600,"y":-223,"width":158,"height":60,"color":"6","type":"text","text":"Current Affairs"}
+	],
+	"edges":[
+		{"id":"29fbfa9cabca5b5f","fromNode":"0a6c908c28fbbc1f","fromSide":"top","toNode":"f1552806420f74b7","toSide":"bottom"},
+		{"id":"006cd7f6bc9a4527","fromNode":"f1552806420f74b7","fromSide":"right","toNode":"32c7a49d52534062","toSide":"left"},
+		{"id":"4f85dd1208d0e4a7","fromNode":"f1552806420f74b7","fromSide":"right","toNode":"736bed97e2433323","toSide":"left"},
+		{"id":"a9c81b37b4af8370","fromNode":"0a6c908c28fbbc1f","fromSide":"bottom","toNode":"542722889c144792","toSide":"top"},
+		{"id":"6c9ae871c41af174","fromNode":"542722889c144792","fromSide":"right","toNode":"84fa4a7488ffb1c5","toSide":"left"},
+		{"id":"253c1646e90043a9","fromNode":"542722889c144792","fromSide":"right","toNode":"302064d781755124","toSide":"left"},
+		{"id":"39b63586a0e4d4a8","fromNode":"542722889c144792","fromSide":"right","toNode":"7356ddc32ba84a64","toSide":"left"},
+		{"id":"be01957a303ad1fa","fromNode":"542722889c144792","fromSide":"right","toNode":"b597e510dd58c138","toSide":"left"},
+		{"id":"22d0d7b9dc58a49e","fromNode":"542722889c144792","fromSide":"right","toNode":"270b2a6549dc18e5","toSide":"left"},
+		{"id":"91f6b28402f67c29","fromNode":"542722889c144792","fromSide":"bottom","toNode":"4aac3a198e0ee1e6","toSide":"top"},
+		{"id":"0e78ff931bba7738","fromNode":"0a6c908c28fbbc1f","fromSide":"left","toNode":"375c5dad85c6f858","toSide":"right"}
+	]
+}
