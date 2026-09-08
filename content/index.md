@@ -39,6 +39,7 @@ So if you visit it regularly, make sure to **clear the site's or browser cache 
 > 
 > - **Standard Books (Revision Notes)**
 > 	- PMF IAS (Physical Geography)
+> 	- M Laxmikanth (Indian Polity)
 > - **Class Notes**
 > 	- Anthropology (Dr. Sudhir Kumar)
 > 	- Environment (Mr. Akshay Vrat)
