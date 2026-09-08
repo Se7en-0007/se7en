@@ -326,7 +326,7 @@ The outer limits of the Harappan world are defined by four key frontier sites:
 *   **Southern Limit: Daimabad**: Located in the Ahmadnagar district of Maharashtra, along the Pravara River (a tributary of the Godavari), representing the southernmost expansion into the Deccan.
 *   **Northern Limit: Maanda**: Located in Jammu and Kashmir, along the Chenab River.
 
-![](https://raw.githubusercontent.com/Se7en-0007/images/refs/heads/main/IVC.png)
+![](https://raw.githubusercontent.com/Se7en-0007/images/refs/heads/main/ChatGPT%20Image%20Sep%208%2C%202026%20at%2009_44_58%20AM.png)
 
 ### The Northern Outpost: Shortugai
 While Maanda is the northern limit of the contiguous Harappan culture, archaeologists discovered a isolated, fully Harappan settlement far to the north in **Shortugai** (located in northern Afghanistan, near the Oxus River).

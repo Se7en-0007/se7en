@@ -1,6 +1,6 @@
 > [!quote] **Notes by** ~ [SE7EN](https://t.me/Se7en_0007)
 > **Credits & Source** → Based on The **Class Notes** of **Mr. Praveen Dixit**
-## Prehistoric Historiography & Methodology
+## Prehistory
 
 The study of human origins and early development is categorized into three broad divisions based on the availability and nature of records:
 1. **Prehistory**: The vast era of human existence for which **no written records are available**. Reconstruction depends entirely on material culture, primarily lithic (stone) tools and living spaces.
@@ -57,15 +57,7 @@ It is a common misconception that humans descended directly from modern monkeys 
 ### Neurological Evolution: The Triune Brain Model
 The human brain evolved sequentially, retaining ancestral structures while developing advanced cognitive centers. This structure can be modeled in three evolutionary layers:
 
-**The Triune Brain Model**
-
-|                **Brain Structure**                 | **Primary Functions**                                      |
-| :------------------------------------------------: | :--------------------------------------------------------- |
-|       **Human Brain**<br>*(Frontal Cortex)*        | Pattern-Tracking, Planning, Complex Prediction, Theory     |
-|                         ↓                          |                                                            |
-|       **Monkey Brain**<br>*(Limbic System)*        | Social Hierarchy, Alliances, Status And Group Dynamics     |
-|                         ↓                          |                                                            |
-| **Reptilian Brain**<br>*(Brainstem/Basal Ganglia)* | Motor Reflexes, Spatial Speed, And Instantaneous Reactions |
+![](https://raw.githubusercontent.com/Se7en-0007/images/refs/heads/main/ChatGPT%20Image%20Sep%208%2C%202026%20at%2009_49_33%20AM.png)
 
 1. **The Reptilian Brain**: Controls basic, automatic motor reflexes and spatial calculations. For example, a cricketer tracking a ball's trajectory or an individual jumping out of the way of an oncoming vehicle relies entirely on this primitive layer.
 2. **The Monkey (Mammalian) Brain**: Governs social relations, group hierarchies, dominance, alliance-making and emotional processing. It determines how individuals navigate social structures, identify authority figures and form peer groups.
@@ -94,17 +86,7 @@ Prehistory is structured taxonomically by the **Three-Age System** (Stone, Bronz
 
 **Stone Tool Technology And Cultural Evolution**
 
-|      **Period**      | **Key Characteristics**                                    |
-| :------------------: | :--------------------------------------------------------- |
-| **Paleolithic Age**  | Large, Crude Core Tools; Nomadic Hunting-Gathering         |
-|          ↓           |                                                            |
-|  **Mesolithic Age**  | Microliths & Composites; Transition To Domestication       |
-|          ↓           |                                                            |
-|  **Neolithic Age**   | Polished Precision Tools; Settled Agriculture/Village Life |
-|          ↓           |                                                            |
-| **Chalcolithic Age** | Stone + Substantial Metal; Agrarian Rural Economy          |
-|          ↓           |                                                            |
-|     **Iron Age**     | Smelted Iron Dominates; Complex Society/Metallurgy         |
+![](https://raw.githubusercontent.com/Se7en-0007/images/refs/heads/main/ChatGPT%20Image%20Sep%208%2C%202026%20at%2009_52_50%20AM.png)
 
 1. **Paleolithic Age (Old Stone Age)**: Big, crude, non-symmetric tools primarily made from the core of stones. Food procurement was entirely parasitic, relying on **nomadic hunting and gathering** without food production.
 2. **Mesolithic Age (Middle Stone Age)**: A crucial transitional phase characterized by **microliths** (small, highly refined stone tools) and the invention of **composite tools**. Humans began practicing the early domestication of plants and animals.
@@ -146,14 +128,7 @@ Hominids utilized two major tool traditions during this long epoch:
    * **Form and Use**: Symmetrical, **triangular and pear-shaped hand axes** featuring a pointed tip and dual cutting blades. These were far more efficient for skinning, butchering and digging.
    * **Indian Context**: Over 90% of Lower Paleolithic sites in India belong to the Acheulian tradition. In Southern India, a high concentration of these tools was discovered near Madras (Chennai, Tamil Nadu) at sites like **Attirampakkam** and **Gudiyam**. This regional variation is named the **Madras Industry**.
 
-**Evolution Of Early Stone Tool Technology**
-
-|    **Feature**     |    **Oldowan or Sonian Tool**     |     **Acheulian Triangular Axe**     |
-| :----------------: | :-------------------------------: | :----------------------------------: |
-|   **Basic Form**   | Unworked Heavy Base (For Holding) | Triangular Core With Two Sharp Edges |
-|  **Cutting Edge**  |    Single Sharp Chopping Edge     |      Sharp Edges On Both Sides       |
-|      **Grip**      |      Heavy Base Held In Hand      | Rounded Base → Symmetrical Hand Grip |
-| **Key Innovation** |     Simple, Single-Edged Tool     |  Bifacial, Symmetrical Cutting Tool  |
+![](https://raw.githubusercontent.com/Se7en-0007/images/refs/heads/main/ChatGPT%20Image%20Sep%208%2C%202026%20at%2009_55_24%20AM.png)
 
 ---
 
@@ -204,11 +179,7 @@ The cognitive evolution of Homo sapiens led to the emergence of artistic express
   * **Lakhudiyar Rock Shelters**: Located in the Almora district of Uttarakhand, featuring rock shelters with linear depictions of humans and animals.
   * **Bhimbetka Rock Shelters**: Located in the Raisen district of Madhya Pradesh (within the Vindhya mountain range), these shelters preserve a continuous sequence of human art from the Upper Paleolithic to the historical period.
 
-**Upper Paleolithic Stick-Figure**
-
-|     **Form**     |              Symmetrical, Simple Linear Sticks              |
-| :--------------: | :---------------------------------------------------------: |
-| **Significance** | Represents Simplicity And Symmetry In Upper Paleolithic Art |
+![](https://raw.githubusercontent.com/Se7en-0007/images/refs/heads/main/Stick%20Figures.webp)
 
 ---
 
@@ -237,13 +208,7 @@ The Mesolithic is not a static period but a progressive, four-stage transition f
    * **Technology and Economy**: Characterized by an abundance of microliths, highly refined pottery and the **systematic domestication of plants and animals**.
    * **Socio-Economic Impact**: This stage represents the completion of the transition from foraging to food producing. Hunting and gathering became secondary, supplemental activities, clearing the path for the fully developed agricultural economies of the Neolithic Age.
 
-**Composite Microlith Spear**
-
-|     **Component**     | **Function / Characteristic**                                        |
-| :-------------------: | :------------------------------------------------------------------- |
-|     Wooden Shaft      | Lightweight For High-Speed Throwing                                  |
-| Microlithic Stone Tip | Sharp Stone Tip Attached To The Shaft                                |
-|  Overall Innovation   | Composite Tool Combining A Wooden Shaft With A Microlithic Stone Tip |
+![](https://raw.githubusercontent.com/Se7en-0007/images/refs/heads/main/Microliths.webp)
 
 ---
 

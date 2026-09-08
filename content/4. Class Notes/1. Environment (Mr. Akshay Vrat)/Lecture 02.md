@@ -6,25 +6,24 @@ This lecture transitions from the foundational concepts of climate vulnerability
 
 ---
 
-## THERMODYNAMIC PRINCIPLES OF THE GREENHOUSE EFFECT
+## The Science Behind The Greenhouse Effect
 
 The climate system of Planet Earth is governed by a delicate thermodynamic balance. To analyze this balance, we must examine the interactions between solar radiation, the Earth's surface and the atmosphere.
 
-|                            **Process**                            |
-| :---------------------------------------------------------------: |
-| **[Shortwave Solar Radiation] (High Energy, UV & Visible Light)** |
-|                                 ↓                                 |
-|       **(Passes Through Atmosphere Relatively Unhindered)**       |
-|                                 ↓                                 |
-|       **Earth's Surface** ← **Absorbs Energy And Warms Up**       |
-|                                 ↓                                 |
-|               **(Re-Emitted As Low Energy, Heat)**                |
-|                                 ↓                                 |
-|  **[Longwave Infrared Radiation] (Low Energy, High Wavelength)**  |
-|                                 ↓                                 |
-|                        ↙　　　　　　　　　　　　　　　　　↘                        |
-|   **[Escapes To Space]**　　　　 **[Trapped By Greenhouse Gases]**    |
-|         **(Radiative Forcing & Atmospheric Re-Emission)**         |
+| **Shortwave Solar Radiation (High Energy, UV & Visible Light)** |
+| :-------------------------------------------------------------: |
+|                                ↓                                |
+|       **Passes Through Atmosphere Relatively Unhindered**       |
+|                                ↓                                |
+|      **Earth's Surface** ← **Absorbs Energy And Warms Up**      |
+|                                ↓                                |
+|               **Re-Emitted As Low Energy, Heat**                |
+|                                ↓                                |
+|  **Longwave Infrared Radiation (Low Energy, High Wavelength)**  |
+|                                ↓                                |
+|                       ↙　　　　　　　　　　　　　　　　　↘                       |
+|    **Escapes To Space**　　　　 **Trapped By Greenhouse Gases**     |
+|         **Radiative Forcing & Atmospheric Re-Emission**         |
 
 ### Incoming vs. Outgoing Radiation
 1. **Incoming Shortwave Radiation**: The Sun emits electromagnetic radiation primarily in the high-energy, short-wavelength spectrum, including **ultraviolet (UV)** and **visible light**. Because the atmospheric gases are mostly transparent to these short wavelengths, this radiation passes through the atmosphere relatively unhindered to reach the Earth's surface.
@@ -43,7 +42,7 @@ The atmospheric greenhouse effect functions analogously to an agricultural glass
 
 ---
 
-## CLASSIFICATION AND MITIGATION STRATEGIES OF GREENHOUSE GASES
+## Greenhouse Gases: Types And Ways To Reduce Them
 
 To formulate effective environmental policies, greenhouse gases must be classified by their origin (distinguishing between naturally occurring and synthetic (man-made) compounds) as this distinction dictates the corresponding mitigation and remediation strategies.
 
@@ -62,7 +61,7 @@ To formulate effective environmental policies, greenhouse gases must be classifi
 
 ---
 
-## THE MOLECULAR PHYSICS OF GREENHOUSE GASES (THE TRIATOMIC RULE)
+## How Greenhouse Gases Trap Heat: The Triatomic Rule
 
 To understand why certain gases absorb infrared radiation while others do not, we must analyze their molecular physics and structural chemistry.
 
@@ -111,7 +110,7 @@ The fundamental criteria determining whether a gas can function as a greenhouse 
 
 ---
 
-## DECONSTRUCTING GREENHOUSE GASES OF LOW STRATEGIC CONCERN
+## Greenhouse Gases Of Lesser Concern
 
 Although many gases meet the molecular definition of a greenhouse gas, environmental policy and global climate negotiations (such as the Kyoto Protocol and Paris Agreement) do not treat them as primary targets of concern. This is due to their short atmospheric lifetimes or external regulatory treaties.
 
@@ -144,28 +143,28 @@ Although many gases meet the molecular definition of a greenhouse gas, environme
 
 ---
 
-## HISTORICAL CONTEXT OF STRATOSPHERIC OZONE PROTECTION
+## The History Of Stratospheric Ozone Protection
 
 The global response to stratospheric ozone depletion represents one of the most successful international environmental efforts in human history. It provides an important blueprint for modern climate policy.
 
-|              **(Stratospheric Ozone Layer)**              |
-| :-------------------------------------------------------: |
-|              **Filters Harmful UV-C & UV-B**              |
-|                             ↓                             |
-|                    ↙　　　　　　　　　　　　　　　　　↘                    |
-| **[Anthropogenic ODS]**　　　　　　　　 **[Global Alarm (1983)]** |
-|  CFCs & HCFCs Released From　　　　　　　 Ozone Hole Discovered  |
-|   Refrigeration & Industrial Use　　　　　　 Over Antarctica    |
-|                    ↘　　　　　　　　　　　　　　　　　↙                    |
-|                             ↓                             |
-|               **[Diplomatic Mobilization]**               |
-| • Vienna Convention (1985)<br>• Montreal Protocol (1987)  |
-|                             ↓                             |
-|               **[Phase-Out & Transition]**                |
-|           CFCs/HCFCs Banned → Replaced By HFCs            |
-|                             ↓                             |
-|                   **[The New Dilemma]**                   |
-|        HFCs: Ozone-Safe But<br>Highly Potent GHGs!        |
+|              **Stratospheric Ozone Layer**               |
+| :------------------------------------------------------: |
+|             **Filters Harmful UV-C & UV-B**              |
+|                            ↓                             |
+|                   ↙　　　　　　　　　　　　　　　　　↘                    |
+|  **Anthropogenic ODS**　　　　　　　　 **Global Alarm (1983)**   |
+| CFCs & HCFCs Released From　　　　　　　 Ozone Hole Discovered  |
+|   Refrigeration & Industrial Use　　　　　　 Over Antarctica   |
+|                   ↘　　　　　　　　　　　　　　　　　↙                    |
+|                            ↓                             |
+|               **Diplomatic Mobilization**                |
+| • Vienna Convention (1985)<br>• Montreal Protocol (1987) |
+|                            ↓                             |
+|                **Phase-Out & Transition**                |
+|           CFCs/HCFCs Banned → Replaced By HFCs           |
+|                            ↓                             |
+|                   **The New Dilemma**                    |
+|       HFCs: Ozone-Safe But<br>Highly Potent GHGs!        |
 
 ### Antarctica As A Global Common
 Antarctica serves as a crucial natural laboratory for global atmospheric research.
@@ -204,7 +203,7 @@ In commercial and consumer markets, HFCs and their alternatives are identified b
 
 ---
 
-## THE BIOGEOCHEMISTRY OF DECOMPOSITION: AEROBIC VS. ANAEROBIC PATHWAYS
+## How Decomposition Works: Aerobic And Anaerobic Pathways
 
 The natural cycles of carbon, nitrogen and sulfur are sustained by the decomposition of **biomass**. The pathway of this decomposition is determined by the presence or absence of oxygen.
 
@@ -220,12 +219,12 @@ True ecological decomposition is carried out by three primary classes of heterot
 3. **Slime Molds**: Eukaryotic microorganisms that feed on microorganisms and decaying organic matter.
 * **The Viral Exclusion**: It is a common biological misconception to include viruses in this category. **Viruses are not decomposers**; they are non-cellular, obligate intracellular parasites that lack metabolic machinery and do not participate in the physical or chemical breakdown of decaying organic matter.
 
-|                                                                                                **(Organic Biomass)**                                                                                                 |
+|                                                                                                 **Organic Biomass**                                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                              *(Carbon, Hydrogen, Nitrogen, Oxygen, Sulfur, Phosphorus)*                                                                              |
+|                                                                                Carbon, Hydrogen, Nitrogen, Oxygen, Sulfur, Phosphorus                                                                                |
 |                                                                                                          ↓                                                                                                           |
 |                                                                                                 ↙　　　　　　　　　　　　　　　　　↘                                                                                                  |
-|                                                                          **[Aerobic Decomposition]**　　　　　　　　 **[Anaerobic Decomposition]**                                                                           |
+|                                                                            **Aerobic Decomposition**　　　　　　　　 **Anaerobic Decomposition**                                                                             |
 | • Occurs In Presence Of Oxygen　　　　　　　 • Occurs In Absence Of Oxygen<br>• Rapid, High-Energy Pathway　　　　　　　　 • Slow, Low-Energy Pathway<br>• Promoted By Sunlight & Heat　　　　　　　　 • Occurs In Waterlogged/Buried Soils |
 |                                                                                                 ↓　　　　　　　　　　　　　　　　　↓                                                                                                  |
 |                                                                                              ↙　　　　　　↘　　　　　　　　　↙　　　　　　↘                                                                                               |
@@ -252,7 +251,7 @@ True ecological decomposition is carried out by three primary classes of heterot
 
 ---
 
-## ANTHROPOGENIC CO2 AND THE DECOUPLING IMPERATIVE
+## Human-Caused CO₂ And The Need To Decouple Growth From Emissions
 
 While natural carbon dioxide ($CO_2$) is released through respiration and aerobic decay, human industrial development has drastically increased atmospheric $CO_2$ through fossil fuel combustion.
 
@@ -281,7 +280,7 @@ $$\mathbf{Decoupling = \frac{\Delta Economic\,Growth\,(GDP \uparrow)}{\Delta Car
 
 ---
 
-## ANTHROPOGENIC METHANE EMISSIONS: MAJOR SOURCES AND MITIGATION
+## Human-Caused Methane Emissions: Sources And Mitigation
 
 Methane ($CH_4$) is a highly potent greenhouse gas with a global warming potential significantly greater than that of carbon dioxide over a 20-year timescale. The United Nations **Food and Agriculture Organization (FAO)** reports that anthropogenic methane emissions are heavily driven by agriculture and waste management:
 
