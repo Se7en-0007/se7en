@@ -1,52 +1,27 @@
 ---
 title: SE7EN
+description: A personal digital brain for UPSC — standard books, anthropology, current affairs and class notes.
 ---
-<img src="/static/profile.jpeg" class="index-profile-picture">
 
-Welcome to my **Digital Brain**, a collection of all the **Notes & Summaries** that I have made and will continue to make throughout my learning journey
-Things will keep getting added, edited and hopefully improved as I learn more
+## About these notes
 
-## What You'll Find Here
+A collection of the notes and summaries I make throughout my learning journey. Things keep getting added, edited and improved as I learn more.
 
-1. [Standard Books (Revision Notes)](https://se7en-0007.github.io/se7en/1.-standard-books/)
-Notes based on **Standard Books** and other reliable sources, in a way that makes them easier to revise
+These notes are a **revision companion**. Standard books, lectures, newspapers and original sources should remain your primary sources.
 
-2. [Anthropology (My Optional)](https://se7en-0007.github.io/se7en/2.-anthropology/)
-My **Anthropology Notes** which are based on **Dr. Sudhir Kumar Sir's Anthropology Foundation**
-
-3. [Current Affairs](https://se7en-0007.github.io/se7en/3.-current-affairs/)
-**Notes & Summaries** based on **The Hindu Editorials, Indian Express Explained Articles, PIB Backgrounders** and other relevant sources
-
-4. [Class Notes](https://se7en-0007.github.io/se7en/4.-class-notes/)
-Class Notes of **Teachers** consolidated and organised at one place
-
-## Important Disclaimer
-
-These notes are **not meant to replace the primary sources**
-Standard books, lectures, newspapers and original sources should always remain your primary sources
-
-Think of everything over here more as a **revision companion**, something to come back to after you've studied the actual primary sources
-
-## A Small Technical Note
-
-I'll keep updating this website as I continue studying
-
-So if you visit it regularly, make sure to **clear the site's or browser cache and refresh the page** from time to time. Otherwise, your browser might show you yesterday's version without any updates
-
----
+## On the study desk
 
 > [!danger] **In Progress**
-> 
+>
 > - **Standard Books (Revision Notes)**
-> 	- PMF IAS (Physical Geography)
-> 	- M Laxmikanth (Indian Polity)
+>   - PMF IAS (Physical Geography)
+>   - M Laxmikanth (Indian Polity)
 > - **Class Notes**
-> 	- Anthropology (Dr. Sudhir Kumar)
-> 	- Environment (Mr. Akshay Vrat)
-> 	- Ancient History (Mr. Praveen Dixit)
+>   - Anthropology (Dr. Sudhir Kumar)
+>   - Environment (Mr. Akshay Vrat)
+>   - Ancient History (Mr. Praveen Dixit)
 
- 
 > [!success] **Completed**
-> 
+>
 > - **Standard Books (Revision-Friendly Notes)**
-> 	- Spectrum (Modern History)
+>   - Spectrum (Modern History)

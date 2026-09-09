@@ -16,29 +16,29 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Manrope
+      body: Source Sans 3
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#f8f6f0"
+        lightgray: "#e4e0da"
+        gray: "#8a8694"
+        darkgray: "#454252"
+        dark: "#242331"
+        secondary: "#62558e"
+        tertiary: "#8b7aaf"
+        highlight: rgba(139, 122, 175, 0.12)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#171821"
+        lightgray: "#343442"
+        gray: "#92909f"
+        darkgray: "#d4d1dc"
+        dark: "#f1edf6"
+        secondary: "#b7a6e4"
+        tertiary: "#8b7aaf"
+        highlight: rgba(139, 122, 175, 0.12)
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
@@ -81,6 +81,7 @@ plugins:
     enabled: true
     order: 50
     layout:
+      condition: not-index
       position: right
       priority: 30
   - source: "@quartz-community/crawl-links"
@@ -110,8 +111,16 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      useThemeFonts: false
+      fontOrigin: local
+      header: '"Manrope", sans-serif'
+      title: '"Manrope", sans-serif'
+      body: '"Source Sans 3", sans-serif'
+      interface: '"Source Sans 3", sans-serif'
+      code: '"IBM Plex Mono", monospace'
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
@@ -163,10 +172,10 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: false
+    enabled: true
     layout:
       position: right
-      priority: 10
+      priority: 40
   - source: "@quartz-community/search"
     enabled: true
     layout:
@@ -183,15 +192,17 @@ plugins:
   - source: "@quartz-community/article-title"
     enabled: true
     layout:
+      condition: not-index
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
     enabled: true
     layout:
+      condition: not-index
       position: beforeBody
       priority: 20
   - source: "@quartz-community/tag-list"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
@@ -262,16 +273,10 @@ plugins:
       language: yaml
     order: 5
     layout:
+      condition: not-index
       position: beforeBody
       priority: 15
       display: all
-  - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
-    options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
-    order: 50
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
