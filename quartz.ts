@@ -1,8 +1,25 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import { PageTypeDispatcher } from "./quartz/plugins/pageTypes/dispatcher"
 import { DigitalBrain, BrainHomeNav } from "./quartz/components/DigitalBrain"
+import { FolderPage } from "@quartz-community/folder-page"
+import type { QuartzPluginData } from "@quartz-community/types"
 
 const config = await loadQuartzConfig()
+
+const byNumber = (a: QuartzPluginData, b: QuartzPluginData) => {
+  const aTitle = a.frontmatter?.title ?? a.slug ?? ""
+  const bTitle = b.frontmatter?.title ?? b.slug ?? ""
+
+  return aTitle.localeCompare(bTitle, undefined, {
+    numeric: true,
+    sensitivity: "base",
+  })
+}
+
+config.plugins.pageTypes = (config.plugins.pageTypes ?? []).map((pageType) =>
+  pageType.name === "FolderPage" ? FolderPage({ sort: byNumber }) : pageType,
+)
+
 export const layout = await loadQuartzLayout()
 
 // Extend the YAML-resolved content layout; leave native page bodies intact.
