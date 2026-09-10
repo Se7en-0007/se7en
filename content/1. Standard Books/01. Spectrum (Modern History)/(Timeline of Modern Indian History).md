@@ -332,3 +332,5 @@
 **1947 :** **Jawaharlal Nehru** became the first Prime Minister of independent India and delivered his famous **"Tryst with Destiny"** speech.
 
 **1947 :** The **Partition of India** resulted in the creation of India and Pakistan and triggered one of the largest and most violent migrations in modern history.
+
+#Modern-History

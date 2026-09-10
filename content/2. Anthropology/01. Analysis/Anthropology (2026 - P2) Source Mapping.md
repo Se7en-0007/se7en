@@ -47,3 +47,5 @@ Based on a meticulous cross-examination of the **`ANTHROPOLOGY - PAPER 02`** que
 ### Insights
 
 An overwhelming majority of the questions (**96.3%**) can be **directly answered** using the provided textbooks. Only **one question** (Q2(b)) is classified as **not answerable** simply because it refers to a newly launched government scheme that is outside the scope of the standard reference textbooks.
+
+#Analysis #Research

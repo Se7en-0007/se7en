@@ -13,15 +13,17 @@ These notes are a **revision companion**. Standard books, lectures, newspapers a
 
 > [!danger] **In Progress**
 >
-> - **Standard Books (Revision Notes)**
->   - PMF IAS (Physical Geography)
->   - M Laxmikanth (Indian Polity)
+> - **Standard Books**
+> 	- PMF IAS (Physical Geography)
+> 	- M Laxmikanth (Indian Polity)
+> - **Anthropology**
+> 	- Class Notes (Dr Sudhir Kumar)
 > - **Class Notes**
->   - Anthropology (Dr. Sudhir Kumar)
->   - Environment (Mr. Akshay Vrat)
->   - Ancient History (Mr. Praveen Dixit)
+> 	- Environment (Mr. Akshay Vrat)
 
 > [!success] **Completed**
 >
-> - **Standard Books (Revision-Friendly Notes)**
->   - Spectrum (Modern History)
+> - **Standard Books**
+> 	- Spectrum (Modern History)
+> - **Class Notes**
+> 	- Ancient History Revision (Dr Vishwjeet Kawar)

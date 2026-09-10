@@ -48,3 +48,5 @@ Based on a meticulous cross-examination of the **`ANTHROPOLOGY - PAPER 01`** que
 ### Insights 
 
 An overwhelming majority of the questions (**96.4%**) can be **directly answered** using the provided textbooks. Only **one question** (Q6(b)) is classified as **indirectly answerable** because Leslie White's culturology framework, although fully explained, requires synthesis and inference to critically address the specific demand.
+
+#Analysis #Research 
