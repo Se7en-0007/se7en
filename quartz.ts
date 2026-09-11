@@ -1,10 +1,15 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import { PageTypeDispatcher } from "./quartz/plugins/pageTypes/dispatcher"
 import { DigitalBrain, BrainHomeNav } from "./quartz/components/DigitalBrain"
+import { LibraryGraph } from "./quartz/components/LibraryGraph"
+import { PrintPdf } from "./quartz/components/PrintPdf"
+import { InstallApp } from "./quartz/components/InstallApp"
+import { Pwa } from "./quartz/plugins/emitters/pwa"
 import { FolderPage } from "@quartz-community/folder-page"
 import type { QuartzPluginData } from "@quartz-community/types"
 
 const config = await loadQuartzConfig()
+config.plugins.emitters.push(Pwa())
 
 const byNumber = (a: QuartzPluginData, b: QuartzPluginData) => {
   const aTitle = a.frontmatter?.title ?? a.slug ?? ""
@@ -24,8 +29,9 @@ export const layout = await loadQuartzLayout()
 
 // Extend the YAML-resolved content layout; leave native page bodies intact.
 const contentLayout = layout.byPageType.content ?? layout.defaults
-contentLayout.beforeBody = [...(contentLayout.beforeBody ?? []), DigitalBrain]
-contentLayout.right = [BrainHomeNav, ...(contentLayout.right ?? [])]
+contentLayout.beforeBody = [...(contentLayout.beforeBody ?? []), DigitalBrain, PrintPdf]
+contentLayout.afterBody = [...(contentLayout.afterBody ?? []), InstallApp]
+contentLayout.right = [BrainHomeNav, ...(contentLayout.right ?? []), LibraryGraph]
 layout.byPageType.content = contentLayout
 
 // v5 creates its dispatcher inside loadQuartzConfig, before TS overrides run.

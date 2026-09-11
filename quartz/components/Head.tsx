@@ -26,6 +26,8 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
+    const appIconPath = joinSegments(baseDir, "static/icon-192.png")
+    const manifestPath = joinSegments(baseDir, "manifest.webmanifest")
 
     // Url of current page
     const socialUrl =
@@ -90,6 +92,9 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
+        <link rel="apple-touch-icon" href={appIconPath} />
+        <link rel="manifest" href={manifestPath} />
+        <meta name="theme-color" content="#242331" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
