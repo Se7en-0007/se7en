@@ -4,7 +4,7 @@ export const InstallApp: QuartzComponent = () => {
   return (
     <section class="pwa-install" aria-label="Install SE7EN">
       <div>
-        <strong>Keep SE7EN within reach</strong>
+        <strong>SE7EN</strong>
         <span>Install the library for a focused, app-like reading experience.</span>
       </div>
       <button class="pwa-install-button" type="button">

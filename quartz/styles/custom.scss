@@ -185,30 +185,6 @@ body[data-slug="index"] article > h2 {
 .digital-brain {
   font-size: 1rem;
 }
-.brain-topline {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 1rem;
-  margin: 0 0 1.2rem;
-  font-size: 0.75rem;
-  letter-spacing: 0.13em;
-  color: var(--brain-muted);
-}
-.brain-status {
-  letter-spacing: 0;
-  display: flex;
-  align-items: center;
-  gap: 7px;
-  white-space: nowrap;
-}
-.brain-status::before {
-  content: "";
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background: #8b7aaf;
-}
 .brain-hero {
   position: relative;
   overflow: hidden;
@@ -259,6 +235,7 @@ body[data-slug="index"] article > h2 {
   color: #bba6e8;
 }
 .brain-hero p {
+  max-width: 32rem;
   color: #e3dfeb;
   font-size: 1rem;
   line-height: 1.6;
@@ -277,14 +254,6 @@ body[data-slug="index"] article > h2 {
 .brain-cta:hover {
   background: #f8f3ff;
   color: #332947;
-}
-.brain-hero-caption {
-  position: absolute;
-  right: 24px;
-  bottom: 22px;
-  color: #e0d8ef;
-  letter-spacing: 0.14em;
-  font-size: 0.75rem;
 }
 .brain-section {
   margin-top: 2rem;
@@ -331,6 +300,8 @@ body[data-slug="index"] article > h2 {
   box-shadow: 0 16px 38px rgba(37, 29, 21, 0.1);
 }
 .brain-card-image {
+  // Keep numbered badges below the mobile Explorer overlay.
+  isolation: isolate;
   position: relative;
   overflow: hidden;
   min-height: 190px;
@@ -983,6 +954,19 @@ body[data-slug="index"] article > h2 {
   font-size: 0.9375rem;
   line-height: 1.7;
 }
+.brain-aside-note .brain-verse {
+  font-family: "Noto Serif Devanagari", "Kohinoor Devanagari", serif;
+  font-size: 1rem;
+  line-height: 1.85;
+}
+.brain-verse-source {
+  display: inline-block;
+  margin-top: 12px;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
 
 @media (min-width: 801px) and (max-width: 1200px) {
   .page[data-frame="default"] > #quartz-body {
@@ -1042,10 +1026,6 @@ body[data-slug="index"] article > h2 {
   .library-graph {
     width: min(100%, 420px);
   }
-  .brain-topline {
-    font-size: 0.75rem;
-    letter-spacing: 0.07em;
-  }
   .brain-hero-content {
     padding: 28px;
   }
@@ -1054,9 +1034,6 @@ body[data-slug="index"] article > h2 {
   }
   .brain-hero h1 {
     font-size: clamp(2rem, 6vw, 3rem);
-  }
-  .brain-hero-caption {
-    display: none;
   }
   .brain-section-heading > span {
     display: none;
@@ -1078,9 +1055,6 @@ body[data-slug="index"] article > h2 {
   .pwa-install-button {
     justify-content: center;
     width: 100%;
-  }
-  .brain-topline > span:first-child {
-    max-width: 55%;
   }
   .brain-subjects {
     gap: 10px;

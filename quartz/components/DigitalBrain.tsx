@@ -14,7 +14,7 @@ const subjects = [
   {
     folder: "2. Anthropology",
     title: "Anthropology",
-    detail: "Human origins. Culture. Connections.",
+    detail: "Notes on human evolution, culture and society.",
     mark: "02",
     image: "static/subject-anthropology.jpg",
   },
@@ -79,10 +79,6 @@ export const DigitalBrain: QuartzComponent = ({
     .slice(0, 5)
   return (
     <div class="digital-brain">
-      <div class="brain-topline">
-        <span>PERSONAL KNOWLEDGE SPACE</span>
-        <span class="brain-status">Always growing</span>
-      </div>
       <section class="brain-hero" aria-labelledby="brain-title">
         <img
           class="brain-mountains"
@@ -93,27 +89,23 @@ export const DigitalBrain: QuartzComponent = ({
           fetchPriority="high"
         />
         <div class="brain-hero-content">
-          <span class="brain-eyebrow">SE7EN / DIGITAL BRAIN</span>
+          <span class="brain-eyebrow">MY UPSC STUDY NOTES</span>
           <h1 id="brain-title">
-            A place to connect
-            <br />
-            what I learn<span>.</span>
+            Welcome to SE7EN<span>.</span>
           </h1>
           <p>
-            Notes, ideas &amp; connections.
-            <br />
-            One evolving journey of understanding.
+            These are the notes I make while preparing for UPSC, from books, newspapers and classes.
+            I’m sharing them here so you can look up a topic, revise a chapter or use them alongside
+            your own notes.
           </p>
           <a class="brain-cta" href="#subjects">
             Explore the library <span aria-hidden="true">↗</span>
           </a>
         </div>
-        <span class="brain-hero-caption">LEARN · CONNECT · REVISIT</span>
       </section>
       <section class="brain-section" aria-labelledby="subjects">
         <div class="brain-section-heading">
           <h2 id="subjects">Explore the library</h2>
-          <span>Four paths. One connected mind.</span>
         </div>
         <div class="brain-subjects">
           {subjects.map((subject) => {
@@ -213,15 +205,6 @@ export const DigitalBrain: QuartzComponent = ({
               </span>
               <span aria-hidden="true">↗</span>
             </a>
-            <a href="https://github.com/Se7en-0007/se7en" target="_blank" rel="noopener noreferrer">
-              <span class="brain-link-label">
-                <svg viewBox="0 0 24 24" aria-hidden="true">
-                  <path d="M12 2a10 10 0 0 0-3.2 19.5c.5.1.7-.2.7-.5v-1.9c-2.8.6-3.4-1.2-3.4-1.2-.5-1.2-1.1-1.5-1.1-1.5-.9-.6.1-.6.1-.6 1 .1 1.6 1.1 1.6 1.1.9 1.6 2.4 1.1 3 .9.1-.7.4-1.1.7-1.4-2.3-.3-4.7-1.1-4.7-5A3.9 3.9 0 0 1 6.8 8.6a3.6 3.6 0 0 1 .1-2.8s.8-.3 2.8 1.1a9.5 9.5 0 0 1 5.1 0c2-1.4 2.8-1.1 2.8-1.1a3.6 3.6 0 0 1 .1 2.8 3.9 3.9 0 0 1 1.1 2.8c0 3.9-2.4 4.7-4.7 5 .4.3.7 1 .7 2v2.6c0 .3.2.6.7.5A10 10 0 0 0 12 2Z" />
-                </svg>
-                Notes on GitHub
-              </span>
-              <span aria-hidden="true">↗</span>
-            </a>
             <a href="#about-these-notes">
               About these notes <span aria-hidden="true">↓</span>
             </a>
@@ -242,14 +225,27 @@ export const BrainHomeNav: QuartzComponent = ({ fileData }: QuartzComponentProps
       <a href="#quick-links">Quick links</a>
       <a href="#about-these-notes">About these notes</a>
       <div class="brain-aside-note">
-        <span>THE SE7EN APPROACH</span>
-        <p>
-          Collect with curiosity.
+        <span>ON SHARING KNOWLEDGE</span>
+        <p class="brain-verse" lang="sa">
+          अपूर्वः कोऽपि कोशोऽयं
           <br />
-          Connect with intention.
+          विद्यते तव भारति ।
           <br />
-          Return with perspective.
+          व्ययतो वृद्धिमायाति
+          <br />
+          क्षयमायाति सञ्चयात् ॥
         </p>
+        <p>Knowledge grows when shared and diminishes when kept to oneself.</p>
+        <a
+          class="brain-verse-source"
+          href="https://sa.wikisource.org/wiki/पृष्ठम्:सुभाषितरत्नभाण्डागारम्.djvu/४४"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Subhāṣitaratnabhāṇḍāgāra
+          <br />
+          Vidyāpraśaṃsā, verse 1
+        </a>
       </div>
     </nav>
   ) : null
