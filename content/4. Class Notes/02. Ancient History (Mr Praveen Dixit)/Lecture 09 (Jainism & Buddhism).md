@@ -29,7 +29,7 @@
 * **3rd to 9th Tirthankaras**:
   * Associated with urban settings $\rightarrow$ Modern scholars propose living during **Indus Valley Civilization**.
 * **23rd Tirthankara: Parshvanatha**
-  * Lived $pprox$ **250 years before Mahavira**.
+  * Lived approx **250 years before Mahavira**.
   * Followers wore white garments $\rightarrow$ Historical existence archaeologically/historically indicated.
   * Propounded **4 Vows (Anuvratas)**: Satya, Ahimsa, Asteya, Aparigraha.
 * **24th Tirthankara: Vardhamana Mahavira**
