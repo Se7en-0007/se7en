@@ -89,15 +89,8 @@ export const DigitalBrain: QuartzComponent = ({
           fetchPriority="high"
         />
         <div class="brain-hero-content">
-          <span class="brain-eyebrow">MY UPSC STUDY NOTES</span>
-          <h1 id="brain-title">
-            Welcome to SE7EN<span>.</span>
-          </h1>
-          <p>
-            These are the notes I make while preparing for UPSC, from books, newspapers and classes.
-            I’m sharing them here so you can look up a topic, revise a chapter or use them alongside
-            your own notes.
-          </p>
+          <h1 id="brain-title">Hey, I’m SE7EN</h1>
+          <p>This is my personal knowledge base, made public.</p>
           <a class="brain-cta" href="#subjects">
             Explore the library <span aria-hidden="true">↗</span>
           </a>
