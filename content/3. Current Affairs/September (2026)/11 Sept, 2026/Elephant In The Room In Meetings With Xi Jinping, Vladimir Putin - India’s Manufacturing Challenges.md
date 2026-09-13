@@ -14,8 +14,8 @@
 
 ## What Does The Trade Profile With Russia Reveal About What India Can Sell?
 
-- India’s exports to Russia remain **below $5 billion**, against imports of **$63.8 billion** in the year to **March 2025**.
-- The resulting trade deficit is **nearly $59 billion**.
+- India’s exports to Russia remain **below 5 billion dollar**, against imports of **63.8 billion dollar** in the year to **March 2025**.
+- The resulting trade deficit is **nearly 59 billion dollar**.
 - **Russian oil and other natural resources** dominate India’s imports from Russia.
 - Russia is a substantial market for manufactured goods, so the constraint is not the market but **India’s supply-side capability**.
 

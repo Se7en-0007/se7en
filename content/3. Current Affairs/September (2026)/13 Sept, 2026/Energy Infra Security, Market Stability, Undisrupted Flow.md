@@ -50,9 +50,9 @@
 
 ## **Oil Prices**
 
-- A fresh escalation in the West Asia conflict pushed oil prices above **$100 a barrel**, their highest levels in nearly **three-and-a-half months**.
-- The **$100 threshold** was breached on Wednesday.
-- **Brent futures** remained above $100 until Friday, closing at about **$105 per barrel**, the highest level since **May**.
+- A fresh escalation in the West Asia conflict pushed oil prices above **100 dollar a barrel**, their highest levels in nearly **three-and-a-half months**.
+- The **100 dolar threshold** was breached on Wednesday.
+- **Brent futures** remained above 100 dollar until Friday, closing at about **105 dollar per barrel**, the highest level since **May**.
 
 ## **Dilemma And A Test For BRICS**
 

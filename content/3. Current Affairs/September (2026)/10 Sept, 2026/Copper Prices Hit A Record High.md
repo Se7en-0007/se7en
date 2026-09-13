@@ -2,9 +2,9 @@
 > [!summary] Source
 > https://indianexpress.com/article/explained/explained-economics/copper-prices-rise-reason-tariffs-futures-10871982/
 
-- **Copper prices surged to a record high of $14,708 per tonne on Tuesday, September 8**, despite global growth prospects being clouded by **trade tensions, the West Asia conflict and uncertainty**.
-- **Three-month copper futures** on the **London Metal Exchange (LME)** stayed above **$14,000 per tonne for most of August** and climbed further in September.
-- The rally followed a volatile phase: copper crossed **$12,000 per tonne in December last year**, marking its **biggest annual gain since 2009**, before easing to **$11,929.5 per tonne in March**.
+- **Copper prices surged to a record high of 14,708 dollar per tonne on Tuesday, September 8**, despite global growth prospects being clouded by **trade tensions, the West Asia conflict and uncertainty**.
+- **Three-month copper futures** on the **London Metal Exchange (LME)** stayed above **14,000 dollar per tonne for most of August** and climbed further in September.
+- The rally followed a volatile phase: copper crossed **12,000 dollar per tonne in December last year**, marking its **biggest annual gain since 2009**, before easing to **11,929.5 dollar per tonne in March**.
 - The March decline reflected concerns that **higher energy costs stemming from the West Asia conflict** could hurt global growth and weaken demand for industrial commodities.
 
 ## Why Copper Price Rise Matters
@@ -30,7 +30,7 @@
 - The disparity in inventories has created **arbitrage opportunities**.
 - An **arbitrage opportunity** occurs when the same commodity is priced differently in two markets: traders buy copper in the cheaper market and simultaneously sell it in the more expensive market to profit from the price gap.
 - Copper is traded across multiple exchanges, including the **LME in London** and **COMEX in the US**.
-- The current arbitrage difference between LME and COMEX is around **$400-$500**.
+- The current arbitrage difference between LME and COMEX is around **400-500 dollar**.
 - However, **arbitrage is only one factor** behind the recent rise. The more significant driver is **stockpiling in anticipation of tariffs**, which has pushed up prices.
 
 ## Constrained Mine Supply And Geographical Rebalancing
@@ -45,7 +45,7 @@
 
 - Last year, Trump’s **50% tariff on semi-finished and derivative copper imports** prompted US buyers to stockpile copper before its implementation on **August 1**, contributing heavily to the price surge.
 - The move followed a report by the **US Secretary of Commerce**, which found that copper imports threatened to impair **US national security**.
-- In **2025**, the United States imported **$16.2 billion worth of copper products**.
+- In **2025**, the United States imported **16.2 billion dollar worth of copper products**.
 - Sources of US copper-product imports were:
     
     - **China: 20%**

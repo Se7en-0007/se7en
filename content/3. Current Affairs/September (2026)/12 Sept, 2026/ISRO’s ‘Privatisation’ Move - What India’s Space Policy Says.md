@@ -97,8 +97,8 @@
 - Opening the sector to private players aims to expand **India’s share in the global space economy**.
 - Although India is among the foremost space-faring countries, its current global space-economy share is **less than 2%**, because ISRO’s main focus was on **national priorities** rather than commercial services.
 - The private sector is expected to take over routine services and provide reliable, cost-effective launch services to Indian and international customers.
-- The plan is to expand India’s space sector from **$9 billion in 2026** to **$40 billion-$45 billion over the next decade**.
-- Investment in the private space sector rose **sixfold**, from **$100.5 million in 2021-22** to **$618.5 million by March 31, 2026**.
+- The plan is to expand India’s space sector from **9 billion dollar in 2026** to **40 billion-45 billion dollar over the next decade**.
+- Investment in the private space sector rose **sixfold**, from **100.5 million dollar in 2021-22** to **618.5 million dollar by March 31, 2026**.
 
 ## Civilian Space Activities
 

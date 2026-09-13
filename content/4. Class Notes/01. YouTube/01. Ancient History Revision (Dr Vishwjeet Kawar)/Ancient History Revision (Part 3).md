@@ -267,4 +267,4 @@
 - **Hoysalas of Dvarasamudra**: Ruled Karnataka (*Capital: Halebidu*).
 - **Kakatiyas of Warangal**: Ruled Andhra/Telangana (*Capital: Warangal*). Built Ramappa Temple.
 
-#Class-Notes 
+#Class-Notes  #Ancient-History 

@@ -9,14 +9,14 @@
     - The expanded **11-member BRICS** accounted for approximately **36.8% of global GDP (PPP)**.
     - The **G7's share** fell below **29%**.
 - **BRICS represents roughly a quarter of global trade**.
-- **Intra-BRICS merchandise trade** reached **$1.17 trillion in 2024**, a nearly **13-fold increase** from **$84 billion** over two decades.
-- BRICS holds an estimated **$5.2 trillion in combined foreign reserves**.
+- **Intra-BRICS merchandise trade** reached **1.17 trillion dollar in 2024**, a nearly **13-fold increase** from **84 billion dollar** over two decades.
+- BRICS holds an estimated **5.2 trillion dollar in combined foreign reserves**.
 - It accounts for **78.2% of global mineral coal production**.
 - BRICS nations are projected to average growth of **3.8% in 2025** and **3.7% in 2026** - **more than three times the G7 average**.
 - **Per-capita GDP presents a different picture**:
     
-    - **G7 average**: around **$53,000**
-    - **BRICS average**: roughly **$8,200**
+    - **G7 average**: around **53,000 dollar**
+    - **BRICS average**: roughly **8,200 dollar**
 - BRICS's aggregate weight is driven by **population and resource scale**, rather than **individual prosperity**.
 
 ## From Vision To Reality
@@ -31,7 +31,7 @@
 - BRICS has expanded to **11 full members**, with **Indonesia joining in January 2025**.
 - The expansion has made internal disagreements over **BRICS's strategic purpose** more visible.
 - **India proposed the New Development Bank at the 2012 New Delhi summit**.
-- By **mid-2026**, the **New Development Bank** had approved about **$44 billion** across **141 projects**.
+- By **mid-2026**, the **New Development Bank** had approved about **44 billion dollar** across **141 projects**.
 - At the **May 2026 BRICS foreign ministers' meeting in New Delhi**, members failed to agree on a **joint declaration** amid **Iran-UAE tensions**; India consequently issued a **chair's statement**.
 
 ## Beyond Geopolitics

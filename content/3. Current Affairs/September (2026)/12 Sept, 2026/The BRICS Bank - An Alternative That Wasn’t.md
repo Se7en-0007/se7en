@@ -22,8 +22,8 @@
 - Russia is a **founding member** and holds a **20% shareholding** in the NDB.
 - Russia subsequently **relinquished its turn at the NDB’s rotating presidency**, extending the Brazilian incumbent’s term until **2030**.
 - This indicates that the NDB does not operate outside **western financial discipline**.
-- By the end of **2024**, the NDB’s total project approvals had reached **$39 billion**.
-- The **World Bank Group commits roughly $100 billion every year**.
+- By the end of **2024**, the NDB’s total project approvals had reached **39 billion dollar**.
+- The **World Bank Group commits roughly 100 billion dollar every year**.
 - Thus, in a full decade, the NDB approved **less than what the World Bank Group disburses in six months**.
 - The NDB also **co-finances projects with the World Bank and IMF**, making the relationship **complementary rather than competitive**.
 - Although this may be smart banking, it falls far short of the NDB’s founding rhetoric of being a genuine alternative.
@@ -31,7 +31,7 @@
 ## The Safety Net Nobody Uses
 
 - BRICS established the **Contingent Reserve Arrangement (CRA)** in **2015**.
-- The CRA is a **$100 billion pool of foreign-exchange reserves** intended to help member countries manage financial crises without turning to the IMF.
+- The CRA is a **100 billion dollar pool of foreign-exchange reserves** intended to help member countries manage financial crises without turning to the IMF.
 - In principle, it was the most radical BRICS proposal because it could have weakened the IMF’s monopoly on emergency lending to the **Global South**.
 - In practice, the CRA has **never been activated, not once in a decade**.
 - A member country seeking to draw **more than 30% of its allotted share** must first enter an **IMF programme**.
