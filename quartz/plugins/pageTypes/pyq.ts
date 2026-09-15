@@ -8,7 +8,7 @@ export const PyqPage: QuartzPageTypePlugin = () => ({
   generate: () => [
     {
       slug: "pyqs",
-      title: "Previous year questions",
+      title: "PYQs",
       data: {
         description: "Search Prelims and Mains previous year questions by topic, paper and year.",
       },

@@ -11,7 +11,7 @@ export const PyqSearch: QuartzComponent = ({ fileData }: QuartzComponentProps) =
   >
     <header class="pyq-heading">
       <p class="pyq-kicker">SE7EN · QUESTION BANK</p>
-      <h1>Previous year questions</h1>
+      <h1>PYQs</h1>
       <p>
         Search a topic across Prelims and Mains. Questions can belong to more than one subject or
         topic.
