@@ -92,38 +92,6 @@ export const PyqSearch: QuartzComponent = ({ fileData }: QuartzComponentProps) =
         through the Explorer.
       </p>
     </noscript>
-    <details class="pyq-sources">
-      <summary>Coverage and sources</summary>
-      <p>
-        Imported from the two Civilsdaily compilations supplied for this library: Prelims GS
-        2008–2026 and Mains GS I–IV 2013–2025, including ethics case studies. Essay coverage is
-        2021–2025. CSAT, optional papers and Essay 2013–2020 are not included in these files.
-      </p>
-      <p>
-        The collection reflects those PDFs, rather than a verified complete UPSC archive. Source
-        page references are shown with each question. Where the compilation has missing statements
-        or conflicting options, the entry is marked for checking. Answer keys are from the
-        compilation and have not been independently verified against UPSC.
-      </p>
-      <p>
-        Questions have multiple topic tags; these are study aids and can be refined.{" "}
-        <a
-          href="https://www.upsc.gov.in/examinations/previous-question-papers"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          UPSC question papers
-        </a>{" "}
-        ·{" "}
-        <a
-          href="https://www.upsc.gov.in/examinations/previous-question-papers/archives"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          UPSC archives
-        </a>
-      </p>
-    </details>
   </section>
 )
 PyqSearch.afterDOMLoaded = script

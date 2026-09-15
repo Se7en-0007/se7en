@@ -8,7 +8,7 @@ The live collection is `quartz/static/pyqs/questions.json`. It is loaded only wh
 - Civilsdaily GS Mains Microthemes 2026 edition: 974 GS theory entries, 78 ethics case studies, 40 essays.
 - GS coverage: 2013–2025. Essays: 2021–2025. No CSAT or optional papers in these inputs.
 
-Counts describe the supplied compilations, not independently verified completeness of official UPSC papers. Source page references are retained. Source serial numbers are not presented as original UPSC question numbers. Seven entries contain missing statements or conflicting option sets and are flagged. Seven more lack a supplied answer key. Keys are labelled as compilation answers, not official verified answers.
+Counts describe the supplied compilations, not independently verified completeness of official UPSC papers. Source page references are retained. Source serial numbers are not presented as original UPSC question numbers. Seven entries contain missing statements or conflicting option sets and are flagged in the dataset. Seven more lack a supplied answer key. Reader cards show an Answer section only when an answer is available; provenance and import flags remain in the dataset for maintenance and are not displayed on the page.
 
 ## Topic assignments
 

@@ -134,39 +134,11 @@ function setupPyqs() {
           topics.append(button)
         }
         if (q.topics.length) card.append(topics)
-        const details = el("details", undefined, "pyq-source")
-        details.append(el("summary", "Source & answer"))
-        const source = data.sources.find((s) => s.id === q.stage.toLowerCase())!
-        details.append(
-          el(
-            "p",
-            `${source.name} · ${q.sourcePages.length === 1 ? "page" : "pages"} ${q.sourcePages.join(", ")}.`,
-          ),
-        )
-        details.append(
-          el(
-            "p",
-            `Source microtheme${q.microthemes.length > 1 ? "s" : ""}: ${q.microthemes.join("; ") || q.subject}.`,
-          ),
-        )
-        if (q.stage === "Prelims")
-          details.append(
-            el(
-              "p",
-              q.answer
-                ? `Answer in compilation: ${q.answer}. Not independently verified against UPSC.`
-                : "No answer key is supplied for this question.",
-            ),
-          )
-        if (q.flags?.some((f) => !f.startsWith("No answer"))) {
-          const warning = el(
-            "p",
-            q.flags.filter((f) => !f.startsWith("No answer")).join(" "),
-            "pyq-source-warning",
-          )
-          card.append(warning)
+        if (q.answer) {
+          const details = el("details", undefined, "pyq-answer")
+          details.append(el("summary", "Answer"), el("p", q.answer))
+          card.append(details)
         }
-        card.append(details)
         return card
       }
       const append = () => {

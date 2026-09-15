@@ -161,7 +161,7 @@
   .pyq-topics button:hover {
     border-color: var(--secondary);
   }
-  .pyq-source {
+  .pyq-answer {
     border-top: 1px solid var(--lightgray);
     padding-top: 0.7rem;
     font-size: 0.78rem;
@@ -171,15 +171,9 @@
     cursor: pointer;
     color: var(--secondary);
   }
-  .pyq-source p {
+  .pyq-answer p {
     margin: 0.5rem 0;
     font-size: inherit;
-  }
-  .pyq-source-warning {
-    padding: 0.6rem 0.8rem;
-    border-left: 3px solid var(--tertiary);
-    font-size: 0.8rem;
-    background: var(--highlight);
   }
   .pyq-more {
     display: block;
@@ -192,16 +186,6 @@
     padding: 2rem 1rem;
     border: 1px dashed var(--lightgray);
     border-radius: 12px;
-  }
-  .pyq-sources {
-    margin-top: 2rem;
-    padding: 1rem;
-    border: 1px solid var(--lightgray);
-    border-radius: 10px;
-  }
-  .pyq-sources p {
-    font-size: 0.85rem;
-    line-height: 1.6;
   }
 }
 .pyq-help {
