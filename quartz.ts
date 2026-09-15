@@ -4,6 +4,8 @@ import { DigitalBrain, BrainHomeNav } from "./quartz/components/DigitalBrain"
 import { LibraryGraph } from "./quartz/components/LibraryGraph"
 import { PrintPdf } from "./quartz/components/PrintPdf"
 import { InstallApp } from "./quartz/components/InstallApp"
+import { PyqPage } from "./quartz/plugins/pageTypes/pyq"
+import { PyqHelp } from "./quartz/components/PyqSearch"
 import { Pwa } from "./quartz/plugins/emitters/pwa"
 import { FolderPage } from "@quartz-community/folder-page"
 import type { QuartzPluginData } from "@quartz-community/types"
@@ -25,6 +27,8 @@ config.plugins.pageTypes = (config.plugins.pageTypes ?? []).map((pageType) =>
   pageType.name === "FolderPage" ? FolderPage({ sort: byNumber }) : pageType,
 )
 
+config.plugins.pageTypes = [...(config.plugins.pageTypes ?? []), PyqPage()]
+
 export const layout = await loadQuartzLayout()
 
 // Extend the YAML-resolved content layout; leave native page bodies intact.
@@ -33,6 +37,12 @@ contentLayout.beforeBody = [...(contentLayout.beforeBody ?? []), DigitalBrain, P
 contentLayout.afterBody = [...(contentLayout.afterBody ?? []), InstallApp]
 contentLayout.right = [BrainHomeNav, ...(contentLayout.right ?? []), LibraryGraph]
 layout.byPageType.content = contentLayout
+layout.byPageType.pyq = {
+  ...contentLayout,
+  beforeBody: [],
+  afterBody: [InstallApp],
+  right: [PyqHelp],
+}
 
 // v5 creates its dispatcher inside loadQuartzConfig, before TS overrides run.
 // Replace that instance so both rendering and resource collection use this layout.

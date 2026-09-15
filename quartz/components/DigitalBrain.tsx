@@ -96,6 +96,26 @@ export const DigitalBrain: QuartzComponent = ({
           </a>
         </div>
       </section>
+      <form
+        class="brain-pyq-search"
+        action={href("pyqs" as FullSlug)}
+        method="get"
+        role="search"
+        aria-label="Search PYQs"
+      >
+        <label for="home-pyq-query">Search PYQs</label>
+        <div>
+          <input
+            id="home-pyq-query"
+            name="q"
+            type="search"
+            placeholder="Search a topic across Prelims & Mains…"
+            maxlength={240}
+          />
+          <button type="submit">Search PYQs →</button>
+        </div>
+        <span>Prelims GS 2008–2026 · Mains GS 2013–2025 · Essay 2021–2025</span>
+      </form>
       <section class="brain-section" aria-labelledby="subjects">
         <div class="brain-section-heading">
           <h2 id="subjects">Explore the library</h2>
@@ -197,6 +217,9 @@ export const DigitalBrain: QuartzComponent = ({
                 Join the Telegram community
               </span>
               <span aria-hidden="true">↗</span>
+            </a>
+            <a class="internal" href={href("pyqs" as FullSlug)}>
+              Browse all PYQs <span aria-hidden="true">↗</span>
             </a>
             <a href="#about-these-notes">
               About these notes <span aria-hidden="true">↓</span>
