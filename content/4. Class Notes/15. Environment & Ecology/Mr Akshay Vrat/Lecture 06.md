@@ -106,7 +106,7 @@
 
 - **Core Principle**: No organism lives in isolation; inter-species interaction is a prerequisite for survival.
 
-![[Pasted image 20260916212356.png|550]]
+![[Biotic Interaction.png|550]]
 
 ### Mutualism (Symbiotic Interaction) - (+, +)
 - **Type**: **Obligatory** (Species dependent on each other; extinction of one leads to extinction of the other).

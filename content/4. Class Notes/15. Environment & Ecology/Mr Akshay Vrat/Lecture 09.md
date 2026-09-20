@@ -161,7 +161,7 @@
 
 #### Classification of Nations under Kyoto Protocol
 
-![[Pasted image 20260916213131.png|900]]
+![[Kyoto Classification.png|900]]
 
 1. **Annex I Countries (43 Nations)**:
    - Industrialized countries (EU member states + OECD nations + Economies in Transition like Russia).
