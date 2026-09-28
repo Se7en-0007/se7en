@@ -73,7 +73,7 @@ $$\text{NDTL} = \text{Net Liabilities Towards Banks} + \text{Public Deposits}$$
 
 ## Monetary Policy Tools: Quantitative vs. Qualitative
 
-![[MP Tools.png|800]]
+![[Pasted image 20260928183026.png|900]]
 
 ### Quantitative Tools
 * **Function**: Alters the **total quantity/volume** of money circulating in the macroeconomy.

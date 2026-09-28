@@ -95,9 +95,9 @@
 
 ### Bank Balance Sheet Structural Mismatch
 
-![[Balance Sheet.png|350]]
+![[Pasted image 20260928183241.png|500]]
 
-* **Asset-Liability Mismatch (ALM)** = Classical banking issue where short-term liabilities (deposits) are locked in long-term illiquid assets (housing/infrastructure loans).
+* **Asset-Liability Mismatch (ALM)** = Classical banking issue where short-term liabilities (deposits) are locked in long-term illiquid assets (housing or infrastructure loans).
 * **Inter-Bank Borrowing** = Primary mechanism to resolve daily ALM liquidity gaps.
 * **Bank Run** = Panic situation where depositors simultaneously rush to withdraw cash deposits due to loss of confidence.
 * **Lender of Last Resort Mechanism** = When a bank faces ALM/bank run and no other bank/market entity extends loans, RBI steps in to supply liquidity.

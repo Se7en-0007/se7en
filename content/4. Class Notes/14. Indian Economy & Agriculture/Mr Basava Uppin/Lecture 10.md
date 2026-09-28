@@ -13,7 +13,7 @@
   * **Capital Inflow**: Foreign Investment in India (**FDI / FPI**) > Outward Investment by Indians.
   * **Remittances**: Inward Remittances (NRI/Indian working in US sending money back) > Outward Remittances (foreigners working in India sending money home).
 
-![[FC 1.png|500]]
+![[Pasted image 20260928182009.png|700]]
 
 ### Impact on Stakeholders
 * **Importers (Gainers)**:
@@ -157,13 +157,13 @@ $$\text{Bond Yield} \propto \text{Rate of Inflation}$$
 
 ### Causal Chain 1: Government Borrowings → Bond Yield
 
-![[FC 2.png|700]]
+![[Pasted image 20260928182150.png|700]]
 
 * *Reverse*: Government Borrowings ↓ → G-Sec Supply ↓ → Bond Price ↑ → **Bond Yield ↓**
 
 ### Causal Chain 2: Rate of Inflation & Interest Rates → Bond Yield
 
-![[FC 3.png|700]]
+![[Pasted image 20260928182344.png|700]]
 
 * *Reverse (Economic Slowdown)*: Inflation ↓ or Expansionary Policy → Bank Deposit Interest Rates ↓ → Bonds become MORE attractive → Demand for Bonds ↑ → Bond Price ↑ → **Bond Yield ↓**
 

@@ -108,7 +108,7 @@
   * **Floor (Bottom Rate)** = **SDF Rate** = **Repo Rate - 25 bps (-0.25%)**.
   * **Total Corridor Width** = **50 Basis Points (0.50%)** {Gap between MSF and SDF}.
 
-![[MSF RR SDF.png|450]]
+![[Pasted image 20260928182623.png|600]]
 
 ### Automatic Transmission Mechanism
 * **Single Change Principle**: MPC explicitly votes and changes **ONLY the Repo Rate**.
@@ -184,7 +184,7 @@ Putin starts Russia-Ukraine War → Global Crude Oil Shortage → Crude Oil Pric
 
 ### RBI Forex Intervention: Market Appreciation vs. RBI Revaluation
 
-![[Forex.png|900]]
+![[Pasted image 20260928182842.png|900]]
 
 * **Appreciation** = Increase in Rupee value driven purely by **market forces of demand and supply**.
 * **Revaluation** = Increase in Rupee value driven directly by **RBI intervention** (selling Forex reserves).
