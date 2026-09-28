@@ -3,7 +3,7 @@
 
 ### Definition & Numerical Representation
 * **Rupee Appreciation** = Increase in value of Indian Rupee with respect to foreign currencies (**US Dollar**, **Euro**, **Pound**, **Yen**, **Yuan**).
-* **Exchange Rate Shift**: Change from **$1 = ₹60** → **$1 = ₹30**.
+* **Exchange Rate Shift**: Change from $1 = ₹60 → $1 = ₹30.
 * **Interpretation**: Earlier paid ₹60 to get $1; now pay ₹30 to get same $1 → Fewer rupees needed → **Rupee value increased** (Dollar value decreased).
 
 ### Cause of Appreciation: Dollar Surplus
