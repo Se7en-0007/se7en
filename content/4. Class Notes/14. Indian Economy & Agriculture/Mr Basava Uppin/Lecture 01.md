@@ -15,9 +15,9 @@
 - **Price Rise & Inflation Mechanism**:
   - *Childhood Experience*: Orange candy price rise (25 paise → 4 candies for ₹1; increased to 50 paise → only 2 candies for ₹1).
   - *Economic Concept*: **Inflation** = Price rise of goods/services → **Purchasing power of money ↓**.
-- **Exchange Rate Misconception ($1 = ₹1)**:
-  - *Misconception*: $1 = ₹1 implies Indian economy becomes as developed as US with equal standard of living.
-  - *Reality*: Sudden extreme rupee appreciation ($1 = ₹1) → Export competitiveness destroyed + Domestic manufacturing collapse → **Disastrous for Indian economy**.
+- **Exchange Rate Misconception (1 Dollar = ₹1)**:
+  - *Misconception*: 1 Dollar = ₹1 implies Indian economy becomes as developed as US with equal standard of living.
+  - *Reality*: Sudden extreme rupee appreciation (1 Dollar = ₹1) → Export competitiveness destroyed + Domestic manufacturing collapse → **Disastrous for Indian economy**.
 
 ### Decoding Newspapers & Interrelated Business Headlines
 - **Front Page (Politics)** = Easy engagement vs **Business Page** = Intimidating due to technical terminology.

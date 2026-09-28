@@ -156,11 +156,11 @@
 ## Exchange Rate Management & Currency Dynamics
 
 ### Exchange Rate Mechanics: Depreciation vs. Appreciation
-* **Baseline Example**: Exchange rate shifts from **$1 = ₹30** to **$1 = ₹60**.
-  * **Rupee Depreciation**: Paying more Rupees (₹60 vs ₹30) to buy same $1 → Value of Rupee HAS DECREASED relative to Dollar.
+* **Baseline Example**: Exchange rate shifts from **1 Dollar = ₹30** to **1 Dollar = ₹60**.
+  * **Rupee Depreciation**: Paying more Rupees (₹60 vs ₹30) to buy same 1 Dollar → Value of Rupee HAS DECREASED relative to Dollar.
   * **Dollar Appreciation**: Dollar value HAS INCREASED relative to Rupee.
-* **Reverse Example**: Exchange rate shifts from **$1 = ₹30** to **$1 = ₹15**.
-  * **Rupee Appreciation**: Paying fewer Rupees (₹15 vs ₹30) to buy same $1 → Value of Rupee HAS INCREASED.
+* **Reverse Example**: Exchange rate shifts from **1 Dollar = ₹30** to **1 Dollar = ₹15**.
+  * **Rupee Appreciation**: Paying fewer Rupees (₹15 vs ₹30) to buy same 1 Dollar → Value of Rupee HAS INCREASED.
 
 ### Commodity Analogy (Apple Model)
 * Replace **Dollar** with **Apple**:
@@ -173,11 +173,11 @@
 
 ### Stakeholder Impact: Exporters vs. Importers
 
-| Stakeholder | Impact of Rupee Depreciation ($1 = ₹30 → ₹60) | Winner / Loser Status |
-| :--- | :--- | :--- |
-| **Indian Exporters** | Earn **₹60 instead of ₹30** for every $1 of goods exported abroad | **WINNER** (Revenue in Rupees increases) |
-| **Indian Importers** | Must pay **₹60 instead of ₹30** to purchase $1 worth of imported goods/raw materials | **LOSER** (Import costs double) |
-| **Domestic Consumers** | Higher import costs for crude oil → Higher petrol/diesel freight → **Imported Inflation** | **LOSER** (Cost of living / food thali price rises) |
+| Stakeholder            | Impact of Rupee Depreciation (1 Dollar = ₹30 → ₹60)                                        | Winner / Loser Status                               |
+| :--------------------- | :----------------------------------------------------------------------------------------- | :-------------------------------------------------- |
+| **Indian Exporters**   | Earn **₹60 instead of ₹30** for every 1 Dollar of goods exported abroad                    | **WINNER** (Revenue in Rupees increases)            |
+| **Indian Importers**   | Must pay **₹60 instead of ₹30** to purchase 1 Dollar worth of imported goods/raw materials | **LOSER** (Import costs double)                     |
+| **Domestic Consumers** | Higher import costs for crude oil → Higher petrol/diesel freight → **Imported Inflation**  | **LOSER** (Cost of living / food thali price rises) |
 
 ### Imported Inflation Causal Chain (The Thali Example)
 Putin starts Russia-Ukraine War → Global Crude Oil Shortage → Crude Oil Price ($) Rises + Rupee Depreciates → India's Crude Oil Import Bill (₹) Doubles → Domestic Petrol & Diesel Prices Increase → Freight & Truck Transportation Costs Rise → Vegetable Transport Costs Rise → Restaurant Meal / Thali Price Increases.

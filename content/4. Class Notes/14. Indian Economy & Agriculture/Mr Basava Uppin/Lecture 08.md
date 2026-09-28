@@ -13,7 +13,7 @@
 ### Core Rationale For Ban (Government Standpoint)
 1. **Money Laundering Channel**: Unregulated gaming apps used as a conduit to convert unaccounted black money into white money.
 2. **Adverse Socio-Economic Impact**:
-   * **Massive Financial Drain**: From Jan–July 2025, Indian citizens spent **~$4 Billion** on gaming apps - an amount **equal to total national expenditure on medicines** during the exact same timeframe.
+   * **Massive Financial Drain**: From Jan–July 2025, Indian citizens spent **~4 Billion Dollar** on gaming apps - an amount **equal to total national expenditure on medicines** during the exact same timeframe.
    * **Youth & Demographic Toll**: Teenagers and unemployed youth in Tier-2 and Tier-3 cities spend full days on betting apps, leading to academic neglect, severe addiction and financial debt traps.
 
 ### Economic Drawbacks & Industry Challenges of The Ban

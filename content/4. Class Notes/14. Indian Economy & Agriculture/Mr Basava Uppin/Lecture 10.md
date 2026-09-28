@@ -3,8 +3,8 @@
 
 ### Definition & Numerical Representation
 * **Rupee Appreciation** = Increase in value of Indian Rupee with respect to foreign currencies (**US Dollar**, **Euro**, **Pound**, **Yen**, **Yuan**).
-* **Exchange Rate Shift**: Change from $1 = ₹60 → $1 = ₹30.
-* **Interpretation**: Earlier paid ₹60 to get $1; now pay ₹30 to get same $1 → Fewer rupees needed → **Rupee value increased** (Dollar value decreased).
+* **Exchange Rate Shift**: Change from 1 Dollar = ₹60 → 1 Dollar = ₹30.
+* **Interpretation**: Earlier paid ₹60 to get 1 Dollar; now pay ₹30 to get same 1 Dollar → Fewer rupees needed → **Rupee value increased** (Dollar value decreased).
 
 ### Cause of Appreciation: Dollar Surplus
 * **Core Cause** = **Surplus of Dollars** in domestic market (Dollar Inflow > Dollar Outflow).
@@ -17,16 +17,16 @@
 
 ### Impact on Stakeholders
 * **Importers (Gainers)**:
-  * Pay fewer rupees for same dollar imports ($1 = ₹30 → $1 = ₹15).
+  * Pay fewer rupees for same dollar imports (1 Dollar = ₹30 → 1 Dollar = ₹15).
   * Imports become cheaper → **Imports into India increase**.
 * **Exporters (Losers)**:
-  * Earn fewer rupees when converting export dollars ($1 = ₹30 → $1 = ₹15).
+  * Earn fewer rupees when converting export dollars (1 Dollar = ₹30 → 1 Dollar = ₹15).
   * Net export earnings fall → **Exports from India decrease**.
 
 ### Layman Misconception vs. Economic Reality
-* **Childhood Perception**: Belief that **$1 = ₹1** equals standard of living in US.
+* **Childhood Perception**: Belief that **1 Dollar = ₹1** equals standard of living in US.
 * **Economic Reality**: Large-scale appreciation causes **severe damage to economy**:
-  1. **Destroys Export-Oriented Industries**: IT sector (**Infosys** exporting $1 software earns ₹1 instead of ₹85), Engineering goods, Pharmaceuticals.
+  1. **Destroys Export-Oriented Industries**: IT sector (**Infosys** exporting 1 Dollar software earns ₹1 instead of ₹85), Engineering goods, Pharmaceuticals.
   2. **Hurts Domestic Manufacturing**: Cheap foreign imports flood market (e.g. luxury foreign goods imported cheaply → demand for domestic Maruti cars/manufactures collapses).
 * **Dutch Disease** = Adverse effect on domestic manufacturing and national economy caused by large-scale appreciation of domestic currency.
 
@@ -36,10 +36,10 @@
 
 ### Classification by Driving Force
 
-| Outcome | Triggered by Market Forces (Demand & Supply) | Triggered by Central Bank (RBI) Intervention |
-| :--- | :--- | :--- |
-| **Fall in Rupee Value** ($1 = ₹30 → $1 = ₹60) | **Rupee Depreciation** | **Rupee Devaluation** (RBI buys dollars → injects rupees) |
-| **Rise in Rupee Value** ($1 = ₹60 → $1 = ₹30) | **Rupee Appreciation** | **Rupee Revaluation** (RBI sells dollars → sucks out rupees) |
+| Outcome                                                   | Triggered by Market Forces (Demand & Supply) | Triggered by Central Bank (RBI) Intervention                 |
+| :-------------------------------------------------------- | :------------------------------------------- | :----------------------------------------------------------- |
+| **Fall in Rupee Value** (1 Dollar = ₹30 → 1 Dollar = ₹60) | **Rupee Depreciation**                       | **Rupee Devaluation** (RBI buys dollars → injects rupees)    |
+| **Rise in Rupee Value** (1 Dollar = ₹60 → 1 Dollar = ₹30) | **Rupee Appreciation**                       | **Rupee Revaluation** (RBI sells dollars → sucks out rupees) |
 
 ### Comparative Analysis: What is Good for the Economy ?
 * **Rupee Depreciation**: Makes essential imports (Crude Oil) costly → Triggers **Imported Inflation**.
