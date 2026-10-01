@@ -1,18 +1,18 @@
-# BLOCK 01: INTRODUCING ANTHROPOLOGY
+# INTRODUCING ANTHROPOLOGY
 
 ---
 
-## UNIT 1: DEFINING ANTHROPOLOGY
+## DEFINING ANTHROPOLOGY
 
-### 1.1 Introduction
+### Introduction
 * **Anthropology** = Holistic science dedicated to total study of humankind across time and space.
 * **Core Approach** = Integration of biological, cultural, and linguistic perspectives to understand human diversity and variation.
 
 ---
 
-### 1.2 Emergence of Anthropology
+### Emergence of Anthropology
 
-#### 1.2.1 Historical Emergence
+#### Historical Emergence
 * **5th Century B.C. Roots** → **Herodotus** recorded travel narratives on diverse customs → Earliest ethnographic observations.
 * **19th Century Formalization** → Emerged as distinct academic discipline.
 * **European Explorations (15th–19th C.)** → Voyagers (**Columbus**), traders, missionaries, colonial officials encounter "Other Cultures" → Superimposed European ethnocentric narratives.
@@ -21,7 +21,7 @@
 * **First Evolutionary Theory** → **Henry Lewis Morgan** propounded **Theory of Unilinear Evolution** (based on travel accounts + early fieldwork).
 * **Indian Context** → Initiated by British administrators & missionaries → Monographs on tribes → Tool to consolidate colonial rule.
 
-#### 1.2.2 Understanding Diversity and Variety
+#### Understanding Diversity and Variety
 * **Diversity** = Broad category covering a wide range of distinct groups, customs, or things.
 * **Variety** = Smaller category defining specific variations within the same group or entity.
 * **Biological vs. Cultural Paradox**:
@@ -31,7 +31,7 @@
   1. **Objectives/Aims** → Holistic study of human beings across biological and socio-cultural dimensions.
   2. **Subject Matter** → Comparative study of differences → Identification of similarities → Formulation of universal anthropological theories.
 
-#### 1.2.3 Race and Ethnicity / Ethnic Conflict
+#### Race and Ethnicity or Ethnic Conflict
 * **Biological Construct of Race** = Scientific fallacy; colonial construct designed to represent non-Western populations as inferior.
 * **Post-WWII Consensus**:
   * **UN & UNESCO Statements on Race** → Race is biological with no inherent hierarchy → No race is superior to another.
@@ -41,7 +41,7 @@
   * **Hutu & Tutsi** → Shared same geographical area, language, and physical traits (minimal anthropometric variation).
   * **Belgian Colonial Rule (1930s)** → Issued identity cards based on cattle ownership, church records, and physical measurements → Created artificial racial distinction → Escalated into **1994 Genocide**.
 
-#### 1.2.4 Understanding Diversity and Variation in the Indian Context
+#### Understanding Diversity and Variation in The Indian Context
 * **Indian Society** = Multicultural, democratic, and highly diverse.
 * **Pioneering Tribal Monographs** → **S.C. Roy**, **M.N. Srinivas**.
 * **Key Analytical Concepts**:
@@ -54,7 +54,7 @@
 
 ---
 
-### 1.3 Comparative Study of Culture and Population
+### Comparative Study of Culture and Population
 
 * **Comparative Method** = Ancient & foundational method of anthropological investigation.
 * **3 Levels of Comparison**:
@@ -65,14 +65,14 @@
   1. Historical reconstruction → Discovering laws governing social processes.
   2. Classification of social systems (caste, class, groups).
 
-#### 1.3.1 Development of Comparative Method in Social Anthropology
+#### Development of Comparative Method in Social Anthropology
 * **Émile Durkheim** (*Rules of Sociological Method*, 1895) → First used comparative method as a reliable tool for data generation & discovering scientific social laws.
 * **Franz Boas** → Contested Durkheim's approach → Criticized sweeping generalizations made without detailed context.
 * **A.R. Radcliffe-Brown** (1955 Huxley Memorial Lecture) → Advocated comparative method for restructuring human social history.
 * **E.E. Evans-Pritchard** (1963 Hobhouse Lecture) → Critiqued Radcliffe-Brown's use as merely an "illustrative method".
 * **Indian Exponents** → **D.N. Majumdar**, **N.K. Bose**, **Irawati Karve**.
 
-#### 1.3.2 Relevance of Comparative Method: Present Perspective
+#### Relevance of Comparative Method: Present Perspective
 * **Major Critique** → Comparison of "primitive" vs. "civilized" societies → Biased, ethnocentric analysis.
 * **Contemporary Applications**:
   * **Population Genetics** → Comparing gene frequencies across populations to detect biological variation.
@@ -80,20 +80,20 @@
 
 ---
 
-## UNIT 2: MEANING, SCOPE AND BACKGROUND
+## MEANING, SCOPE AND BACKGROUND
 
-### 2.1 Introduction
+### Introduction
 * **Goal of Discipline** → Integrated understanding of *Homo sapiens* across cultural, biological, evolutionary, linguistic, and historical lines.
 
 ---
 
-### 2.2 Anthropology, Its Meaning and Scope
+### Anthropology, Its Meaning and Scope
 * **Etymology** → Greek *Anthropos* (human/mankind) + *Logos* (study/science) = Science of human beings.
 * **Core Premise** → Humans are biological organisms and cultural beings simultaneously.
 
 ---
 
-### 2.3 Anthropology and Its Background during Renaissance
+### Anthropology and Its Background During Renaissance
 
 #### Classical Antiquity (Greco-Roman Roots)
 * **Herodotus (5th C. B.C.)** = "Father of History" & "Father of Anthropology" (*History* detailing customs of Egyptians, Libyans, Scythians, Thracians).
@@ -124,13 +124,13 @@
 
 ---
 
-### 2.4 Anthropology as a Natural and Social Science
+### Anthropology as a Natural and Social Science
 * **Bridge Discipline** = Connects Natural Sciences (biology, evolution, genetics) with Social Sciences (culture, society, institutions).
 * **Dual Focus** → Biological origin of man + Cultural evolution of human societies.
 
 ---
 
-### 2.5 Anthropology and Colonialism
+### Anthropology and Colonialism
 * **Late 1870s Professionalization** ← Driven by Western colonial expansion & administrative control over indigenous populations.
   * **USA Example** → Government hired anthropologists via Bureau of Indian Affairs to administer Native Americans placed on reservations.
 * **1870s–1880s Museum Era** → Growth of qualitative and quantitative ethnographic documentation.
@@ -138,7 +138,7 @@
 
 ---
 
-### 2.6 Holistic Perspective: Cultural and Biological
+### Holistic Perspective: Cultural and Biological
 * **Holism** = Core distinguishing feature of anthropology.
 * **3 Dimensions of Anthropological Holism**:
   1. **Temporal Depth** → From earliest hominid origins (millions of years ago) to contemporary societies.
@@ -152,16 +152,16 @@
 
 ---
 
-## UNIT 3: BRANCHES OF ANTHROPOLOGY
+## BRANCHES OF ANTHROPOLOGY
 
-### 3.1 Introduction
+### Introduction
 * **Integrative Science** → Combines knowledge from humanities, social sciences, biological sciences, and physical sciences.
 
 ---
 
-### 3.2 Physical/Biological Anthropology
+### Physical or Biological Anthropology
 
-#### 3.2.1 History and Development
+#### History and Development
 * **Pioneers in USA**:
   * **Aleš Hrdlička** (1860–1943; Smithsonian) → Founded *American Journal of Physical Anthropology* (1918) & AAPA (1930).
   * **Earnest A. Hooton** (1887–1954; Harvard) → Trained key physical anthropologists (**Harry L. Shapiro**, **Carleton S. Coon**).
@@ -170,7 +170,7 @@
 * **1950s–1960s Paradigm Shift** → **Sherwood Washburn** (student of Hooton) → Replaced pure anthropometry/race focus with primatology, paleoanthropology, & modern fieldwork.
 * **Naturalistic Field Scholars** → **L.S.B. Leakey**, **Jane Goodall**, **Dian Fossey**.
 
-#### 3.2.2 Current Fields of Study
+#### Current Fields of Study
 * **Paleoanthropology** = Combines paleontology & physical anthropology → Reconstructs hominid evolutionary tree from fossil hominids, artifacts, geological & burial evidence.
 * **Primatology** = Study of living non-human primates → Evolutionary comparison with humans.
 * **Human Genetics & Biological Variability** = Mutation, population variations, and biological bases of behavior.
@@ -180,16 +180,16 @@
 
 ---
 
-### 3.3 Socio-Cultural Anthropology
+### Socio-Cultural Anthropology
 
-#### 3.3.1 History and Development
+#### History and Development
 * **Origin** → Grew out of 19th-century **Ethnology** (= Science of origins, behavior, and institutions of diverse societies).
 * **Early Roots** → 5th Century B.C. Greek narratives (**Herodotus**).
 * **19th Century Colonial Nexus** → Expansion of European administrative curiosity over colonized subjects.
 * **Fieldwork Revolution**:
   * **Franz Boas** (Baffin Island) → **Historical Particularism** + **Cultural Relativism** + Diffusionism → Denounced armchair anthropology.
 
-#### 3.3.2 Current Fields of Study / Theoretical Schools
+#### Current Fields of Study or Theoretical Schools
 * **British Functionalism**:
   * **Bronisław Malinowski** (Trobriand Islands) → **Functionalism** (Social institutions exist to satisfy individual biological/psychological needs).
 * **Structural Functionalism**:
@@ -207,12 +207,12 @@
 
 ---
 
-### 3.4 Archaeological Anthropology
+### Archaeological Anthropology
 
-#### 3.4.1 History and Development
+#### History and Development
 * **Definition (Walter Taylor)** = Autonomous discipline with specialized techniques to recover, record, analyze, and classify material culture to interpret past behavior.
 
-#### 3.4.2 Current Fields of Study
+#### Current Fields of Study
 * **Paleoanthropology** = Focuses on Palaeolithic societies, fossil hominids, and burial sites.
 * **Environmental Archaeology** = Reconstructs past human-environment interactions using fossil plants, animal bones, pollen cores, and river course changes.
 * **Ethno-archaeology** = Uses ethnographic observations of living societies to interpret past material culture, religious beliefs, and social structures.
@@ -230,9 +230,9 @@
 
 ---
 
-### 3.5 Linguistic Anthropology
+### Linguistic Anthropology
 
-#### 3.5.1 History and Development
+#### History and Development
 * **Sapir-Whorf Hypothesis** (**Edward Sapir** & **Benjamin Lee Whorf**; coined by **Harry Hoijer**):
   * **Linguistic Relativity** = Structure of a language influences thought processes, which shape cultural behavior.
 * **Benjamin Lee Whorf (1950s)** → Categorized grammar into overt vs. covert → Developed **Metapragmatics**.
@@ -242,7 +242,7 @@
 * **Establishment of Discipline (1960s, USA)**:
   * **Dell Hymes** → Coined term *Linguistic Anthropology* & initiated **Ethnography of Communication** (with **John Gumperz**).
 
-#### 3.5.2 Current Fields of Study
+#### Current Fields of Study
 * **Linguistic Performance & Identity** = Speech acts as social actions constructing identity and group boundary.
 * **Language Socialization (1984)**:
   * **Elinor Ochs** & **Bambi Schieffelin** → Dual process: (a) Socialization *through* language, (b) Socialization *to* language → Acquisition of communicative competence.
@@ -252,19 +252,19 @@
 
 ---
 
-## UNIT 4: EMERGING FRONTIERS
+## EMERGING FRONTIERS
 
-### 4.1 Introduction
+### Introduction
 * **Applied Focus** → Practical utility of anthropological methods and knowledge across administration, policy, and market economies.
 
 ---
 
-### 4.2 Anthropology — As an Applied Discipline
+### Anthropology - As an Applied Discipline
 * **Term Coined By** → **Daniel G. Brinton** (USA).
 * **Landmark Project** → **Vicos Project (Peru)** led by **Allan Holmberg** (Cornell University) → Paternalistic reform scheme transferring land/power to local producers.
 * **Indian Pioneer Example** → **S.C. Roy** resolved flag dispute among Oraons of Chhotanagpur.
 
-#### 4.2.1 History and Its Development
+#### History and Its Development
 * **British Imperial Origins**:
   * **E.B. Tylor** → Termed anthropology a "policy science".
   * **Northcote Thomas (1908)** → First official government anthropologist in Nigeria.
@@ -280,14 +280,14 @@
   * USAID → Evaluated socio-cultural impacts of health and technology policies.
   * **1978 *Practicing Anthropology* Journal** → Launched by SfAA to bridge theory and practice.
 
-#### 4.2.2 Present Scenario
+#### Present Scenario
 * **Non-Academic Practice** → Applied anthropologists work in corporations, government agencies, healthcare centers, NGOs, disaster management, and resettlement projects.
 
 ---
 
-### 4.3 Emerging Fields in Anthropology
+### Emerging Fields in Anthropology
 
-#### 4.3.1 Anthropology in Management and Corporate World
+#### Anthropology in Management and Corporate World
 * **Business Anthropology** (**Marietta Baba**, 1997) → 3 Main Domains:
   1. Production of goods and services within industrial/organizational settings.
   2. Ethnographic design of products and services for consumers.
@@ -296,20 +296,20 @@
 * **Organizational Analysis**:
   * **Mary Douglas** (*How Institutions Think*) → Distinguishes "organizing" (process) vs. "instituting" (rules/coordination establishing an institution).
 
-#### 4.3.2 Anthropology in Policy Making and Governance
+#### Anthropology in Policy Making and Governance
 
-##### 4.3.2.1 Historical Background
+##### Historical Background
 * **British Colonial Administration** → Training centers established; 1929 Anthropological Surveys instituted by **Bronisław Malinowski**.
 * **US Government & WWII Military Strategy**:
   * Anthropologists analyzed Japanese culture and national character → Revealed preference for honorable death over capture disgrace + supreme divine authority of Emperor → Guided US military decisions & post-war occupation strategy.
   * **Clyde Kluckhohn** → Documented extensive placement of anthropologists across US government departments (War, State, Peace Corps).
 
-##### 4.3.2.2 Indian Context
+##### Indian Context
 * **1807 Pre-Colonial Survey** → British East India Company appointed **Francis Buchanan** for ethnographical surveys.
 * **Colonial Handbooks & Gazetteers** → **H.H. Risley**, **E.T. Dalton**, **W.V. Grigson**, **E. Thurston**.
 * **Tribal Policy Formulators** → **Verrier Elwin**, **C. von Fürer-Haimendorf** (concept of tribe & policy); **S.C. Roy** (tribal rights advocate).
 * **Post-Independence Policy Impact**:
   * **N.K. Bose**, **D.N. Majumdar**, **A. Aiyappan** → Framed constitutional safeguards for Scheduled Castes (SCs) and Scheduled Tribes (STs) → Guided national development programs and socio-economic amelioration.
 
-##### 4.3.2.3 Present Context
+##### Present Context
 * **Expanded Scope** → Beyond rural/tribal studies into health/nutrition status, family welfare, elder care, disability rights, labor unrest, adult literacy, and urban planning.
